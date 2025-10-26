@@ -1,0 +1,2064 @@
+review,sentiment,label,review_cleaned
+"Dịch vụ xuất sắc, nhân viên thân thiện",positive,2,"dịch vụ xuất sắc, nhân viên thân thiện"
+"Dịch vụ tệ, không bao giờ mua nữa",negative,0,"dịch vụ tệ, không bao giờ mua nữa"
+"Hàng đẹp, giao nhanh, đóng gói kỹ",positive,2,"hàng đẹp, giao nhanh, đóng gói kỹ"
+"Tạm được, giá hơi cao",neutral,1,"tạm được, giá hơi cao"
+"Tệ, hàng nhái, không nên mua",negative,0,"tệ, hàng nhái, không nên mua"
+"Trải nghiệm tuyệt vời, sẽ giới thiệu bạn bè",positive,2,"trải nghiệm tuyệt vời, sẽ giới thiệu bạn bè"
+Rất thất vọng với chất lượng sản phẩm,negative,0,rất thất vọng với chất lượng sản phẩm
+"Sản phẩm rất tốt, tôi rất hài lòng",positive,2,"sản phẩm rất tốt, tôi rất hài lòng"
+"Không hài lòng, hàng bị hỏng",negative,0,"không hài lòng, hàng bị hỏng"
+"Rất thích, shop phục vụ nhiệt tình",positive,2,"rất thích, shop phục vụ nhiệt tình"
+"Không hài lòng, hàng bị hỏng",negative,0,"không hài lòng, hàng bị hỏng"
+"Sản phẩm rất tốt, tôi rất hài lòng",positive,2,"sản phẩm rất tốt, tôi rất hài lòng"
+"Rất thích, shop phục vụ nhiệt tình",positive,2,"rất thích, shop phục vụ nhiệt tình"
+"Bình thường, chưa có gì đặc biệt",neutral,1,"bình thường, chưa có gì đặc biệt"
+"Thất vọng, không đáng tiền",negative,0,"thất vọng, không đáng tiền"
+"Nhận được hàng rồi, đang dùng thử",neutral,1,"nhận được hàng rồi, đang dùng thử"
+"Dịch vụ tệ, không bao giờ mua nữa",negative,0,"dịch vụ tệ, không bao giờ mua nữa"
+"Rất tệ, giao hàng lâu, hàng lỗi",negative,0,"rất tệ, giao hàng lâu, hàng lỗi"
+"Sản phẩm kém chất lượng, không như quảng cáo",negative,0,"sản phẩm kém chất lượng, không như quảng cáo"
+"Tệ, hàng nhái, không nên mua",negative,0,"tệ, hàng nhái, không nên mua"
+"Sản phẩm rất tốt, tôi rất hài lòng",positive,2,"sản phẩm rất tốt, tôi rất hài lòng"
+Giao hàng nhanh và đóng gói cẩn thận,positive,2,giao hàng nhanh và đóng gói cẩn thận
+"Rất tệ, giao hàng lâu, hàng lỗi",negative,0,"rất tệ, giao hàng lâu, hàng lỗi"
+"Sản phẩm đúng mô tả, đẹp hơn hình",positive,2,"sản phẩm đúng mô tả, đẹp hơn hình"
+"Hàng đẹp, giao nhanh, đóng gói kỹ",positive,2,"hàng đẹp, giao nhanh, đóng gói kỹ"
+"Vừa vừa thôi, không xuất sắc lắm",neutral,1,"vừa vừa thôi, không xuất sắc lắm"
+Đóng gói tốt nhưng sản phẩm chưa dùng,neutral,1,đóng gói tốt nhưng sản phẩm chưa dùng
+"Không tốt cũng không tệ, trung bình",neutral,1,"không tốt cũng không tệ, trung bình"
+"Tạm được, giá hơi cao",neutral,1,"tạm được, giá hơi cao"
+Chất lượng tạm ổn với mức giá này,neutral,1,chất lượng tạm ổn với mức giá này
+"Thất vọng, không đáng tiền",negative,0,"thất vọng, không đáng tiền"
+"Sản phẩm rất tốt, tôi rất hài lòng",positive,2,"sản phẩm rất tốt, tôi rất hài lòng"
+"Dịch vụ tệ, không bao giờ mua nữa",negative,0,"dịch vụ tệ, không bao giờ mua nữa"
+Đóng gói tốt nhưng sản phẩm chưa dùng,neutral,1,đóng gói tốt nhưng sản phẩm chưa dùng
+"Vừa vừa thôi, không xuất sắc lắm",neutral,1,"vừa vừa thôi, không xuất sắc lắm"
+"Giá cả hợp lý, chất lượng tuyệt vời",positive,2,"giá cả hợp lý, chất lượng tuyệt vời"
+"Tạm được, giá hơi cao",neutral,1,"tạm được, giá hơi cao"
+"Sản phẩm đúng mô tả, đẹp hơn hình",positive,2,"sản phẩm đúng mô tả, đẹp hơn hình"
+"Tạm được, giá hơi cao",neutral,1,"tạm được, giá hơi cao"
+"Hàng giả, chất lượng kém, rất tệ",negative,0,"hàng giả, chất lượng kém, rất tệ"
+"Dịch vụ tệ, không bao giờ mua nữa",negative,0,"dịch vụ tệ, không bao giờ mua nữa"
+"Không như mong đợi, quá tệ",negative,0,"không như mong đợi, quá tệ"
+"Rất tệ, giao hàng lâu, hàng lỗi",negative,0,"rất tệ, giao hàng lâu, hàng lỗi"
+"Vừa vừa thôi, không xuất sắc lắm",neutral,1,"vừa vừa thôi, không xuất sắc lắm"
+"Tạm được, giá hơi cao",neutral,1,"tạm được, giá hơi cao"
+"Rất tệ, giao hàng lâu, hàng lỗi",negative,0,"rất tệ, giao hàng lâu, hàng lỗi"
+"Rất đáng tiền, chất lượng tốt",positive,2,"rất đáng tiền, chất lượng tốt"
+"Dịch vụ tệ, không bao giờ mua nữa",negative,0,"dịch vụ tệ, không bao giờ mua nữa"
+"Sản phẩm đúng mô tả, đẹp hơn hình",positive,2,"sản phẩm đúng mô tả, đẹp hơn hình"
+"Dịch vụ tệ, không bao giờ mua nữa",negative,0,"dịch vụ tệ, không bao giờ mua nữa"
+"Hàng đẹp, giao nhanh, đóng gói kỹ",positive,2,"hàng đẹp, giao nhanh, đóng gói kỹ"
+Đóng gói tốt nhưng sản phẩm chưa dùng,neutral,1,đóng gói tốt nhưng sản phẩm chưa dùng
+"Tạm được, giá hơi cao",neutral,1,"tạm được, giá hơi cao"
+"Nhận được hàng rồi, đang dùng thử",neutral,1,"nhận được hàng rồi, đang dùng thử"
+"Không như mong đợi, quá tệ",negative,0,"không như mong đợi, quá tệ"
+"Giao sai hàng, phục vụ kém",negative,0,"giao sai hàng, phục vụ kém"
+"Giá cả hợp lý, chất lượng tuyệt vời",positive,2,"giá cả hợp lý, chất lượng tuyệt vời"
+"Sản phẩm rất tốt, tôi rất hài lòng",positive,2,"sản phẩm rất tốt, tôi rất hài lòng"
+Giao hàng nhanh và đóng gói cẩn thận,positive,2,giao hàng nhanh và đóng gói cẩn thận
+"Vừa vừa thôi, không xuất sắc lắm",neutral,1,"vừa vừa thôi, không xuất sắc lắm"
+"Tệ, hàng nhái, không nên mua",negative,0,"tệ, hàng nhái, không nên mua"
+"Không hài lòng, hàng bị hỏng",negative,0,"không hài lòng, hàng bị hỏng"
+"Trải nghiệm tuyệt vời, sẽ giới thiệu bạn bè",positive,2,"trải nghiệm tuyệt vời, sẽ giới thiệu bạn bè"
+"Sản phẩm như mô tả, không có gì nổi bật",neutral,1,"sản phẩm như mô tả, không có gì nổi bật"
+"Sản phẩm bình thường, tạm được",neutral,1,"sản phẩm bình thường, tạm được"
+"Thất vọng, không đáng tiền",negative,0,"thất vọng, không đáng tiền"
+"Sản phẩm kém chất lượng, không như quảng cáo",negative,0,"sản phẩm kém chất lượng, không như quảng cáo"
+"Sản phẩm bình thường, tạm được",neutral,1,"sản phẩm bình thường, tạm được"
+"Tệ, hàng nhái, không nên mua",negative,0,"tệ, hàng nhái, không nên mua"
+"Sản phẩm bình thường, tạm được",neutral,1,"sản phẩm bình thường, tạm được"
+"Vừa vừa thôi, không xuất sắc lắm",neutral,1,"vừa vừa thôi, không xuất sắc lắm"
+"Trải nghiệm tuyệt vời, sẽ giới thiệu bạn bè",positive,2,"trải nghiệm tuyệt vời, sẽ giới thiệu bạn bè"
+"Sản phẩm như mô tả, không có gì nổi bật",neutral,1,"sản phẩm như mô tả, không có gì nổi bật"
+Đóng gói tốt nhưng sản phẩm chưa dùng,neutral,1,đóng gói tốt nhưng sản phẩm chưa dùng
+Giao hàng hơi lâu nhưng sản phẩm ổn,neutral,1,giao hàng hơi lâu nhưng sản phẩm ổn
+"Sản phẩm như mô tả, không có gì nổi bật",neutral,1,"sản phẩm như mô tả, không có gì nổi bật"
+"Hàng giả, chất lượng kém, rất tệ",negative,0,"hàng giả, chất lượng kém, rất tệ"
+"Sản phẩm đúng mô tả, đẹp hơn hình",positive,2,"sản phẩm đúng mô tả, đẹp hơn hình"
+Rất thất vọng với chất lượng sản phẩm,negative,0,rất thất vọng với chất lượng sản phẩm
+"Không như mong đợi, quá tệ",negative,0,"không như mong đợi, quá tệ"
+"Không như mong đợi, quá tệ",negative,0,"không như mong đợi, quá tệ"
+"Rất thích, shop phục vụ nhiệt tình",positive,2,"rất thích, shop phục vụ nhiệt tình"
+Rất thất vọng với chất lượng sản phẩm,negative,0,rất thất vọng với chất lượng sản phẩm
+"Bình thường, chưa có gì đặc biệt",neutral,1,"bình thường, chưa có gì đặc biệt"
+"Vừa vừa thôi, không xuất sắc lắm",neutral,1,"vừa vừa thôi, không xuất sắc lắm"
+"Sản phẩm đúng mô tả, đẹp hơn hình",positive,2,"sản phẩm đúng mô tả, đẹp hơn hình"
+"Sản phẩm đúng mô tả, đẹp hơn hình",positive,2,"sản phẩm đúng mô tả, đẹp hơn hình"
+"Bình thường, chưa có gì đặc biệt",neutral,1,"bình thường, chưa có gì đặc biệt"
+"Rất tệ, giao hàng lâu, hàng lỗi",negative,0,"rất tệ, giao hàng lâu, hàng lỗi"
+"Thất vọng, không đáng tiền",negative,0,"thất vọng, không đáng tiền"
+"Hàng giả, chất lượng kém, rất tệ",negative,0,"hàng giả, chất lượng kém, rất tệ"
+Chất lượng tạm ổn với mức giá này,neutral,1,chất lượng tạm ổn với mức giá này
+"Giao sai hàng, phục vụ kém",negative,0,"giao sai hàng, phục vụ kém"
+"Tệ, hàng nhái, không nên mua",negative,0,"tệ, hàng nhái, không nên mua"
+"Không hài lòng, hàng bị hỏng",negative,0,"không hài lòng, hàng bị hỏng"
+"Trải nghiệm tuyệt vời, sẽ giới thiệu bạn bè",positive,2,"trải nghiệm tuyệt vời, sẽ giới thiệu bạn bè"
+"Sản phẩm đúng mô tả, đẹp hơn hình",positive,2,"sản phẩm đúng mô tả, đẹp hơn hình"
+"Tạm được, giá hơi cao",neutral,1,"tạm được, giá hơi cao"
+"Không như mong đợi, quá tệ",negative,0,"không như mong đợi, quá tệ"
+"Sản phẩm như mô tả, không có gì nổi bật",neutral,1,"sản phẩm như mô tả, không có gì nổi bật"
+Giao hàng nhanh và đóng gói cẩn thận,positive,2,giao hàng nhanh và đóng gói cẩn thận
+"Tệ, hàng nhái, không nên mua",negative,0,"tệ, hàng nhái, không nên mua"
+"Giá cả hợp lý, chất lượng tuyệt vời",positive,2,"giá cả hợp lý, chất lượng tuyệt vời"
+"Vừa vừa thôi, không xuất sắc lắm",neutral,1,"vừa vừa thôi, không xuất sắc lắm"
+"Hàng giả, chất lượng kém, rất tệ",negative,0,"hàng giả, chất lượng kém, rất tệ"
+"Giao sai hàng, phục vụ kém",negative,0,"giao sai hàng, phục vụ kém"
+"Hàng đẹp, giao nhanh, đóng gói kỹ",positive,2,"hàng đẹp, giao nhanh, đóng gói kỹ"
+Rất thất vọng với chất lượng sản phẩm,negative,0,rất thất vọng với chất lượng sản phẩm
+"Shop uy tín, sẽ tiếp tục ủng hộ",positive,2,"shop uy tín, sẽ tiếp tục ủng hộ"
+"Rất đáng tiền, chất lượng tốt",positive,2,"rất đáng tiền, chất lượng tốt"
+"Tệ, hàng nhái, không nên mua",negative,0,"tệ, hàng nhái, không nên mua"
+"Dịch vụ tệ, không bao giờ mua nữa",negative,0,"dịch vụ tệ, không bao giờ mua nữa"
+"Hàng giả, chất lượng kém, rất tệ",negative,0,"hàng giả, chất lượng kém, rất tệ"
+"Sản phẩm rất tốt, tôi rất hài lòng",positive,2,"sản phẩm rất tốt, tôi rất hài lòng"
+"Hàng giả, chất lượng kém, rất tệ",negative,0,"hàng giả, chất lượng kém, rất tệ"
+"Rất thích, shop phục vụ nhiệt tình",positive,2,"rất thích, shop phục vụ nhiệt tình"
+"Sản phẩm bình thường, tạm được",neutral,1,"sản phẩm bình thường, tạm được"
+"Tệ, hàng nhái, không nên mua",negative,0,"tệ, hàng nhái, không nên mua"
+"Shop uy tín, sẽ tiếp tục ủng hộ",positive,2,"shop uy tín, sẽ tiếp tục ủng hộ"
+Rất thất vọng với chất lượng sản phẩm,negative,0,rất thất vọng với chất lượng sản phẩm
+"Sản phẩm như mô tả, không có gì nổi bật",neutral,1,"sản phẩm như mô tả, không có gì nổi bật"
+"Rất tệ, giao hàng lâu, hàng lỗi",negative,0,"rất tệ, giao hàng lâu, hàng lỗi"
+"Sản phẩm như mô tả, không có gì nổi bật",neutral,1,"sản phẩm như mô tả, không có gì nổi bật"
+"Sản phẩm kém chất lượng, không như quảng cáo",negative,0,"sản phẩm kém chất lượng, không như quảng cáo"
+"Nhận được hàng rồi, đang dùng thử",neutral,1,"nhận được hàng rồi, đang dùng thử"
+Chất lượng tạm ổn với mức giá này,neutral,1,chất lượng tạm ổn với mức giá này
+"Vừa vừa thôi, không xuất sắc lắm",neutral,1,"vừa vừa thôi, không xuất sắc lắm"
+"Sản phẩm bình thường, tạm được",neutral,1,"sản phẩm bình thường, tạm được"
+"Hàng giả, chất lượng kém, rất tệ",negative,0,"hàng giả, chất lượng kém, rất tệ"
+"Shop uy tín, sẽ tiếp tục ủng hộ",positive,2,"shop uy tín, sẽ tiếp tục ủng hộ"
+"Rất đáng tiền, chất lượng tốt",positive,2,"rất đáng tiền, chất lượng tốt"
+"Shop uy tín, sẽ tiếp tục ủng hộ",positive,2,"shop uy tín, sẽ tiếp tục ủng hộ"
+"Nhận được hàng rồi, đang dùng thử",neutral,1,"nhận được hàng rồi, đang dùng thử"
+"Sản phẩm bình thường, tạm được",neutral,1,"sản phẩm bình thường, tạm được"
+"Không tốt cũng không tệ, trung bình",neutral,1,"không tốt cũng không tệ, trung bình"
+"Sản phẩm đúng mô tả, đẹp hơn hình",positive,2,"sản phẩm đúng mô tả, đẹp hơn hình"
+"Tạm được, giá hơi cao",neutral,1,"tạm được, giá hơi cao"
+"Trải nghiệm tuyệt vời, sẽ giới thiệu bạn bè",positive,2,"trải nghiệm tuyệt vời, sẽ giới thiệu bạn bè"
+"Sản phẩm kém chất lượng, không như quảng cáo",negative,0,"sản phẩm kém chất lượng, không như quảng cáo"
+"Dịch vụ tệ, không bao giờ mua nữa",negative,0,"dịch vụ tệ, không bao giờ mua nữa"
+"Sản phẩm như mô tả, không có gì nổi bật",neutral,1,"sản phẩm như mô tả, không có gì nổi bật"
+"Shop uy tín, sẽ tiếp tục ủng hộ",positive,2,"shop uy tín, sẽ tiếp tục ủng hộ"
+"Dịch vụ xuất sắc, nhân viên thân thiện",positive,2,"dịch vụ xuất sắc, nhân viên thân thiện"
+"Sản phẩm rất tốt, tôi rất hài lòng",positive,2,"sản phẩm rất tốt, tôi rất hài lòng"
+"Shop uy tín, sẽ tiếp tục ủng hộ",positive,2,"shop uy tín, sẽ tiếp tục ủng hộ"
+"Sản phẩm như mô tả, không có gì nổi bật",neutral,1,"sản phẩm như mô tả, không có gì nổi bật"
+"Nhận được hàng rồi, đang dùng thử",neutral,1,"nhận được hàng rồi, đang dùng thử"
+Giao hàng hơi lâu nhưng sản phẩm ổn,neutral,1,giao hàng hơi lâu nhưng sản phẩm ổn
+"Rất tệ, giao hàng lâu, hàng lỗi",negative,0,"rất tệ, giao hàng lâu, hàng lỗi"
+"Rất đáng tiền, chất lượng tốt",positive,2,"rất đáng tiền, chất lượng tốt"
+"Rất tệ, giao hàng lâu, hàng lỗi",negative,0,"rất tệ, giao hàng lâu, hàng lỗi"
+"Tệ, hàng nhái, không nên mua",negative,0,"tệ, hàng nhái, không nên mua"
+"Thất vọng, không đáng tiền",negative,0,"thất vọng, không đáng tiền"
+"Dịch vụ xuất sắc, nhân viên thân thiện",positive,2,"dịch vụ xuất sắc, nhân viên thân thiện"
+Rất thất vọng với chất lượng sản phẩm,negative,0,rất thất vọng với chất lượng sản phẩm
+"Rất tệ, giao hàng lâu, hàng lỗi",negative,0,"rất tệ, giao hàng lâu, hàng lỗi"
+Giao hàng nhanh và đóng gói cẩn thận,positive,2,giao hàng nhanh và đóng gói cẩn thận
+"Trải nghiệm tuyệt vời, sẽ giới thiệu bạn bè",positive,2,"trải nghiệm tuyệt vời, sẽ giới thiệu bạn bè"
+"Không tốt cũng không tệ, trung bình",neutral,1,"không tốt cũng không tệ, trung bình"
+Giao hàng hơi lâu nhưng sản phẩm ổn,neutral,1,giao hàng hơi lâu nhưng sản phẩm ổn
+"Dịch vụ tệ, không bao giờ mua nữa",negative,0,"dịch vụ tệ, không bao giờ mua nữa"
+"Rất tệ, giao hàng lâu, hàng lỗi",negative,0,"rất tệ, giao hàng lâu, hàng lỗi"
+"Shop uy tín, sẽ tiếp tục ủng hộ",positive,2,"shop uy tín, sẽ tiếp tục ủng hộ"
+Chất lượng tạm ổn với mức giá này,neutral,1,chất lượng tạm ổn với mức giá này
+Đóng gói tốt nhưng sản phẩm chưa dùng,neutral,1,đóng gói tốt nhưng sản phẩm chưa dùng
+"Giao sai hàng, phục vụ kém",negative,0,"giao sai hàng, phục vụ kém"
+"Hàng đẹp, giao nhanh, đóng gói kỹ",positive,2,"hàng đẹp, giao nhanh, đóng gói kỹ"
+Chất lượng tạm ổn với mức giá này,neutral,1,chất lượng tạm ổn với mức giá này
+"Rất tệ, giao hàng lâu, hàng lỗi",negative,0,"rất tệ, giao hàng lâu, hàng lỗi"
+Đóng gói tốt nhưng sản phẩm chưa dùng,neutral,1,đóng gói tốt nhưng sản phẩm chưa dùng
+"Bình thường, chưa có gì đặc biệt",neutral,1,"bình thường, chưa có gì đặc biệt"
+"Hàng đẹp, giao nhanh, đóng gói kỹ",positive,2,"hàng đẹp, giao nhanh, đóng gói kỹ"
+"Trải nghiệm tuyệt vời, sẽ giới thiệu bạn bè",positive,2,"trải nghiệm tuyệt vời, sẽ giới thiệu bạn bè"
+"Thất vọng, không đáng tiền",negative,0,"thất vọng, không đáng tiền"
+Giao hàng nhanh và đóng gói cẩn thận,positive,2,giao hàng nhanh và đóng gói cẩn thận
+Chất lượng tạm ổn với mức giá này,neutral,1,chất lượng tạm ổn với mức giá này
+"Nhận được hàng rồi, đang dùng thử",neutral,1,"nhận được hàng rồi, đang dùng thử"
+"Dịch vụ tệ, không bao giờ mua nữa",negative,0,"dịch vụ tệ, không bao giờ mua nữa"
+"Nhận được hàng rồi, đang dùng thử",neutral,1,"nhận được hàng rồi, đang dùng thử"
+"Sản phẩm bình thường, tạm được",neutral,1,"sản phẩm bình thường, tạm được"
+"Vừa vừa thôi, không xuất sắc lắm",neutral,1,"vừa vừa thôi, không xuất sắc lắm"
+"Sản phẩm kém chất lượng, không như quảng cáo",negative,0,"sản phẩm kém chất lượng, không như quảng cáo"
+"Trải nghiệm tuyệt vời, sẽ giới thiệu bạn bè",positive,2,"trải nghiệm tuyệt vời, sẽ giới thiệu bạn bè"
+"Không tốt cũng không tệ, trung bình",neutral,1,"không tốt cũng không tệ, trung bình"
+Đóng gói tốt nhưng sản phẩm chưa dùng,neutral,1,đóng gói tốt nhưng sản phẩm chưa dùng
+"Sản phẩm đúng mô tả, đẹp hơn hình",positive,2,"sản phẩm đúng mô tả, đẹp hơn hình"
+Đóng gói tốt nhưng sản phẩm chưa dùng,neutral,1,đóng gói tốt nhưng sản phẩm chưa dùng
+"Tạm được, giá hơi cao",neutral,1,"tạm được, giá hơi cao"
+Đóng gói tốt nhưng sản phẩm chưa dùng,neutral,1,đóng gói tốt nhưng sản phẩm chưa dùng
+Đóng gói tốt nhưng sản phẩm chưa dùng,neutral,1,đóng gói tốt nhưng sản phẩm chưa dùng
+"Tạm được, giá hơi cao",neutral,1,"tạm được, giá hơi cao"
+"Hàng giả, chất lượng kém, rất tệ",negative,0,"hàng giả, chất lượng kém, rất tệ"
+Giao hàng nhanh và đóng gói cẩn thận,positive,2,giao hàng nhanh và đóng gói cẩn thận
+"Không tốt cũng không tệ, trung bình",neutral,1,"không tốt cũng không tệ, trung bình"
+"Dịch vụ xuất sắc, nhân viên thân thiện",positive,2,"dịch vụ xuất sắc, nhân viên thân thiện"
+"Rất tệ, giao hàng lâu, hàng lỗi",negative,0,"rất tệ, giao hàng lâu, hàng lỗi"
+"Sản phẩm như mô tả, không có gì nổi bật",neutral,1,"sản phẩm như mô tả, không có gì nổi bật"
+"Hàng đẹp, giao nhanh, đóng gói kỹ",positive,2,"hàng đẹp, giao nhanh, đóng gói kỹ"
+"Nhận được hàng rồi, đang dùng thử",neutral,1,"nhận được hàng rồi, đang dùng thử"
+"Giao sai hàng, phục vụ kém",negative,0,"giao sai hàng, phục vụ kém"
+"Không hài lòng, hàng bị hỏng",negative,0,"không hài lòng, hàng bị hỏng"
+"Dịch vụ tệ, không bao giờ mua nữa",negative,0,"dịch vụ tệ, không bao giờ mua nữa"
+"Nhận được hàng rồi, đang dùng thử",neutral,1,"nhận được hàng rồi, đang dùng thử"
+"Rất tệ, giao hàng lâu, hàng lỗi",negative,0,"rất tệ, giao hàng lâu, hàng lỗi"
+"Sản phẩm rất tốt, tôi rất hài lòng",positive,2,"sản phẩm rất tốt, tôi rất hài lòng"
+Rất thất vọng với chất lượng sản phẩm,negative,0,rất thất vọng với chất lượng sản phẩm
+"Nhận được hàng rồi, đang dùng thử",neutral,1,"nhận được hàng rồi, đang dùng thử"
+Đóng gói tốt nhưng sản phẩm chưa dùng,neutral,1,đóng gói tốt nhưng sản phẩm chưa dùng
+"Hàng đẹp, giao nhanh, đóng gói kỹ",positive,2,"hàng đẹp, giao nhanh, đóng gói kỹ"
+"Nhận được hàng rồi, đang dùng thử",neutral,1,"nhận được hàng rồi, đang dùng thử"
+"Nhận được hàng rồi, đang dùng thử",neutral,1,"nhận được hàng rồi, đang dùng thử"
+"Tệ, hàng nhái, không nên mua",negative,0,"tệ, hàng nhái, không nên mua"
+"Tạm được, giá hơi cao",neutral,1,"tạm được, giá hơi cao"
+Giao hàng nhanh và đóng gói cẩn thận,positive,2,giao hàng nhanh và đóng gói cẩn thận
+"Nhận được hàng rồi, đang dùng thử",neutral,1,"nhận được hàng rồi, đang dùng thử"
+Rất thất vọng với chất lượng sản phẩm,negative,0,rất thất vọng với chất lượng sản phẩm
+"Sản phẩm rất tốt, tôi rất hài lòng",positive,2,"sản phẩm rất tốt, tôi rất hài lòng"
+"Không hài lòng, hàng bị hỏng",negative,0,"không hài lòng, hàng bị hỏng"
+"Giao sai hàng, phục vụ kém",negative,0,"giao sai hàng, phục vụ kém"
+"Không tốt cũng không tệ, trung bình",neutral,1,"không tốt cũng không tệ, trung bình"
+"Nhận được hàng rồi, đang dùng thử",neutral,1,"nhận được hàng rồi, đang dùng thử"
+"Dịch vụ tệ, không bao giờ mua nữa",negative,0,"dịch vụ tệ, không bao giờ mua nữa"
+"Trải nghiệm tuyệt vời, sẽ giới thiệu bạn bè",positive,2,"trải nghiệm tuyệt vời, sẽ giới thiệu bạn bè"
+"Trải nghiệm tuyệt vời, sẽ giới thiệu bạn bè",positive,2,"trải nghiệm tuyệt vời, sẽ giới thiệu bạn bè"
+"Giá cả hợp lý, chất lượng tuyệt vời",positive,2,"giá cả hợp lý, chất lượng tuyệt vời"
+"Sản phẩm đúng mô tả, đẹp hơn hình",positive,2,"sản phẩm đúng mô tả, đẹp hơn hình"
+"Vừa vừa thôi, không xuất sắc lắm",neutral,1,"vừa vừa thôi, không xuất sắc lắm"
+"Tệ, hàng nhái, không nên mua",negative,0,"tệ, hàng nhái, không nên mua"
+"Sản phẩm kém chất lượng, không như quảng cáo",negative,0,"sản phẩm kém chất lượng, không như quảng cáo"
+Chất lượng tạm ổn với mức giá này,neutral,1,chất lượng tạm ổn với mức giá này
+"Hàng đẹp, giao nhanh, đóng gói kỹ",positive,2,"hàng đẹp, giao nhanh, đóng gói kỹ"
+"Rất thích, shop phục vụ nhiệt tình",positive,2,"rất thích, shop phục vụ nhiệt tình"
+"Không tốt cũng không tệ, trung bình",neutral,1,"không tốt cũng không tệ, trung bình"
+"Sản phẩm như mô tả, không có gì nổi bật",neutral,1,"sản phẩm như mô tả, không có gì nổi bật"
+"Sản phẩm bình thường, tạm được",neutral,1,"sản phẩm bình thường, tạm được"
+"Sản phẩm rất tốt, tôi rất hài lòng",positive,2,"sản phẩm rất tốt, tôi rất hài lòng"
+"Không tốt cũng không tệ, trung bình",neutral,1,"không tốt cũng không tệ, trung bình"
+"Dịch vụ xuất sắc, nhân viên thân thiện",positive,2,"dịch vụ xuất sắc, nhân viên thân thiện"
+Rất thất vọng với chất lượng sản phẩm,negative,0,rất thất vọng với chất lượng sản phẩm
+Rất thất vọng với chất lượng sản phẩm,negative,0,rất thất vọng với chất lượng sản phẩm
+"Bình thường, chưa có gì đặc biệt",neutral,1,"bình thường, chưa có gì đặc biệt"
+"Vừa vừa thôi, không xuất sắc lắm",neutral,1,"vừa vừa thôi, không xuất sắc lắm"
+"Dịch vụ tệ, không bao giờ mua nữa",negative,0,"dịch vụ tệ, không bao giờ mua nữa"
+"Giá cả hợp lý, chất lượng tuyệt vời",positive,2,"giá cả hợp lý, chất lượng tuyệt vời"
+"Sản phẩm đúng mô tả, đẹp hơn hình",positive,2,"sản phẩm đúng mô tả, đẹp hơn hình"
+"Rất đáng tiền, chất lượng tốt",positive,2,"rất đáng tiền, chất lượng tốt"
+"Hàng đẹp, giao nhanh, đóng gói kỹ",positive,2,"hàng đẹp, giao nhanh, đóng gói kỹ"
+"Tạm được, giá hơi cao",neutral,1,"tạm được, giá hơi cao"
+"Sản phẩm đúng mô tả, đẹp hơn hình",positive,2,"sản phẩm đúng mô tả, đẹp hơn hình"
+"Nhận được hàng rồi, đang dùng thử",neutral,1,"nhận được hàng rồi, đang dùng thử"
+"Hàng giả, chất lượng kém, rất tệ",negative,0,"hàng giả, chất lượng kém, rất tệ"
+Giao hàng nhanh và đóng gói cẩn thận,positive,2,giao hàng nhanh và đóng gói cẩn thận
+"Shop uy tín, sẽ tiếp tục ủng hộ",positive,2,"shop uy tín, sẽ tiếp tục ủng hộ"
+"Không như mong đợi, quá tệ",negative,0,"không như mong đợi, quá tệ"
+"Giá cả hợp lý, chất lượng tuyệt vời",positive,2,"giá cả hợp lý, chất lượng tuyệt vời"
+"Không như mong đợi, quá tệ",negative,0,"không như mong đợi, quá tệ"
+"Không tốt cũng không tệ, trung bình",neutral,1,"không tốt cũng không tệ, trung bình"
+"Dịch vụ xuất sắc, nhân viên thân thiện",positive,2,"dịch vụ xuất sắc, nhân viên thân thiện"
+"Bình thường, chưa có gì đặc biệt",neutral,1,"bình thường, chưa có gì đặc biệt"
+"Không như mong đợi, quá tệ",negative,0,"không như mong đợi, quá tệ"
+"Sản phẩm rất tốt, tôi rất hài lòng",positive,2,"sản phẩm rất tốt, tôi rất hài lòng"
+Chất lượng tạm ổn với mức giá này,neutral,1,chất lượng tạm ổn với mức giá này
+"Sản phẩm bình thường, tạm được",neutral,1,"sản phẩm bình thường, tạm được"
+"Giao sai hàng, phục vụ kém",negative,0,"giao sai hàng, phục vụ kém"
+"Rất thích, shop phục vụ nhiệt tình",positive,2,"rất thích, shop phục vụ nhiệt tình"
+"Sản phẩm như mô tả, không có gì nổi bật",neutral,1,"sản phẩm như mô tả, không có gì nổi bật"
+"Nhận được hàng rồi, đang dùng thử",neutral,1,"nhận được hàng rồi, đang dùng thử"
+"Sản phẩm như mô tả, không có gì nổi bật",neutral,1,"sản phẩm như mô tả, không có gì nổi bật"
+"Không hài lòng, hàng bị hỏng",negative,0,"không hài lòng, hàng bị hỏng"
+"Sản phẩm như mô tả, không có gì nổi bật",neutral,1,"sản phẩm như mô tả, không có gì nổi bật"
+Giao hàng hơi lâu nhưng sản phẩm ổn,neutral,1,giao hàng hơi lâu nhưng sản phẩm ổn
+Đóng gói tốt nhưng sản phẩm chưa dùng,neutral,1,đóng gói tốt nhưng sản phẩm chưa dùng
+"Shop uy tín, sẽ tiếp tục ủng hộ",positive,2,"shop uy tín, sẽ tiếp tục ủng hộ"
+"Dịch vụ tệ, không bao giờ mua nữa",negative,0,"dịch vụ tệ, không bao giờ mua nữa"
+"Hàng đẹp, giao nhanh, đóng gói kỹ",positive,2,"hàng đẹp, giao nhanh, đóng gói kỹ"
+"Rất đáng tiền, chất lượng tốt",positive,2,"rất đáng tiền, chất lượng tốt"
+"Trải nghiệm tuyệt vời, sẽ giới thiệu bạn bè",positive,2,"trải nghiệm tuyệt vời, sẽ giới thiệu bạn bè"
+"Sản phẩm bình thường, tạm được",neutral,1,"sản phẩm bình thường, tạm được"
+"Sản phẩm bình thường, tạm được",neutral,1,"sản phẩm bình thường, tạm được"
+"Rất đáng tiền, chất lượng tốt",positive,2,"rất đáng tiền, chất lượng tốt"
+"Tạm được, giá hơi cao",neutral,1,"tạm được, giá hơi cao"
+"Giao sai hàng, phục vụ kém",negative,0,"giao sai hàng, phục vụ kém"
+"Shop uy tín, sẽ tiếp tục ủng hộ",positive,2,"shop uy tín, sẽ tiếp tục ủng hộ"
+"Sản phẩm như mô tả, không có gì nổi bật",neutral,1,"sản phẩm như mô tả, không có gì nổi bật"
+"Rất thích, shop phục vụ nhiệt tình",positive,2,"rất thích, shop phục vụ nhiệt tình"
+"Dịch vụ tệ, không bao giờ mua nữa",negative,0,"dịch vụ tệ, không bao giờ mua nữa"
+Chất lượng tạm ổn với mức giá này,neutral,1,chất lượng tạm ổn với mức giá này
+"Sản phẩm đúng mô tả, đẹp hơn hình",positive,2,"sản phẩm đúng mô tả, đẹp hơn hình"
+"Hàng đẹp, giao nhanh, đóng gói kỹ",positive,2,"hàng đẹp, giao nhanh, đóng gói kỹ"
+"Bình thường, chưa có gì đặc biệt",neutral,1,"bình thường, chưa có gì đặc biệt"
+"Tạm được, giá hơi cao",neutral,1,"tạm được, giá hơi cao"
+"Sản phẩm đúng mô tả, đẹp hơn hình",positive,2,"sản phẩm đúng mô tả, đẹp hơn hình"
+"Tệ, hàng nhái, không nên mua",negative,0,"tệ, hàng nhái, không nên mua"
+"Thất vọng, không đáng tiền",negative,0,"thất vọng, không đáng tiền"
+"Vừa vừa thôi, không xuất sắc lắm",neutral,1,"vừa vừa thôi, không xuất sắc lắm"
+Rất thất vọng với chất lượng sản phẩm,negative,0,rất thất vọng với chất lượng sản phẩm
+"Hàng đẹp, giao nhanh, đóng gói kỹ",positive,2,"hàng đẹp, giao nhanh, đóng gói kỹ"
+Giao hàng hơi lâu nhưng sản phẩm ổn,neutral,1,giao hàng hơi lâu nhưng sản phẩm ổn
+Đóng gói tốt nhưng sản phẩm chưa dùng,neutral,1,đóng gói tốt nhưng sản phẩm chưa dùng
+"Bình thường, chưa có gì đặc biệt",neutral,1,"bình thường, chưa có gì đặc biệt"
+"Giao sai hàng, phục vụ kém",negative,0,"giao sai hàng, phục vụ kém"
+Giao hàng hơi lâu nhưng sản phẩm ổn,neutral,1,giao hàng hơi lâu nhưng sản phẩm ổn
+"Sản phẩm kém chất lượng, không như quảng cáo",negative,0,"sản phẩm kém chất lượng, không như quảng cáo"
+"Giao sai hàng, phục vụ kém",negative,0,"giao sai hàng, phục vụ kém"
+"Tạm được, giá hơi cao",neutral,1,"tạm được, giá hơi cao"
+"Dịch vụ tệ, không bao giờ mua nữa",negative,0,"dịch vụ tệ, không bao giờ mua nữa"
+"Sản phẩm bình thường, tạm được",neutral,1,"sản phẩm bình thường, tạm được"
+"Dịch vụ xuất sắc, nhân viên thân thiện",positive,2,"dịch vụ xuất sắc, nhân viên thân thiện"
+"Sản phẩm kém chất lượng, không như quảng cáo",negative,0,"sản phẩm kém chất lượng, không như quảng cáo"
+"Giao sai hàng, phục vụ kém",negative,0,"giao sai hàng, phục vụ kém"
+"Vừa vừa thôi, không xuất sắc lắm",neutral,1,"vừa vừa thôi, không xuất sắc lắm"
+"Không hài lòng, hàng bị hỏng",negative,0,"không hài lòng, hàng bị hỏng"
+"Rất đáng tiền, chất lượng tốt",positive,2,"rất đáng tiền, chất lượng tốt"
+"Không hài lòng, hàng bị hỏng",negative,0,"không hài lòng, hàng bị hỏng"
+"Rất thích, shop phục vụ nhiệt tình",positive,2,"rất thích, shop phục vụ nhiệt tình"
+Rất thất vọng với chất lượng sản phẩm,negative,0,rất thất vọng với chất lượng sản phẩm
+Rất thất vọng với chất lượng sản phẩm,negative,0,rất thất vọng với chất lượng sản phẩm
+"Rất thích, shop phục vụ nhiệt tình",positive,2,"rất thích, shop phục vụ nhiệt tình"
+Đóng gói tốt nhưng sản phẩm chưa dùng,neutral,1,đóng gói tốt nhưng sản phẩm chưa dùng
+"Sản phẩm đúng mô tả, đẹp hơn hình",positive,2,"sản phẩm đúng mô tả, đẹp hơn hình"
+"Tệ, hàng nhái, không nên mua",negative,0,"tệ, hàng nhái, không nên mua"
+"Sản phẩm rất tốt, tôi rất hài lòng",positive,2,"sản phẩm rất tốt, tôi rất hài lòng"
+Giao hàng hơi lâu nhưng sản phẩm ổn,neutral,1,giao hàng hơi lâu nhưng sản phẩm ổn
+"Trải nghiệm tuyệt vời, sẽ giới thiệu bạn bè",positive,2,"trải nghiệm tuyệt vời, sẽ giới thiệu bạn bè"
+"Giá cả hợp lý, chất lượng tuyệt vời",positive,2,"giá cả hợp lý, chất lượng tuyệt vời"
+"Nhận được hàng rồi, đang dùng thử",neutral,1,"nhận được hàng rồi, đang dùng thử"
+"Rất đáng tiền, chất lượng tốt",positive,2,"rất đáng tiền, chất lượng tốt"
+"Bình thường, chưa có gì đặc biệt",neutral,1,"bình thường, chưa có gì đặc biệt"
+"Shop uy tín, sẽ tiếp tục ủng hộ",positive,2,"shop uy tín, sẽ tiếp tục ủng hộ"
+"Tạm được, giá hơi cao",neutral,1,"tạm được, giá hơi cao"
+"Không như mong đợi, quá tệ",negative,0,"không như mong đợi, quá tệ"
+"Hàng đẹp, giao nhanh, đóng gói kỹ",positive,2,"hàng đẹp, giao nhanh, đóng gói kỹ"
+"Không hài lòng, hàng bị hỏng",negative,0,"không hài lòng, hàng bị hỏng"
+"Dịch vụ tệ, không bao giờ mua nữa",negative,0,"dịch vụ tệ, không bao giờ mua nữa"
+"Vừa vừa thôi, không xuất sắc lắm",neutral,1,"vừa vừa thôi, không xuất sắc lắm"
+"Rất đáng tiền, chất lượng tốt",positive,2,"rất đáng tiền, chất lượng tốt"
+"Nhận được hàng rồi, đang dùng thử",neutral,1,"nhận được hàng rồi, đang dùng thử"
+"Không hài lòng, hàng bị hỏng",negative,0,"không hài lòng, hàng bị hỏng"
+Giao hàng hơi lâu nhưng sản phẩm ổn,neutral,1,giao hàng hơi lâu nhưng sản phẩm ổn
+"Vừa vừa thôi, không xuất sắc lắm",neutral,1,"vừa vừa thôi, không xuất sắc lắm"
+"Thất vọng, không đáng tiền",negative,0,"thất vọng, không đáng tiền"
+"Không tốt cũng không tệ, trung bình",neutral,1,"không tốt cũng không tệ, trung bình"
+"Hàng đẹp, giao nhanh, đóng gói kỹ",positive,2,"hàng đẹp, giao nhanh, đóng gói kỹ"
+"Sản phẩm rất tốt, tôi rất hài lòng",positive,2,"sản phẩm rất tốt, tôi rất hài lòng"
+"Dịch vụ tệ, không bao giờ mua nữa",negative,0,"dịch vụ tệ, không bao giờ mua nữa"
+"Hàng đẹp, giao nhanh, đóng gói kỹ",positive,2,"hàng đẹp, giao nhanh, đóng gói kỹ"
+"Trải nghiệm tuyệt vời, sẽ giới thiệu bạn bè",positive,2,"trải nghiệm tuyệt vời, sẽ giới thiệu bạn bè"
+"Tệ, hàng nhái, không nên mua",negative,0,"tệ, hàng nhái, không nên mua"
+"Trải nghiệm tuyệt vời, sẽ giới thiệu bạn bè",positive,2,"trải nghiệm tuyệt vời, sẽ giới thiệu bạn bè"
+"Dịch vụ xuất sắc, nhân viên thân thiện",positive,2,"dịch vụ xuất sắc, nhân viên thân thiện"
+"Rất tệ, giao hàng lâu, hàng lỗi",negative,0,"rất tệ, giao hàng lâu, hàng lỗi"
+"Rất thích, shop phục vụ nhiệt tình",positive,2,"rất thích, shop phục vụ nhiệt tình"
+"Hàng giả, chất lượng kém, rất tệ",negative,0,"hàng giả, chất lượng kém, rất tệ"
+"Rất thích, shop phục vụ nhiệt tình",positive,2,"rất thích, shop phục vụ nhiệt tình"
+"Thất vọng, không đáng tiền",negative,0,"thất vọng, không đáng tiền"
+"Sản phẩm rất tốt, tôi rất hài lòng",positive,2,"sản phẩm rất tốt, tôi rất hài lòng"
+"Tệ, hàng nhái, không nên mua",negative,0,"tệ, hàng nhái, không nên mua"
+"Tạm được, giá hơi cao",neutral,1,"tạm được, giá hơi cao"
+"Không hài lòng, hàng bị hỏng",negative,0,"không hài lòng, hàng bị hỏng"
+"Hàng giả, chất lượng kém, rất tệ",negative,0,"hàng giả, chất lượng kém, rất tệ"
+Giao hàng nhanh và đóng gói cẩn thận,positive,2,giao hàng nhanh và đóng gói cẩn thận
+Chất lượng tạm ổn với mức giá này,neutral,1,chất lượng tạm ổn với mức giá này
+"Không hài lòng, hàng bị hỏng",negative,0,"không hài lòng, hàng bị hỏng"
+"Sản phẩm bình thường, tạm được",neutral,1,"sản phẩm bình thường, tạm được"
+"Sản phẩm kém chất lượng, không như quảng cáo",negative,0,"sản phẩm kém chất lượng, không như quảng cáo"
+Rất thất vọng với chất lượng sản phẩm,negative,0,rất thất vọng với chất lượng sản phẩm
+"Tệ, hàng nhái, không nên mua",negative,0,"tệ, hàng nhái, không nên mua"
+"Tạm được, giá hơi cao",neutral,1,"tạm được, giá hơi cao"
+"Bình thường, chưa có gì đặc biệt",neutral,1,"bình thường, chưa có gì đặc biệt"
+Chất lượng tạm ổn với mức giá này,neutral,1,chất lượng tạm ổn với mức giá này
+"Rất tệ, giao hàng lâu, hàng lỗi",negative,0,"rất tệ, giao hàng lâu, hàng lỗi"
+"Sản phẩm như mô tả, không có gì nổi bật",neutral,1,"sản phẩm như mô tả, không có gì nổi bật"
+"Dịch vụ xuất sắc, nhân viên thân thiện",positive,2,"dịch vụ xuất sắc, nhân viên thân thiện"
+"Tạm được, giá hơi cao",neutral,1,"tạm được, giá hơi cao"
+"Dịch vụ tệ, không bao giờ mua nữa",negative,0,"dịch vụ tệ, không bao giờ mua nữa"
+"Không như mong đợi, quá tệ",negative,0,"không như mong đợi, quá tệ"
+"Sản phẩm đúng mô tả, đẹp hơn hình",positive,2,"sản phẩm đúng mô tả, đẹp hơn hình"
+"Dịch vụ tệ, không bao giờ mua nữa",negative,0,"dịch vụ tệ, không bao giờ mua nữa"
+"Sản phẩm bình thường, tạm được",neutral,1,"sản phẩm bình thường, tạm được"
+"Giao sai hàng, phục vụ kém",negative,0,"giao sai hàng, phục vụ kém"
+"Không như mong đợi, quá tệ",negative,0,"không như mong đợi, quá tệ"
+"Dịch vụ tệ, không bao giờ mua nữa",negative,0,"dịch vụ tệ, không bao giờ mua nữa"
+"Dịch vụ xuất sắc, nhân viên thân thiện",positive,2,"dịch vụ xuất sắc, nhân viên thân thiện"
+"Tệ, hàng nhái, không nên mua",negative,0,"tệ, hàng nhái, không nên mua"
+"Vừa vừa thôi, không xuất sắc lắm",neutral,1,"vừa vừa thôi, không xuất sắc lắm"
+"Thất vọng, không đáng tiền",negative,0,"thất vọng, không đáng tiền"
+"Vừa vừa thôi, không xuất sắc lắm",neutral,1,"vừa vừa thôi, không xuất sắc lắm"
+"Giao sai hàng, phục vụ kém",negative,0,"giao sai hàng, phục vụ kém"
+"Hàng đẹp, giao nhanh, đóng gói kỹ",positive,2,"hàng đẹp, giao nhanh, đóng gói kỹ"
+"Hàng giả, chất lượng kém, rất tệ",negative,0,"hàng giả, chất lượng kém, rất tệ"
+"Không như mong đợi, quá tệ",negative,0,"không như mong đợi, quá tệ"
+"Rất đáng tiền, chất lượng tốt",positive,2,"rất đáng tiền, chất lượng tốt"
+"Tệ, hàng nhái, không nên mua",negative,0,"tệ, hàng nhái, không nên mua"
+"Sản phẩm rất tốt, tôi rất hài lòng",positive,2,"sản phẩm rất tốt, tôi rất hài lòng"
+"Rất tệ, giao hàng lâu, hàng lỗi",negative,0,"rất tệ, giao hàng lâu, hàng lỗi"
+Rất thất vọng với chất lượng sản phẩm,negative,0,rất thất vọng với chất lượng sản phẩm
+"Dịch vụ xuất sắc, nhân viên thân thiện",positive,2,"dịch vụ xuất sắc, nhân viên thân thiện"
+"Nhận được hàng rồi, đang dùng thử",neutral,1,"nhận được hàng rồi, đang dùng thử"
+Đóng gói tốt nhưng sản phẩm chưa dùng,neutral,1,đóng gói tốt nhưng sản phẩm chưa dùng
+"Dịch vụ tệ, không bao giờ mua nữa",negative,0,"dịch vụ tệ, không bao giờ mua nữa"
+"Giá cả hợp lý, chất lượng tuyệt vời",positive,2,"giá cả hợp lý, chất lượng tuyệt vời"
+Chất lượng tạm ổn với mức giá này,neutral,1,chất lượng tạm ổn với mức giá này
+"Sản phẩm bình thường, tạm được",neutral,1,"sản phẩm bình thường, tạm được"
+"Vừa vừa thôi, không xuất sắc lắm",neutral,1,"vừa vừa thôi, không xuất sắc lắm"
+"Không tốt cũng không tệ, trung bình",neutral,1,"không tốt cũng không tệ, trung bình"
+"Dịch vụ tệ, không bao giờ mua nữa",negative,0,"dịch vụ tệ, không bao giờ mua nữa"
+"Không như mong đợi, quá tệ",negative,0,"không như mong đợi, quá tệ"
+"Dịch vụ tệ, không bao giờ mua nữa",negative,0,"dịch vụ tệ, không bao giờ mua nữa"
+"Sản phẩm rất tốt, tôi rất hài lòng",positive,2,"sản phẩm rất tốt, tôi rất hài lòng"
+"Dịch vụ xuất sắc, nhân viên thân thiện",positive,2,"dịch vụ xuất sắc, nhân viên thân thiện"
+Rất thất vọng với chất lượng sản phẩm,negative,0,rất thất vọng với chất lượng sản phẩm
+"Rất tệ, giao hàng lâu, hàng lỗi",negative,0,"rất tệ, giao hàng lâu, hàng lỗi"
+"Hàng đẹp, giao nhanh, đóng gói kỹ",positive,2,"hàng đẹp, giao nhanh, đóng gói kỹ"
+Giao hàng nhanh và đóng gói cẩn thận,positive,2,giao hàng nhanh và đóng gói cẩn thận
+"Vừa vừa thôi, không xuất sắc lắm",neutral,1,"vừa vừa thôi, không xuất sắc lắm"
+"Thất vọng, không đáng tiền",negative,0,"thất vọng, không đáng tiền"
+"Không như mong đợi, quá tệ",negative,0,"không như mong đợi, quá tệ"
+Đóng gói tốt nhưng sản phẩm chưa dùng,neutral,1,đóng gói tốt nhưng sản phẩm chưa dùng
+"Dịch vụ tệ, không bao giờ mua nữa",negative,0,"dịch vụ tệ, không bao giờ mua nữa"
+"Sản phẩm kém chất lượng, không như quảng cáo",negative,0,"sản phẩm kém chất lượng, không như quảng cáo"
+"Rất đáng tiền, chất lượng tốt",positive,2,"rất đáng tiền, chất lượng tốt"
+"Hàng đẹp, giao nhanh, đóng gói kỹ",positive,2,"hàng đẹp, giao nhanh, đóng gói kỹ"
+"Không hài lòng, hàng bị hỏng",negative,0,"không hài lòng, hàng bị hỏng"
+"Thất vọng, không đáng tiền",negative,0,"thất vọng, không đáng tiền"
+"Sản phẩm đúng mô tả, đẹp hơn hình",positive,2,"sản phẩm đúng mô tả, đẹp hơn hình"
+"Rất thích, shop phục vụ nhiệt tình",positive,2,"rất thích, shop phục vụ nhiệt tình"
+Rất thất vọng với chất lượng sản phẩm,negative,0,rất thất vọng với chất lượng sản phẩm
+"Nhận được hàng rồi, đang dùng thử",neutral,1,"nhận được hàng rồi, đang dùng thử"
+"Thất vọng, không đáng tiền",negative,0,"thất vọng, không đáng tiền"
+"Không như mong đợi, quá tệ",negative,0,"không như mong đợi, quá tệ"
+Giao hàng nhanh và đóng gói cẩn thận,positive,2,giao hàng nhanh và đóng gói cẩn thận
+Giao hàng hơi lâu nhưng sản phẩm ổn,neutral,1,giao hàng hơi lâu nhưng sản phẩm ổn
+"Sản phẩm bình thường, tạm được",neutral,1,"sản phẩm bình thường, tạm được"
+"Rất tệ, giao hàng lâu, hàng lỗi",negative,0,"rất tệ, giao hàng lâu, hàng lỗi"
+"Shop uy tín, sẽ tiếp tục ủng hộ",positive,2,"shop uy tín, sẽ tiếp tục ủng hộ"
+"Sản phẩm như mô tả, không có gì nổi bật",neutral,1,"sản phẩm như mô tả, không có gì nổi bật"
+Đóng gói tốt nhưng sản phẩm chưa dùng,neutral,1,đóng gói tốt nhưng sản phẩm chưa dùng
+"Giao sai hàng, phục vụ kém",negative,0,"giao sai hàng, phục vụ kém"
+"Bình thường, chưa có gì đặc biệt",neutral,1,"bình thường, chưa có gì đặc biệt"
+Giao hàng hơi lâu nhưng sản phẩm ổn,neutral,1,giao hàng hơi lâu nhưng sản phẩm ổn
+"Rất thích, shop phục vụ nhiệt tình",positive,2,"rất thích, shop phục vụ nhiệt tình"
+"Tạm được, giá hơi cao",neutral,1,"tạm được, giá hơi cao"
+"Tệ, hàng nhái, không nên mua",negative,0,"tệ, hàng nhái, không nên mua"
+"Sản phẩm kém chất lượng, không như quảng cáo",negative,0,"sản phẩm kém chất lượng, không như quảng cáo"
+"Không hài lòng, hàng bị hỏng",negative,0,"không hài lòng, hàng bị hỏng"
+"Trải nghiệm tuyệt vời, sẽ giới thiệu bạn bè",positive,2,"trải nghiệm tuyệt vời, sẽ giới thiệu bạn bè"
+"Không hài lòng, hàng bị hỏng",negative,0,"không hài lòng, hàng bị hỏng"
+"Sản phẩm kém chất lượng, không như quảng cáo",negative,0,"sản phẩm kém chất lượng, không như quảng cáo"
+"Không hài lòng, hàng bị hỏng",negative,0,"không hài lòng, hàng bị hỏng"
+"Vừa vừa thôi, không xuất sắc lắm",neutral,1,"vừa vừa thôi, không xuất sắc lắm"
+"Rất tệ, giao hàng lâu, hàng lỗi",negative,0,"rất tệ, giao hàng lâu, hàng lỗi"
+"Trải nghiệm tuyệt vời, sẽ giới thiệu bạn bè",positive,2,"trải nghiệm tuyệt vời, sẽ giới thiệu bạn bè"
+"Rất tệ, giao hàng lâu, hàng lỗi",negative,0,"rất tệ, giao hàng lâu, hàng lỗi"
+"Không hài lòng, hàng bị hỏng",negative,0,"không hài lòng, hàng bị hỏng"
+"Sản phẩm bình thường, tạm được",neutral,1,"sản phẩm bình thường, tạm được"
+"Không tốt cũng không tệ, trung bình",neutral,1,"không tốt cũng không tệ, trung bình"
+"Sản phẩm kém chất lượng, không như quảng cáo",negative,0,"sản phẩm kém chất lượng, không như quảng cáo"
+Đóng gói tốt nhưng sản phẩm chưa dùng,neutral,1,đóng gói tốt nhưng sản phẩm chưa dùng
+"Tạm được, giá hơi cao",neutral,1,"tạm được, giá hơi cao"
+"Không hài lòng, hàng bị hỏng",negative,0,"không hài lòng, hàng bị hỏng"
+"Sản phẩm đúng mô tả, đẹp hơn hình",positive,2,"sản phẩm đúng mô tả, đẹp hơn hình"
+"Shop uy tín, sẽ tiếp tục ủng hộ",positive,2,"shop uy tín, sẽ tiếp tục ủng hộ"
+"Thất vọng, không đáng tiền",negative,0,"thất vọng, không đáng tiền"
+"Không hài lòng, hàng bị hỏng",negative,0,"không hài lòng, hàng bị hỏng"
+Đóng gói tốt nhưng sản phẩm chưa dùng,neutral,1,đóng gói tốt nhưng sản phẩm chưa dùng
+Chất lượng tạm ổn với mức giá này,neutral,1,chất lượng tạm ổn với mức giá này
+"Dịch vụ tệ, không bao giờ mua nữa",negative,0,"dịch vụ tệ, không bao giờ mua nữa"
+"Dịch vụ tệ, không bao giờ mua nữa",negative,0,"dịch vụ tệ, không bao giờ mua nữa"
+"Rất đáng tiền, chất lượng tốt",positive,2,"rất đáng tiền, chất lượng tốt"
+"Tệ, hàng nhái, không nên mua",negative,0,"tệ, hàng nhái, không nên mua"
+"Rất đáng tiền, chất lượng tốt",positive,2,"rất đáng tiền, chất lượng tốt"
+"Giá cả hợp lý, chất lượng tuyệt vời",positive,2,"giá cả hợp lý, chất lượng tuyệt vời"
+"Nhận được hàng rồi, đang dùng thử",neutral,1,"nhận được hàng rồi, đang dùng thử"
+"Tệ, hàng nhái, không nên mua",negative,0,"tệ, hàng nhái, không nên mua"
+Rất thất vọng với chất lượng sản phẩm,negative,0,rất thất vọng với chất lượng sản phẩm
+"Không tốt cũng không tệ, trung bình",neutral,1,"không tốt cũng không tệ, trung bình"
+"Sản phẩm đúng mô tả, đẹp hơn hình",positive,2,"sản phẩm đúng mô tả, đẹp hơn hình"
+"Shop uy tín, sẽ tiếp tục ủng hộ",positive,2,"shop uy tín, sẽ tiếp tục ủng hộ"
+"Sản phẩm bình thường, tạm được",neutral,1,"sản phẩm bình thường, tạm được"
+"Shop uy tín, sẽ tiếp tục ủng hộ",positive,2,"shop uy tín, sẽ tiếp tục ủng hộ"
+"Giao sai hàng, phục vụ kém",negative,0,"giao sai hàng, phục vụ kém"
+Đóng gói tốt nhưng sản phẩm chưa dùng,neutral,1,đóng gói tốt nhưng sản phẩm chưa dùng
+"Vừa vừa thôi, không xuất sắc lắm",neutral,1,"vừa vừa thôi, không xuất sắc lắm"
+"Trải nghiệm tuyệt vời, sẽ giới thiệu bạn bè",positive,2,"trải nghiệm tuyệt vời, sẽ giới thiệu bạn bè"
+"Sản phẩm bình thường, tạm được",neutral,1,"sản phẩm bình thường, tạm được"
+"Rất thích, shop phục vụ nhiệt tình",positive,2,"rất thích, shop phục vụ nhiệt tình"
+"Sản phẩm kém chất lượng, không như quảng cáo",negative,0,"sản phẩm kém chất lượng, không như quảng cáo"
+"Thất vọng, không đáng tiền",negative,0,"thất vọng, không đáng tiền"
+"Rất đáng tiền, chất lượng tốt",positive,2,"rất đáng tiền, chất lượng tốt"
+"Hàng đẹp, giao nhanh, đóng gói kỹ",positive,2,"hàng đẹp, giao nhanh, đóng gói kỹ"
+"Không hài lòng, hàng bị hỏng",negative,0,"không hài lòng, hàng bị hỏng"
+"Thất vọng, không đáng tiền",negative,0,"thất vọng, không đáng tiền"
+"Dịch vụ tệ, không bao giờ mua nữa",negative,0,"dịch vụ tệ, không bao giờ mua nữa"
+"Rất tệ, giao hàng lâu, hàng lỗi",negative,0,"rất tệ, giao hàng lâu, hàng lỗi"
+"Sản phẩm bình thường, tạm được",neutral,1,"sản phẩm bình thường, tạm được"
+"Thất vọng, không đáng tiền",negative,0,"thất vọng, không đáng tiền"
+"Bình thường, chưa có gì đặc biệt",neutral,1,"bình thường, chưa có gì đặc biệt"
+"Trải nghiệm tuyệt vời, sẽ giới thiệu bạn bè",positive,2,"trải nghiệm tuyệt vời, sẽ giới thiệu bạn bè"
+"Shop uy tín, sẽ tiếp tục ủng hộ",positive,2,"shop uy tín, sẽ tiếp tục ủng hộ"
+"Sản phẩm đúng mô tả, đẹp hơn hình",positive,2,"sản phẩm đúng mô tả, đẹp hơn hình"
+"Rất đáng tiền, chất lượng tốt",positive,2,"rất đáng tiền, chất lượng tốt"
+"Hàng giả, chất lượng kém, rất tệ",negative,0,"hàng giả, chất lượng kém, rất tệ"
+Rất thất vọng với chất lượng sản phẩm,negative,0,rất thất vọng với chất lượng sản phẩm
+"Giá cả hợp lý, chất lượng tuyệt vời",positive,2,"giá cả hợp lý, chất lượng tuyệt vời"
+"Sản phẩm đúng mô tả, đẹp hơn hình",positive,2,"sản phẩm đúng mô tả, đẹp hơn hình"
+"Dịch vụ tệ, không bao giờ mua nữa",negative,0,"dịch vụ tệ, không bao giờ mua nữa"
+"Thất vọng, không đáng tiền",negative,0,"thất vọng, không đáng tiền"
+"Shop uy tín, sẽ tiếp tục ủng hộ",positive,2,"shop uy tín, sẽ tiếp tục ủng hộ"
+Chất lượng tạm ổn với mức giá này,neutral,1,chất lượng tạm ổn với mức giá này
+Giao hàng nhanh và đóng gói cẩn thận,positive,2,giao hàng nhanh và đóng gói cẩn thận
+"Sản phẩm rất tốt, tôi rất hài lòng",positive,2,"sản phẩm rất tốt, tôi rất hài lòng"
+"Hàng đẹp, giao nhanh, đóng gói kỹ",positive,2,"hàng đẹp, giao nhanh, đóng gói kỹ"
+"Tạm được, giá hơi cao",neutral,1,"tạm được, giá hơi cao"
+"Nhận được hàng rồi, đang dùng thử",neutral,1,"nhận được hàng rồi, đang dùng thử"
+"Rất thích, shop phục vụ nhiệt tình",positive,2,"rất thích, shop phục vụ nhiệt tình"
+"Tạm được, giá hơi cao",neutral,1,"tạm được, giá hơi cao"
+"Tệ, hàng nhái, không nên mua",negative,0,"tệ, hàng nhái, không nên mua"
+"Shop uy tín, sẽ tiếp tục ủng hộ",positive,2,"shop uy tín, sẽ tiếp tục ủng hộ"
+"Bình thường, chưa có gì đặc biệt",neutral,1,"bình thường, chưa có gì đặc biệt"
+"Dịch vụ xuất sắc, nhân viên thân thiện",positive,2,"dịch vụ xuất sắc, nhân viên thân thiện"
+Rất thất vọng với chất lượng sản phẩm,negative,0,rất thất vọng với chất lượng sản phẩm
+"Sản phẩm rất tốt, tôi rất hài lòng",positive,2,"sản phẩm rất tốt, tôi rất hài lòng"
+Đóng gói tốt nhưng sản phẩm chưa dùng,neutral,1,đóng gói tốt nhưng sản phẩm chưa dùng
+"Rất đáng tiền, chất lượng tốt",positive,2,"rất đáng tiền, chất lượng tốt"
+"Tệ, hàng nhái, không nên mua",negative,0,"tệ, hàng nhái, không nên mua"
+"Nhận được hàng rồi, đang dùng thử",neutral,1,"nhận được hàng rồi, đang dùng thử"
+"Nhận được hàng rồi, đang dùng thử",neutral,1,"nhận được hàng rồi, đang dùng thử"
+"Dịch vụ xuất sắc, nhân viên thân thiện",positive,2,"dịch vụ xuất sắc, nhân viên thân thiện"
+"Tệ, hàng nhái, không nên mua",negative,0,"tệ, hàng nhái, không nên mua"
+"Thất vọng, không đáng tiền",negative,0,"thất vọng, không đáng tiền"
+"Bình thường, chưa có gì đặc biệt",neutral,1,"bình thường, chưa có gì đặc biệt"
+"Nhận được hàng rồi, đang dùng thử",neutral,1,"nhận được hàng rồi, đang dùng thử"
+"Không hài lòng, hàng bị hỏng",negative,0,"không hài lòng, hàng bị hỏng"
+"Rất thích, shop phục vụ nhiệt tình",positive,2,"rất thích, shop phục vụ nhiệt tình"
+"Trải nghiệm tuyệt vời, sẽ giới thiệu bạn bè",positive,2,"trải nghiệm tuyệt vời, sẽ giới thiệu bạn bè"
+Giao hàng nhanh và đóng gói cẩn thận,positive,2,giao hàng nhanh và đóng gói cẩn thận
+"Giao sai hàng, phục vụ kém",negative,0,"giao sai hàng, phục vụ kém"
+"Dịch vụ tệ, không bao giờ mua nữa",negative,0,"dịch vụ tệ, không bao giờ mua nữa"
+"Không như mong đợi, quá tệ",negative,0,"không như mong đợi, quá tệ"
+"Rất tệ, giao hàng lâu, hàng lỗi",negative,0,"rất tệ, giao hàng lâu, hàng lỗi"
+"Vừa vừa thôi, không xuất sắc lắm",neutral,1,"vừa vừa thôi, không xuất sắc lắm"
+"Giao sai hàng, phục vụ kém",negative,0,"giao sai hàng, phục vụ kém"
+"Hàng giả, chất lượng kém, rất tệ",negative,0,"hàng giả, chất lượng kém, rất tệ"
+"Dịch vụ xuất sắc, nhân viên thân thiện",positive,2,"dịch vụ xuất sắc, nhân viên thân thiện"
+"Rất tệ, giao hàng lâu, hàng lỗi",negative,0,"rất tệ, giao hàng lâu, hàng lỗi"
+"Không hài lòng, hàng bị hỏng",negative,0,"không hài lòng, hàng bị hỏng"
+"Sản phẩm đúng mô tả, đẹp hơn hình",positive,2,"sản phẩm đúng mô tả, đẹp hơn hình"
+"Vừa vừa thôi, không xuất sắc lắm",neutral,1,"vừa vừa thôi, không xuất sắc lắm"
+"Sản phẩm bình thường, tạm được",neutral,1,"sản phẩm bình thường, tạm được"
+"Không hài lòng, hàng bị hỏng",negative,0,"không hài lòng, hàng bị hỏng"
+"Nhận được hàng rồi, đang dùng thử",neutral,1,"nhận được hàng rồi, đang dùng thử"
+Đóng gói tốt nhưng sản phẩm chưa dùng,neutral,1,đóng gói tốt nhưng sản phẩm chưa dùng
+"Không tốt cũng không tệ, trung bình",neutral,1,"không tốt cũng không tệ, trung bình"
+"Sản phẩm đúng mô tả, đẹp hơn hình",positive,2,"sản phẩm đúng mô tả, đẹp hơn hình"
+Giao hàng nhanh và đóng gói cẩn thận,positive,2,giao hàng nhanh và đóng gói cẩn thận
+"Sản phẩm kém chất lượng, không như quảng cáo",negative,0,"sản phẩm kém chất lượng, không như quảng cáo"
+"Shop uy tín, sẽ tiếp tục ủng hộ",positive,2,"shop uy tín, sẽ tiếp tục ủng hộ"
+"Trải nghiệm tuyệt vời, sẽ giới thiệu bạn bè",positive,2,"trải nghiệm tuyệt vời, sẽ giới thiệu bạn bè"
+"Bình thường, chưa có gì đặc biệt",neutral,1,"bình thường, chưa có gì đặc biệt"
+"Rất đáng tiền, chất lượng tốt",positive,2,"rất đáng tiền, chất lượng tốt"
+"Tạm được, giá hơi cao",neutral,1,"tạm được, giá hơi cao"
+"Không tốt cũng không tệ, trung bình",neutral,1,"không tốt cũng không tệ, trung bình"
+"Không hài lòng, hàng bị hỏng",negative,0,"không hài lòng, hàng bị hỏng"
+"Thất vọng, không đáng tiền",negative,0,"thất vọng, không đáng tiền"
+"Không tốt cũng không tệ, trung bình",neutral,1,"không tốt cũng không tệ, trung bình"
+"Tạm được, giá hơi cao",neutral,1,"tạm được, giá hơi cao"
+"Sản phẩm rất tốt, tôi rất hài lòng",positive,2,"sản phẩm rất tốt, tôi rất hài lòng"
+"Rất đáng tiền, chất lượng tốt",positive,2,"rất đáng tiền, chất lượng tốt"
+"Rất đáng tiền, chất lượng tốt",positive,2,"rất đáng tiền, chất lượng tốt"
+Giao hàng hơi lâu nhưng sản phẩm ổn,neutral,1,giao hàng hơi lâu nhưng sản phẩm ổn
+Giao hàng hơi lâu nhưng sản phẩm ổn,neutral,1,giao hàng hơi lâu nhưng sản phẩm ổn
+"Không như mong đợi, quá tệ",negative,0,"không như mong đợi, quá tệ"
+"Dịch vụ xuất sắc, nhân viên thân thiện",positive,2,"dịch vụ xuất sắc, nhân viên thân thiện"
+"Sản phẩm như mô tả, không có gì nổi bật",neutral,1,"sản phẩm như mô tả, không có gì nổi bật"
+Chất lượng tạm ổn với mức giá này,neutral,1,chất lượng tạm ổn với mức giá này
+"Thất vọng, không đáng tiền",negative,0,"thất vọng, không đáng tiền"
+"Sản phẩm bình thường, tạm được",neutral,1,"sản phẩm bình thường, tạm được"
+"Sản phẩm rất tốt, tôi rất hài lòng",positive,2,"sản phẩm rất tốt, tôi rất hài lòng"
+"Rất thích, shop phục vụ nhiệt tình",positive,2,"rất thích, shop phục vụ nhiệt tình"
+"Nhận được hàng rồi, đang dùng thử",neutral,1,"nhận được hàng rồi, đang dùng thử"
+"Giao sai hàng, phục vụ kém",negative,0,"giao sai hàng, phục vụ kém"
+"Dịch vụ tệ, không bao giờ mua nữa",negative,0,"dịch vụ tệ, không bao giờ mua nữa"
+"Shop uy tín, sẽ tiếp tục ủng hộ",positive,2,"shop uy tín, sẽ tiếp tục ủng hộ"
+Rất thất vọng với chất lượng sản phẩm,negative,0,rất thất vọng với chất lượng sản phẩm
+"Shop uy tín, sẽ tiếp tục ủng hộ",positive,2,"shop uy tín, sẽ tiếp tục ủng hộ"
+"Shop uy tín, sẽ tiếp tục ủng hộ",positive,2,"shop uy tín, sẽ tiếp tục ủng hộ"
+"Dịch vụ xuất sắc, nhân viên thân thiện",positive,2,"dịch vụ xuất sắc, nhân viên thân thiện"
+"Hàng đẹp, giao nhanh, đóng gói kỹ",positive,2,"hàng đẹp, giao nhanh, đóng gói kỹ"
+"Vừa vừa thôi, không xuất sắc lắm",neutral,1,"vừa vừa thôi, không xuất sắc lắm"
+Chất lượng tạm ổn với mức giá này,neutral,1,chất lượng tạm ổn với mức giá này
+"Sản phẩm kém chất lượng, không như quảng cáo",negative,0,"sản phẩm kém chất lượng, không như quảng cáo"
+"Nhận được hàng rồi, đang dùng thử",neutral,1,"nhận được hàng rồi, đang dùng thử"
+Chất lượng tạm ổn với mức giá này,neutral,1,chất lượng tạm ổn với mức giá này
+Đóng gói tốt nhưng sản phẩm chưa dùng,neutral,1,đóng gói tốt nhưng sản phẩm chưa dùng
+Giao hàng nhanh và đóng gói cẩn thận,positive,2,giao hàng nhanh và đóng gói cẩn thận
+Chất lượng tạm ổn với mức giá này,neutral,1,chất lượng tạm ổn với mức giá này
+"Sản phẩm rất tốt, tôi rất hài lòng",positive,2,"sản phẩm rất tốt, tôi rất hài lòng"
+"Sản phẩm bình thường, tạm được",neutral,1,"sản phẩm bình thường, tạm được"
+"Shop uy tín, sẽ tiếp tục ủng hộ",positive,2,"shop uy tín, sẽ tiếp tục ủng hộ"
+"Giá cả hợp lý, chất lượng tuyệt vời",positive,2,"giá cả hợp lý, chất lượng tuyệt vời"
+"Rất tệ, giao hàng lâu, hàng lỗi",negative,0,"rất tệ, giao hàng lâu, hàng lỗi"
+"Sản phẩm đúng mô tả, đẹp hơn hình",positive,2,"sản phẩm đúng mô tả, đẹp hơn hình"
+"Rất đáng tiền, chất lượng tốt",positive,2,"rất đáng tiền, chất lượng tốt"
+"Tạm được, giá hơi cao",neutral,1,"tạm được, giá hơi cao"
+"Sản phẩm bình thường, tạm được",neutral,1,"sản phẩm bình thường, tạm được"
+"Sản phẩm như mô tả, không có gì nổi bật",neutral,1,"sản phẩm như mô tả, không có gì nổi bật"
+"Trải nghiệm tuyệt vời, sẽ giới thiệu bạn bè",positive,2,"trải nghiệm tuyệt vời, sẽ giới thiệu bạn bè"
+Giao hàng nhanh và đóng gói cẩn thận,positive,2,giao hàng nhanh và đóng gói cẩn thận
+Giao hàng hơi lâu nhưng sản phẩm ổn,neutral,1,giao hàng hơi lâu nhưng sản phẩm ổn
+"Sản phẩm rất tốt, tôi rất hài lòng",positive,2,"sản phẩm rất tốt, tôi rất hài lòng"
+"Trải nghiệm tuyệt vời, sẽ giới thiệu bạn bè",positive,2,"trải nghiệm tuyệt vời, sẽ giới thiệu bạn bè"
+Rất thất vọng với chất lượng sản phẩm,negative,0,rất thất vọng với chất lượng sản phẩm
+"Sản phẩm kém chất lượng, không như quảng cáo",negative,0,"sản phẩm kém chất lượng, không như quảng cáo"
+Giao hàng hơi lâu nhưng sản phẩm ổn,neutral,1,giao hàng hơi lâu nhưng sản phẩm ổn
+"Giao sai hàng, phục vụ kém",negative,0,"giao sai hàng, phục vụ kém"
+"Không hài lòng, hàng bị hỏng",negative,0,"không hài lòng, hàng bị hỏng"
+"Không như mong đợi, quá tệ",negative,0,"không như mong đợi, quá tệ"
+"Giá cả hợp lý, chất lượng tuyệt vời",positive,2,"giá cả hợp lý, chất lượng tuyệt vời"
+"Hàng đẹp, giao nhanh, đóng gói kỹ",positive,2,"hàng đẹp, giao nhanh, đóng gói kỹ"
+"Sản phẩm như mô tả, không có gì nổi bật",neutral,1,"sản phẩm như mô tả, không có gì nổi bật"
+Giao hàng hơi lâu nhưng sản phẩm ổn,neutral,1,giao hàng hơi lâu nhưng sản phẩm ổn
+"Sản phẩm đúng mô tả, đẹp hơn hình",positive,2,"sản phẩm đúng mô tả, đẹp hơn hình"
+"Không tốt cũng không tệ, trung bình",neutral,1,"không tốt cũng không tệ, trung bình"
+"Bình thường, chưa có gì đặc biệt",neutral,1,"bình thường, chưa có gì đặc biệt"
+"Giao sai hàng, phục vụ kém",negative,0,"giao sai hàng, phục vụ kém"
+"Sản phẩm như mô tả, không có gì nổi bật",neutral,1,"sản phẩm như mô tả, không có gì nổi bật"
+"Giá cả hợp lý, chất lượng tuyệt vời",positive,2,"giá cả hợp lý, chất lượng tuyệt vời"
+Rất thất vọng với chất lượng sản phẩm,negative,0,rất thất vọng với chất lượng sản phẩm
+"Sản phẩm kém chất lượng, không như quảng cáo",negative,0,"sản phẩm kém chất lượng, không như quảng cáo"
+"Giao sai hàng, phục vụ kém",negative,0,"giao sai hàng, phục vụ kém"
+"Sản phẩm rất tốt, tôi rất hài lòng",positive,2,"sản phẩm rất tốt, tôi rất hài lòng"
+"Rất tệ, giao hàng lâu, hàng lỗi",negative,0,"rất tệ, giao hàng lâu, hàng lỗi"
+"Sản phẩm bình thường, tạm được",neutral,1,"sản phẩm bình thường, tạm được"
+Giao hàng nhanh và đóng gói cẩn thận,positive,2,giao hàng nhanh và đóng gói cẩn thận
+Chất lượng tạm ổn với mức giá này,neutral,1,chất lượng tạm ổn với mức giá này
+"Không hài lòng, hàng bị hỏng",negative,0,"không hài lòng, hàng bị hỏng"
+"Hàng đẹp, giao nhanh, đóng gói kỹ",positive,2,"hàng đẹp, giao nhanh, đóng gói kỹ"
+"Sản phẩm bình thường, tạm được",neutral,1,"sản phẩm bình thường, tạm được"
+"Hàng đẹp, giao nhanh, đóng gói kỹ",positive,2,"hàng đẹp, giao nhanh, đóng gói kỹ"
+"Giá cả hợp lý, chất lượng tuyệt vời",positive,2,"giá cả hợp lý, chất lượng tuyệt vời"
+"Sản phẩm rất tốt, tôi rất hài lòng",positive,2,"sản phẩm rất tốt, tôi rất hài lòng"
+"Sản phẩm rất tốt, tôi rất hài lòng",positive,2,"sản phẩm rất tốt, tôi rất hài lòng"
+"Trải nghiệm tuyệt vời, sẽ giới thiệu bạn bè",positive,2,"trải nghiệm tuyệt vời, sẽ giới thiệu bạn bè"
+Đóng gói tốt nhưng sản phẩm chưa dùng,neutral,1,đóng gói tốt nhưng sản phẩm chưa dùng
+"Rất đáng tiền, chất lượng tốt",positive,2,"rất đáng tiền, chất lượng tốt"
+"Sản phẩm rất tốt, tôi rất hài lòng",positive,2,"sản phẩm rất tốt, tôi rất hài lòng"
+"Sản phẩm như mô tả, không có gì nổi bật",neutral,1,"sản phẩm như mô tả, không có gì nổi bật"
+"Vừa vừa thôi, không xuất sắc lắm",neutral,1,"vừa vừa thôi, không xuất sắc lắm"
+"Thất vọng, không đáng tiền",negative,0,"thất vọng, không đáng tiền"
+"Trải nghiệm tuyệt vời, sẽ giới thiệu bạn bè",positive,2,"trải nghiệm tuyệt vời, sẽ giới thiệu bạn bè"
+Giao hàng nhanh và đóng gói cẩn thận,positive,2,giao hàng nhanh và đóng gói cẩn thận
+"Thất vọng, không đáng tiền",negative,0,"thất vọng, không đáng tiền"
+"Hàng giả, chất lượng kém, rất tệ",negative,0,"hàng giả, chất lượng kém, rất tệ"
+Chất lượng tạm ổn với mức giá này,neutral,1,chất lượng tạm ổn với mức giá này
+"Sản phẩm rất tốt, tôi rất hài lòng",positive,2,"sản phẩm rất tốt, tôi rất hài lòng"
+"Hàng đẹp, giao nhanh, đóng gói kỹ",positive,2,"hàng đẹp, giao nhanh, đóng gói kỹ"
+"Dịch vụ tệ, không bao giờ mua nữa",negative,0,"dịch vụ tệ, không bao giờ mua nữa"
+"Bình thường, chưa có gì đặc biệt",neutral,1,"bình thường, chưa có gì đặc biệt"
+"Sản phẩm rất tốt, tôi rất hài lòng",positive,2,"sản phẩm rất tốt, tôi rất hài lòng"
+"Tệ, hàng nhái, không nên mua",negative,0,"tệ, hàng nhái, không nên mua"
+"Hàng đẹp, giao nhanh, đóng gói kỹ",positive,2,"hàng đẹp, giao nhanh, đóng gói kỹ"
+"Rất đáng tiền, chất lượng tốt",positive,2,"rất đáng tiền, chất lượng tốt"
+"Giao sai hàng, phục vụ kém",negative,0,"giao sai hàng, phục vụ kém"
+"Rất tệ, giao hàng lâu, hàng lỗi",negative,0,"rất tệ, giao hàng lâu, hàng lỗi"
+"Vừa vừa thôi, không xuất sắc lắm",neutral,1,"vừa vừa thôi, không xuất sắc lắm"
+"Thất vọng, không đáng tiền",negative,0,"thất vọng, không đáng tiền"
+"Dịch vụ xuất sắc, nhân viên thân thiện",positive,2,"dịch vụ xuất sắc, nhân viên thân thiện"
+"Không như mong đợi, quá tệ",negative,0,"không như mong đợi, quá tệ"
+"Tệ, hàng nhái, không nên mua",negative,0,"tệ, hàng nhái, không nên mua"
+Giao hàng nhanh và đóng gói cẩn thận,positive,2,giao hàng nhanh và đóng gói cẩn thận
+"Nhận được hàng rồi, đang dùng thử",neutral,1,"nhận được hàng rồi, đang dùng thử"
+Rất thất vọng với chất lượng sản phẩm,negative,0,rất thất vọng với chất lượng sản phẩm
+"Hàng đẹp, giao nhanh, đóng gói kỹ",positive,2,"hàng đẹp, giao nhanh, đóng gói kỹ"
+"Không như mong đợi, quá tệ",negative,0,"không như mong đợi, quá tệ"
+"Vừa vừa thôi, không xuất sắc lắm",neutral,1,"vừa vừa thôi, không xuất sắc lắm"
+"Thất vọng, không đáng tiền",negative,0,"thất vọng, không đáng tiền"
+"Tệ, hàng nhái, không nên mua",negative,0,"tệ, hàng nhái, không nên mua"
+"Dịch vụ tệ, không bao giờ mua nữa",negative,0,"dịch vụ tệ, không bao giờ mua nữa"
+"Giao sai hàng, phục vụ kém",negative,0,"giao sai hàng, phục vụ kém"
+"Giao sai hàng, phục vụ kém",negative,0,"giao sai hàng, phục vụ kém"
+"Sản phẩm bình thường, tạm được",neutral,1,"sản phẩm bình thường, tạm được"
+"Sản phẩm kém chất lượng, không như quảng cáo",negative,0,"sản phẩm kém chất lượng, không như quảng cáo"
+"Sản phẩm kém chất lượng, không như quảng cáo",negative,0,"sản phẩm kém chất lượng, không như quảng cáo"
+"Sản phẩm rất tốt, tôi rất hài lòng",positive,2,"sản phẩm rất tốt, tôi rất hài lòng"
+"Sản phẩm kém chất lượng, không như quảng cáo",negative,0,"sản phẩm kém chất lượng, không như quảng cáo"
+"Rất thích, shop phục vụ nhiệt tình",positive,2,"rất thích, shop phục vụ nhiệt tình"
+Đóng gói tốt nhưng sản phẩm chưa dùng,neutral,1,đóng gói tốt nhưng sản phẩm chưa dùng
+"Rất thích, shop phục vụ nhiệt tình",positive,2,"rất thích, shop phục vụ nhiệt tình"
+Chất lượng tạm ổn với mức giá này,neutral,1,chất lượng tạm ổn với mức giá này
+"Rất đáng tiền, chất lượng tốt",positive,2,"rất đáng tiền, chất lượng tốt"
+"Dịch vụ xuất sắc, nhân viên thân thiện",positive,2,"dịch vụ xuất sắc, nhân viên thân thiện"
+"Tệ, hàng nhái, không nên mua",negative,0,"tệ, hàng nhái, không nên mua"
+"Hàng đẹp, giao nhanh, đóng gói kỹ",positive,2,"hàng đẹp, giao nhanh, đóng gói kỹ"
+"Giao sai hàng, phục vụ kém",negative,0,"giao sai hàng, phục vụ kém"
+"Hàng đẹp, giao nhanh, đóng gói kỹ",positive,2,"hàng đẹp, giao nhanh, đóng gói kỹ"
+"Nhận được hàng rồi, đang dùng thử",neutral,1,"nhận được hàng rồi, đang dùng thử"
+"Giá cả hợp lý, chất lượng tuyệt vời",positive,2,"giá cả hợp lý, chất lượng tuyệt vời"
+"Hàng đẹp, giao nhanh, đóng gói kỹ",positive,2,"hàng đẹp, giao nhanh, đóng gói kỹ"
+"Trải nghiệm tuyệt vời, sẽ giới thiệu bạn bè",positive,2,"trải nghiệm tuyệt vời, sẽ giới thiệu bạn bè"
+"Tạm được, giá hơi cao",neutral,1,"tạm được, giá hơi cao"
+"Bình thường, chưa có gì đặc biệt",neutral,1,"bình thường, chưa có gì đặc biệt"
+"Sản phẩm kém chất lượng, không như quảng cáo",negative,0,"sản phẩm kém chất lượng, không như quảng cáo"
+"Tạm được, giá hơi cao",neutral,1,"tạm được, giá hơi cao"
+Giao hàng nhanh và đóng gói cẩn thận,positive,2,giao hàng nhanh và đóng gói cẩn thận
+Chất lượng tạm ổn với mức giá này,neutral,1,chất lượng tạm ổn với mức giá này
+"Dịch vụ xuất sắc, nhân viên thân thiện",positive,2,"dịch vụ xuất sắc, nhân viên thân thiện"
+"Tệ, hàng nhái, không nên mua",negative,0,"tệ, hàng nhái, không nên mua"
+"Nhận được hàng rồi, đang dùng thử",neutral,1,"nhận được hàng rồi, đang dùng thử"
+"Sản phẩm kém chất lượng, không như quảng cáo",negative,0,"sản phẩm kém chất lượng, không như quảng cáo"
+"Bình thường, chưa có gì đặc biệt",neutral,1,"bình thường, chưa có gì đặc biệt"
+"Bình thường, chưa có gì đặc biệt",neutral,1,"bình thường, chưa có gì đặc biệt"
+"Dịch vụ tệ, không bao giờ mua nữa",negative,0,"dịch vụ tệ, không bao giờ mua nữa"
+"Vừa vừa thôi, không xuất sắc lắm",neutral,1,"vừa vừa thôi, không xuất sắc lắm"
+"Bình thường, chưa có gì đặc biệt",neutral,1,"bình thường, chưa có gì đặc biệt"
+"Thất vọng, không đáng tiền",negative,0,"thất vọng, không đáng tiền"
+"Không hài lòng, hàng bị hỏng",negative,0,"không hài lòng, hàng bị hỏng"
+"Sản phẩm bình thường, tạm được",neutral,1,"sản phẩm bình thường, tạm được"
+"Sản phẩm như mô tả, không có gì nổi bật",neutral,1,"sản phẩm như mô tả, không có gì nổi bật"
+"Vừa vừa thôi, không xuất sắc lắm",neutral,1,"vừa vừa thôi, không xuất sắc lắm"
+"Tạm được, giá hơi cao",neutral,1,"tạm được, giá hơi cao"
+Rất thất vọng với chất lượng sản phẩm,negative,0,rất thất vọng với chất lượng sản phẩm
+Giao hàng hơi lâu nhưng sản phẩm ổn,neutral,1,giao hàng hơi lâu nhưng sản phẩm ổn
+"Rất tệ, giao hàng lâu, hàng lỗi",negative,0,"rất tệ, giao hàng lâu, hàng lỗi"
+"Sản phẩm kém chất lượng, không như quảng cáo",negative,0,"sản phẩm kém chất lượng, không như quảng cáo"
+"Nhận được hàng rồi, đang dùng thử",neutral,1,"nhận được hàng rồi, đang dùng thử"
+"Hàng giả, chất lượng kém, rất tệ",negative,0,"hàng giả, chất lượng kém, rất tệ"
+"Nhận được hàng rồi, đang dùng thử",neutral,1,"nhận được hàng rồi, đang dùng thử"
+Giao hàng nhanh và đóng gói cẩn thận,positive,2,giao hàng nhanh và đóng gói cẩn thận
+Giao hàng nhanh và đóng gói cẩn thận,positive,2,giao hàng nhanh và đóng gói cẩn thận
+"Sản phẩm kém chất lượng, không như quảng cáo",negative,0,"sản phẩm kém chất lượng, không như quảng cáo"
+Chất lượng tạm ổn với mức giá này,neutral,1,chất lượng tạm ổn với mức giá này
+"Tạm được, giá hơi cao",neutral,1,"tạm được, giá hơi cao"
+"Nhận được hàng rồi, đang dùng thử",neutral,1,"nhận được hàng rồi, đang dùng thử"
+"Tệ, hàng nhái, không nên mua",negative,0,"tệ, hàng nhái, không nên mua"
+"Hàng đẹp, giao nhanh, đóng gói kỹ",positive,2,"hàng đẹp, giao nhanh, đóng gói kỹ"
+Chất lượng tạm ổn với mức giá này,neutral,1,chất lượng tạm ổn với mức giá này
+"Dịch vụ tệ, không bao giờ mua nữa",negative,0,"dịch vụ tệ, không bao giờ mua nữa"
+"Dịch vụ xuất sắc, nhân viên thân thiện",positive,2,"dịch vụ xuất sắc, nhân viên thân thiện"
+"Shop uy tín, sẽ tiếp tục ủng hộ",positive,2,"shop uy tín, sẽ tiếp tục ủng hộ"
+"Giá cả hợp lý, chất lượng tuyệt vời",positive,2,"giá cả hợp lý, chất lượng tuyệt vời"
+"Giao sai hàng, phục vụ kém",negative,0,"giao sai hàng, phục vụ kém"
+"Sản phẩm bình thường, tạm được",neutral,1,"sản phẩm bình thường, tạm được"
+"Không hài lòng, hàng bị hỏng",negative,0,"không hài lòng, hàng bị hỏng"
+"Sản phẩm như mô tả, không có gì nổi bật",neutral,1,"sản phẩm như mô tả, không có gì nổi bật"
+"Không như mong đợi, quá tệ",negative,0,"không như mong đợi, quá tệ"
+"Tạm được, giá hơi cao",neutral,1,"tạm được, giá hơi cao"
+"Giao sai hàng, phục vụ kém",negative,0,"giao sai hàng, phục vụ kém"
+"Giá cả hợp lý, chất lượng tuyệt vời",positive,2,"giá cả hợp lý, chất lượng tuyệt vời"
+"Không hài lòng, hàng bị hỏng",negative,0,"không hài lòng, hàng bị hỏng"
+"Sản phẩm rất tốt, tôi rất hài lòng",positive,2,"sản phẩm rất tốt, tôi rất hài lòng"
+"Hàng đẹp, giao nhanh, đóng gói kỹ",positive,2,"hàng đẹp, giao nhanh, đóng gói kỹ"
+Giao hàng hơi lâu nhưng sản phẩm ổn,neutral,1,giao hàng hơi lâu nhưng sản phẩm ổn
+"Sản phẩm bình thường, tạm được",neutral,1,"sản phẩm bình thường, tạm được"
+"Hàng đẹp, giao nhanh, đóng gói kỹ",positive,2,"hàng đẹp, giao nhanh, đóng gói kỹ"
+"Rất tệ, giao hàng lâu, hàng lỗi",negative,0,"rất tệ, giao hàng lâu, hàng lỗi"
+Chất lượng tạm ổn với mức giá này,neutral,1,chất lượng tạm ổn với mức giá này
+"Sản phẩm kém chất lượng, không như quảng cáo",negative,0,"sản phẩm kém chất lượng, không như quảng cáo"
+"Không như mong đợi, quá tệ",negative,0,"không như mong đợi, quá tệ"
+Rất thất vọng với chất lượng sản phẩm,negative,0,rất thất vọng với chất lượng sản phẩm
+"Sản phẩm kém chất lượng, không như quảng cáo",negative,0,"sản phẩm kém chất lượng, không như quảng cáo"
+"Dịch vụ xuất sắc, nhân viên thân thiện",positive,2,"dịch vụ xuất sắc, nhân viên thân thiện"
+"Vừa vừa thôi, không xuất sắc lắm",neutral,1,"vừa vừa thôi, không xuất sắc lắm"
+"Thất vọng, không đáng tiền",negative,0,"thất vọng, không đáng tiền"
+"Shop uy tín, sẽ tiếp tục ủng hộ",positive,2,"shop uy tín, sẽ tiếp tục ủng hộ"
+"Rất thích, shop phục vụ nhiệt tình",positive,2,"rất thích, shop phục vụ nhiệt tình"
+"Sản phẩm rất tốt, tôi rất hài lòng",positive,2,"sản phẩm rất tốt, tôi rất hài lòng"
+"Tệ, hàng nhái, không nên mua",negative,0,"tệ, hàng nhái, không nên mua"
+"Rất đáng tiền, chất lượng tốt",positive,2,"rất đáng tiền, chất lượng tốt"
+"Sản phẩm như mô tả, không có gì nổi bật",neutral,1,"sản phẩm như mô tả, không có gì nổi bật"
+Chất lượng tạm ổn với mức giá này,neutral,1,chất lượng tạm ổn với mức giá này
+"Dịch vụ tệ, không bao giờ mua nữa",negative,0,"dịch vụ tệ, không bao giờ mua nữa"
+"Sản phẩm như mô tả, không có gì nổi bật",neutral,1,"sản phẩm như mô tả, không có gì nổi bật"
+Giao hàng hơi lâu nhưng sản phẩm ổn,neutral,1,giao hàng hơi lâu nhưng sản phẩm ổn
+"Sản phẩm rất tốt, tôi rất hài lòng",positive,2,"sản phẩm rất tốt, tôi rất hài lòng"
+"Giá cả hợp lý, chất lượng tuyệt vời",positive,2,"giá cả hợp lý, chất lượng tuyệt vời"
+Đóng gói tốt nhưng sản phẩm chưa dùng,neutral,1,đóng gói tốt nhưng sản phẩm chưa dùng
+"Không như mong đợi, quá tệ",negative,0,"không như mong đợi, quá tệ"
+"Rất thích, shop phục vụ nhiệt tình",positive,2,"rất thích, shop phục vụ nhiệt tình"
+"Hàng giả, chất lượng kém, rất tệ",negative,0,"hàng giả, chất lượng kém, rất tệ"
+Giao hàng hơi lâu nhưng sản phẩm ổn,neutral,1,giao hàng hơi lâu nhưng sản phẩm ổn
+"Sản phẩm bình thường, tạm được",neutral,1,"sản phẩm bình thường, tạm được"
+"Rất đáng tiền, chất lượng tốt",positive,2,"rất đáng tiền, chất lượng tốt"
+"Hàng giả, chất lượng kém, rất tệ",negative,0,"hàng giả, chất lượng kém, rất tệ"
+"Sản phẩm bình thường, tạm được",neutral,1,"sản phẩm bình thường, tạm được"
+"Giao sai hàng, phục vụ kém",negative,0,"giao sai hàng, phục vụ kém"
+Giao hàng nhanh và đóng gói cẩn thận,positive,2,giao hàng nhanh và đóng gói cẩn thận
+"Không tốt cũng không tệ, trung bình",neutral,1,"không tốt cũng không tệ, trung bình"
+"Sản phẩm đúng mô tả, đẹp hơn hình",positive,2,"sản phẩm đúng mô tả, đẹp hơn hình"
+"Bình thường, chưa có gì đặc biệt",neutral,1,"bình thường, chưa có gì đặc biệt"
+"Sản phẩm rất tốt, tôi rất hài lòng",positive,2,"sản phẩm rất tốt, tôi rất hài lòng"
+"Không tốt cũng không tệ, trung bình",neutral,1,"không tốt cũng không tệ, trung bình"
+"Dịch vụ tệ, không bao giờ mua nữa",negative,0,"dịch vụ tệ, không bao giờ mua nữa"
+"Vừa vừa thôi, không xuất sắc lắm",neutral,1,"vừa vừa thôi, không xuất sắc lắm"
+"Dịch vụ xuất sắc, nhân viên thân thiện",positive,2,"dịch vụ xuất sắc, nhân viên thân thiện"
+"Rất tệ, giao hàng lâu, hàng lỗi",negative,0,"rất tệ, giao hàng lâu, hàng lỗi"
+"Không tốt cũng không tệ, trung bình",neutral,1,"không tốt cũng không tệ, trung bình"
+"Trải nghiệm tuyệt vời, sẽ giới thiệu bạn bè",positive,2,"trải nghiệm tuyệt vời, sẽ giới thiệu bạn bè"
+"Rất tệ, giao hàng lâu, hàng lỗi",negative,0,"rất tệ, giao hàng lâu, hàng lỗi"
+"Shop uy tín, sẽ tiếp tục ủng hộ",positive,2,"shop uy tín, sẽ tiếp tục ủng hộ"
+Rất thất vọng với chất lượng sản phẩm,negative,0,rất thất vọng với chất lượng sản phẩm
+Giao hàng hơi lâu nhưng sản phẩm ổn,neutral,1,giao hàng hơi lâu nhưng sản phẩm ổn
+"Trải nghiệm tuyệt vời, sẽ giới thiệu bạn bè",positive,2,"trải nghiệm tuyệt vời, sẽ giới thiệu bạn bè"
+"Không tốt cũng không tệ, trung bình",neutral,1,"không tốt cũng không tệ, trung bình"
+"Shop uy tín, sẽ tiếp tục ủng hộ",positive,2,"shop uy tín, sẽ tiếp tục ủng hộ"
+"Nhận được hàng rồi, đang dùng thử",neutral,1,"nhận được hàng rồi, đang dùng thử"
+"Tạm được, giá hơi cao",neutral,1,"tạm được, giá hơi cao"
+"Sản phẩm kém chất lượng, không như quảng cáo",negative,0,"sản phẩm kém chất lượng, không như quảng cáo"
+"Sản phẩm đúng mô tả, đẹp hơn hình",positive,2,"sản phẩm đúng mô tả, đẹp hơn hình"
+Giao hàng hơi lâu nhưng sản phẩm ổn,neutral,1,giao hàng hơi lâu nhưng sản phẩm ổn
+"Hàng giả, chất lượng kém, rất tệ",negative,0,"hàng giả, chất lượng kém, rất tệ"
+"Tệ, hàng nhái, không nên mua",negative,0,"tệ, hàng nhái, không nên mua"
+"Rất đáng tiền, chất lượng tốt",positive,2,"rất đáng tiền, chất lượng tốt"
+"Shop uy tín, sẽ tiếp tục ủng hộ",positive,2,"shop uy tín, sẽ tiếp tục ủng hộ"
+"Không như mong đợi, quá tệ",negative,0,"không như mong đợi, quá tệ"
+"Tệ, hàng nhái, không nên mua",negative,0,"tệ, hàng nhái, không nên mua"
+Giao hàng nhanh và đóng gói cẩn thận,positive,2,giao hàng nhanh và đóng gói cẩn thận
+Đóng gói tốt nhưng sản phẩm chưa dùng,neutral,1,đóng gói tốt nhưng sản phẩm chưa dùng
+"Sản phẩm đúng mô tả, đẹp hơn hình",positive,2,"sản phẩm đúng mô tả, đẹp hơn hình"
+"Thất vọng, không đáng tiền",negative,0,"thất vọng, không đáng tiền"
+"Rất tệ, giao hàng lâu, hàng lỗi",negative,0,"rất tệ, giao hàng lâu, hàng lỗi"
+"Giá cả hợp lý, chất lượng tuyệt vời",positive,2,"giá cả hợp lý, chất lượng tuyệt vời"
+Giao hàng nhanh và đóng gói cẩn thận,positive,2,giao hàng nhanh và đóng gói cẩn thận
+"Sản phẩm như mô tả, không có gì nổi bật",neutral,1,"sản phẩm như mô tả, không có gì nổi bật"
+"Sản phẩm rất tốt, tôi rất hài lòng",positive,2,"sản phẩm rất tốt, tôi rất hài lòng"
+"Giao sai hàng, phục vụ kém",negative,0,"giao sai hàng, phục vụ kém"
+Giao hàng hơi lâu nhưng sản phẩm ổn,neutral,1,giao hàng hơi lâu nhưng sản phẩm ổn
+"Sản phẩm kém chất lượng, không như quảng cáo",negative,0,"sản phẩm kém chất lượng, không như quảng cáo"
+"Không như mong đợi, quá tệ",negative,0,"không như mong đợi, quá tệ"
+"Không tốt cũng không tệ, trung bình",neutral,1,"không tốt cũng không tệ, trung bình"
+"Rất thích, shop phục vụ nhiệt tình",positive,2,"rất thích, shop phục vụ nhiệt tình"
+Giao hàng nhanh và đóng gói cẩn thận,positive,2,giao hàng nhanh và đóng gói cẩn thận
+"Tạm được, giá hơi cao",neutral,1,"tạm được, giá hơi cao"
+"Thất vọng, không đáng tiền",negative,0,"thất vọng, không đáng tiền"
+"Không như mong đợi, quá tệ",negative,0,"không như mong đợi, quá tệ"
+"Hàng giả, chất lượng kém, rất tệ",negative,0,"hàng giả, chất lượng kém, rất tệ"
+Chất lượng tạm ổn với mức giá này,neutral,1,chất lượng tạm ổn với mức giá này
+"Sản phẩm đúng mô tả, đẹp hơn hình",positive,2,"sản phẩm đúng mô tả, đẹp hơn hình"
+"Sản phẩm bình thường, tạm được",neutral,1,"sản phẩm bình thường, tạm được"
+"Dịch vụ xuất sắc, nhân viên thân thiện",positive,2,"dịch vụ xuất sắc, nhân viên thân thiện"
+"Rất thích, shop phục vụ nhiệt tình",positive,2,"rất thích, shop phục vụ nhiệt tình"
+"Không hài lòng, hàng bị hỏng",negative,0,"không hài lòng, hàng bị hỏng"
+"Sản phẩm như mô tả, không có gì nổi bật",neutral,1,"sản phẩm như mô tả, không có gì nổi bật"
+"Hàng giả, chất lượng kém, rất tệ",negative,0,"hàng giả, chất lượng kém, rất tệ"
+"Rất đáng tiền, chất lượng tốt",positive,2,"rất đáng tiền, chất lượng tốt"
+"Sản phẩm như mô tả, không có gì nổi bật",neutral,1,"sản phẩm như mô tả, không có gì nổi bật"
+"Vừa vừa thôi, không xuất sắc lắm",neutral,1,"vừa vừa thôi, không xuất sắc lắm"
+Đóng gói tốt nhưng sản phẩm chưa dùng,neutral,1,đóng gói tốt nhưng sản phẩm chưa dùng
+Giao hàng nhanh và đóng gói cẩn thận,positive,2,giao hàng nhanh và đóng gói cẩn thận
+"Rất đáng tiền, chất lượng tốt",positive,2,"rất đáng tiền, chất lượng tốt"
+"Rất tệ, giao hàng lâu, hàng lỗi",negative,0,"rất tệ, giao hàng lâu, hàng lỗi"
+"Vừa vừa thôi, không xuất sắc lắm",neutral,1,"vừa vừa thôi, không xuất sắc lắm"
+"Giao sai hàng, phục vụ kém",negative,0,"giao sai hàng, phục vụ kém"
+"Vừa vừa thôi, không xuất sắc lắm",neutral,1,"vừa vừa thôi, không xuất sắc lắm"
+"Tệ, hàng nhái, không nên mua",negative,0,"tệ, hàng nhái, không nên mua"
+"Sản phẩm đúng mô tả, đẹp hơn hình",positive,2,"sản phẩm đúng mô tả, đẹp hơn hình"
+"Giao sai hàng, phục vụ kém",negative,0,"giao sai hàng, phục vụ kém"
+Giao hàng nhanh và đóng gói cẩn thận,positive,2,giao hàng nhanh và đóng gói cẩn thận
+"Sản phẩm bình thường, tạm được",neutral,1,"sản phẩm bình thường, tạm được"
+Rất thất vọng với chất lượng sản phẩm,negative,0,rất thất vọng với chất lượng sản phẩm
+"Tạm được, giá hơi cao",neutral,1,"tạm được, giá hơi cao"
+"Dịch vụ xuất sắc, nhân viên thân thiện",positive,2,"dịch vụ xuất sắc, nhân viên thân thiện"
+"Tạm được, giá hơi cao",neutral,1,"tạm được, giá hơi cao"
+"Tạm được, giá hơi cao",neutral,1,"tạm được, giá hơi cao"
+Chất lượng tạm ổn với mức giá này,neutral,1,chất lượng tạm ổn với mức giá này
+Giao hàng hơi lâu nhưng sản phẩm ổn,neutral,1,giao hàng hơi lâu nhưng sản phẩm ổn
+Rất thất vọng với chất lượng sản phẩm,negative,0,rất thất vọng với chất lượng sản phẩm
+Giao hàng hơi lâu nhưng sản phẩm ổn,neutral,1,giao hàng hơi lâu nhưng sản phẩm ổn
+Rất thất vọng với chất lượng sản phẩm,negative,0,rất thất vọng với chất lượng sản phẩm
+"Trải nghiệm tuyệt vời, sẽ giới thiệu bạn bè",positive,2,"trải nghiệm tuyệt vời, sẽ giới thiệu bạn bè"
+"Rất tệ, giao hàng lâu, hàng lỗi",negative,0,"rất tệ, giao hàng lâu, hàng lỗi"
+"Không tốt cũng không tệ, trung bình",neutral,1,"không tốt cũng không tệ, trung bình"
+"Không hài lòng, hàng bị hỏng",negative,0,"không hài lòng, hàng bị hỏng"
+"Trải nghiệm tuyệt vời, sẽ giới thiệu bạn bè",positive,2,"trải nghiệm tuyệt vời, sẽ giới thiệu bạn bè"
+"Trải nghiệm tuyệt vời, sẽ giới thiệu bạn bè",positive,2,"trải nghiệm tuyệt vời, sẽ giới thiệu bạn bè"
+"Shop uy tín, sẽ tiếp tục ủng hộ",positive,2,"shop uy tín, sẽ tiếp tục ủng hộ"
+"Vừa vừa thôi, không xuất sắc lắm",neutral,1,"vừa vừa thôi, không xuất sắc lắm"
+Chất lượng tạm ổn với mức giá này,neutral,1,chất lượng tạm ổn với mức giá này
+"Rất đáng tiền, chất lượng tốt",positive,2,"rất đáng tiền, chất lượng tốt"
+"Hàng đẹp, giao nhanh, đóng gói kỹ",positive,2,"hàng đẹp, giao nhanh, đóng gói kỹ"
+Giao hàng nhanh và đóng gói cẩn thận,positive,2,giao hàng nhanh và đóng gói cẩn thận
+"Bình thường, chưa có gì đặc biệt",neutral,1,"bình thường, chưa có gì đặc biệt"
+Giao hàng hơi lâu nhưng sản phẩm ổn,neutral,1,giao hàng hơi lâu nhưng sản phẩm ổn
+Giao hàng nhanh và đóng gói cẩn thận,positive,2,giao hàng nhanh và đóng gói cẩn thận
+"Sản phẩm như mô tả, không có gì nổi bật",neutral,1,"sản phẩm như mô tả, không có gì nổi bật"
+"Giao sai hàng, phục vụ kém",negative,0,"giao sai hàng, phục vụ kém"
+"Hàng giả, chất lượng kém, rất tệ",negative,0,"hàng giả, chất lượng kém, rất tệ"
+"Bình thường, chưa có gì đặc biệt",neutral,1,"bình thường, chưa có gì đặc biệt"
+"Dịch vụ tệ, không bao giờ mua nữa",negative,0,"dịch vụ tệ, không bao giờ mua nữa"
+Đóng gói tốt nhưng sản phẩm chưa dùng,neutral,1,đóng gói tốt nhưng sản phẩm chưa dùng
+"Không tốt cũng không tệ, trung bình",neutral,1,"không tốt cũng không tệ, trung bình"
+"Dịch vụ xuất sắc, nhân viên thân thiện",positive,2,"dịch vụ xuất sắc, nhân viên thân thiện"
+"Nhận được hàng rồi, đang dùng thử",neutral,1,"nhận được hàng rồi, đang dùng thử"
+"Trải nghiệm tuyệt vời, sẽ giới thiệu bạn bè",positive,2,"trải nghiệm tuyệt vời, sẽ giới thiệu bạn bè"
+"Rất tệ, giao hàng lâu, hàng lỗi",negative,0,"rất tệ, giao hàng lâu, hàng lỗi"
+"Dịch vụ xuất sắc, nhân viên thân thiện",positive,2,"dịch vụ xuất sắc, nhân viên thân thiện"
+Đóng gói tốt nhưng sản phẩm chưa dùng,neutral,1,đóng gói tốt nhưng sản phẩm chưa dùng
+Giao hàng hơi lâu nhưng sản phẩm ổn,neutral,1,giao hàng hơi lâu nhưng sản phẩm ổn
+"Sản phẩm bình thường, tạm được",neutral,1,"sản phẩm bình thường, tạm được"
+"Không như mong đợi, quá tệ",negative,0,"không như mong đợi, quá tệ"
+Giao hàng nhanh và đóng gói cẩn thận,positive,2,giao hàng nhanh và đóng gói cẩn thận
+Giao hàng nhanh và đóng gói cẩn thận,positive,2,giao hàng nhanh và đóng gói cẩn thận
+"Hàng đẹp, giao nhanh, đóng gói kỹ",positive,2,"hàng đẹp, giao nhanh, đóng gói kỹ"
+"Sản phẩm như mô tả, không có gì nổi bật",neutral,1,"sản phẩm như mô tả, không có gì nổi bật"
+"Giá cả hợp lý, chất lượng tuyệt vời",positive,2,"giá cả hợp lý, chất lượng tuyệt vời"
+"Shop uy tín, sẽ tiếp tục ủng hộ",positive,2,"shop uy tín, sẽ tiếp tục ủng hộ"
+"Hàng giả, chất lượng kém, rất tệ",negative,0,"hàng giả, chất lượng kém, rất tệ"
+"Shop uy tín, sẽ tiếp tục ủng hộ",positive,2,"shop uy tín, sẽ tiếp tục ủng hộ"
+Chất lượng tạm ổn với mức giá này,neutral,1,chất lượng tạm ổn với mức giá này
+"Hàng đẹp, giao nhanh, đóng gói kỹ",positive,2,"hàng đẹp, giao nhanh, đóng gói kỹ"
+Chất lượng tạm ổn với mức giá này,neutral,1,chất lượng tạm ổn với mức giá này
+"Hàng giả, chất lượng kém, rất tệ",negative,0,"hàng giả, chất lượng kém, rất tệ"
+"Shop uy tín, sẽ tiếp tục ủng hộ",positive,2,"shop uy tín, sẽ tiếp tục ủng hộ"
+"Tạm được, giá hơi cao",neutral,1,"tạm được, giá hơi cao"
+"Hàng giả, chất lượng kém, rất tệ",negative,0,"hàng giả, chất lượng kém, rất tệ"
+"Rất tệ, giao hàng lâu, hàng lỗi",negative,0,"rất tệ, giao hàng lâu, hàng lỗi"
+"Sản phẩm kém chất lượng, không như quảng cáo",negative,0,"sản phẩm kém chất lượng, không như quảng cáo"
+"Tạm được, giá hơi cao",neutral,1,"tạm được, giá hơi cao"
+"Shop uy tín, sẽ tiếp tục ủng hộ",positive,2,"shop uy tín, sẽ tiếp tục ủng hộ"
+"Tệ, hàng nhái, không nên mua",negative,0,"tệ, hàng nhái, không nên mua"
+"Sản phẩm như mô tả, không có gì nổi bật",neutral,1,"sản phẩm như mô tả, không có gì nổi bật"
+"Thất vọng, không đáng tiền",negative,0,"thất vọng, không đáng tiền"
+"Thất vọng, không đáng tiền",negative,0,"thất vọng, không đáng tiền"
+"Shop uy tín, sẽ tiếp tục ủng hộ",positive,2,"shop uy tín, sẽ tiếp tục ủng hộ"
+"Shop uy tín, sẽ tiếp tục ủng hộ",positive,2,"shop uy tín, sẽ tiếp tục ủng hộ"
+"Dịch vụ tệ, không bao giờ mua nữa",negative,0,"dịch vụ tệ, không bao giờ mua nữa"
+"Shop uy tín, sẽ tiếp tục ủng hộ",positive,2,"shop uy tín, sẽ tiếp tục ủng hộ"
+Đóng gói tốt nhưng sản phẩm chưa dùng,neutral,1,đóng gói tốt nhưng sản phẩm chưa dùng
+"Rất đáng tiền, chất lượng tốt",positive,2,"rất đáng tiền, chất lượng tốt"
+Chất lượng tạm ổn với mức giá này,neutral,1,chất lượng tạm ổn với mức giá này
+"Sản phẩm kém chất lượng, không như quảng cáo",negative,0,"sản phẩm kém chất lượng, không như quảng cáo"
+"Dịch vụ tệ, không bao giờ mua nữa",negative,0,"dịch vụ tệ, không bao giờ mua nữa"
+"Rất thích, shop phục vụ nhiệt tình",positive,2,"rất thích, shop phục vụ nhiệt tình"
+"Sản phẩm bình thường, tạm được",neutral,1,"sản phẩm bình thường, tạm được"
+"Sản phẩm như mô tả, không có gì nổi bật",neutral,1,"sản phẩm như mô tả, không có gì nổi bật"
+"Giao sai hàng, phục vụ kém",negative,0,"giao sai hàng, phục vụ kém"
+"Tệ, hàng nhái, không nên mua",negative,0,"tệ, hàng nhái, không nên mua"
+"Hàng đẹp, giao nhanh, đóng gói kỹ",positive,2,"hàng đẹp, giao nhanh, đóng gói kỹ"
+"Shop uy tín, sẽ tiếp tục ủng hộ",positive,2,"shop uy tín, sẽ tiếp tục ủng hộ"
+"Hàng giả, chất lượng kém, rất tệ",negative,0,"hàng giả, chất lượng kém, rất tệ"
+"Giá cả hợp lý, chất lượng tuyệt vời",positive,2,"giá cả hợp lý, chất lượng tuyệt vời"
+Đóng gói tốt nhưng sản phẩm chưa dùng,neutral,1,đóng gói tốt nhưng sản phẩm chưa dùng
+"Sản phẩm bình thường, tạm được",neutral,1,"sản phẩm bình thường, tạm được"
+"Không như mong đợi, quá tệ",negative,0,"không như mong đợi, quá tệ"
+"Tệ, hàng nhái, không nên mua",negative,0,"tệ, hàng nhái, không nên mua"
+"Trải nghiệm tuyệt vời, sẽ giới thiệu bạn bè",positive,2,"trải nghiệm tuyệt vời, sẽ giới thiệu bạn bè"
+"Vừa vừa thôi, không xuất sắc lắm",neutral,1,"vừa vừa thôi, không xuất sắc lắm"
+"Hàng giả, chất lượng kém, rất tệ",negative,0,"hàng giả, chất lượng kém, rất tệ"
+"Thất vọng, không đáng tiền",negative,0,"thất vọng, không đáng tiền"
+"Nhận được hàng rồi, đang dùng thử",neutral,1,"nhận được hàng rồi, đang dùng thử"
+"Shop uy tín, sẽ tiếp tục ủng hộ",positive,2,"shop uy tín, sẽ tiếp tục ủng hộ"
+"Bình thường, chưa có gì đặc biệt",neutral,1,"bình thường, chưa có gì đặc biệt"
+"Rất thích, shop phục vụ nhiệt tình",positive,2,"rất thích, shop phục vụ nhiệt tình"
+"Bình thường, chưa có gì đặc biệt",neutral,1,"bình thường, chưa có gì đặc biệt"
+"Dịch vụ tệ, không bao giờ mua nữa",negative,0,"dịch vụ tệ, không bao giờ mua nữa"
+"Giao sai hàng, phục vụ kém",negative,0,"giao sai hàng, phục vụ kém"
+"Vừa vừa thôi, không xuất sắc lắm",neutral,1,"vừa vừa thôi, không xuất sắc lắm"
+"Sản phẩm kém chất lượng, không như quảng cáo",negative,0,"sản phẩm kém chất lượng, không như quảng cáo"
+Rất thất vọng với chất lượng sản phẩm,negative,0,rất thất vọng với chất lượng sản phẩm
+"Dịch vụ xuất sắc, nhân viên thân thiện",positive,2,"dịch vụ xuất sắc, nhân viên thân thiện"
+"Không như mong đợi, quá tệ",negative,0,"không như mong đợi, quá tệ"
+"Tệ, hàng nhái, không nên mua",negative,0,"tệ, hàng nhái, không nên mua"
+"Sản phẩm bình thường, tạm được",neutral,1,"sản phẩm bình thường, tạm được"
+Chất lượng tạm ổn với mức giá này,neutral,1,chất lượng tạm ổn với mức giá này
+"Vừa vừa thôi, không xuất sắc lắm",neutral,1,"vừa vừa thôi, không xuất sắc lắm"
+Giao hàng hơi lâu nhưng sản phẩm ổn,neutral,1,giao hàng hơi lâu nhưng sản phẩm ổn
+"Rất thích, shop phục vụ nhiệt tình",positive,2,"rất thích, shop phục vụ nhiệt tình"
+"Sản phẩm đúng mô tả, đẹp hơn hình",positive,2,"sản phẩm đúng mô tả, đẹp hơn hình"
+"Rất thích, shop phục vụ nhiệt tình",positive,2,"rất thích, shop phục vụ nhiệt tình"
+"Giá cả hợp lý, chất lượng tuyệt vời",positive,2,"giá cả hợp lý, chất lượng tuyệt vời"
+Giao hàng hơi lâu nhưng sản phẩm ổn,neutral,1,giao hàng hơi lâu nhưng sản phẩm ổn
+"Hàng giả, chất lượng kém, rất tệ",negative,0,"hàng giả, chất lượng kém, rất tệ"
+"Sản phẩm kém chất lượng, không như quảng cáo",negative,0,"sản phẩm kém chất lượng, không như quảng cáo"
+"Thất vọng, không đáng tiền",negative,0,"thất vọng, không đáng tiền"
+Giao hàng nhanh và đóng gói cẩn thận,positive,2,giao hàng nhanh và đóng gói cẩn thận
+Rất thất vọng với chất lượng sản phẩm,negative,0,rất thất vọng với chất lượng sản phẩm
+Giao hàng hơi lâu nhưng sản phẩm ổn,neutral,1,giao hàng hơi lâu nhưng sản phẩm ổn
+"Rất đáng tiền, chất lượng tốt",positive,2,"rất đáng tiền, chất lượng tốt"
+"Dịch vụ tệ, không bao giờ mua nữa",negative,0,"dịch vụ tệ, không bao giờ mua nữa"
+"Rất thích, shop phục vụ nhiệt tình",positive,2,"rất thích, shop phục vụ nhiệt tình"
+"Bình thường, chưa có gì đặc biệt",neutral,1,"bình thường, chưa có gì đặc biệt"
+"Sản phẩm rất tốt, tôi rất hài lòng",positive,2,"sản phẩm rất tốt, tôi rất hài lòng"
+"Sản phẩm đúng mô tả, đẹp hơn hình",positive,2,"sản phẩm đúng mô tả, đẹp hơn hình"
+"Dịch vụ xuất sắc, nhân viên thân thiện",positive,2,"dịch vụ xuất sắc, nhân viên thân thiện"
+Giao hàng hơi lâu nhưng sản phẩm ổn,neutral,1,giao hàng hơi lâu nhưng sản phẩm ổn
+"Sản phẩm đúng mô tả, đẹp hơn hình",positive,2,"sản phẩm đúng mô tả, đẹp hơn hình"
+"Dịch vụ tệ, không bao giờ mua nữa",negative,0,"dịch vụ tệ, không bao giờ mua nữa"
+"Sản phẩm kém chất lượng, không như quảng cáo",negative,0,"sản phẩm kém chất lượng, không như quảng cáo"
+"Rất đáng tiền, chất lượng tốt",positive,2,"rất đáng tiền, chất lượng tốt"
+"Tệ, hàng nhái, không nên mua",negative,0,"tệ, hàng nhái, không nên mua"
+"Vừa vừa thôi, không xuất sắc lắm",neutral,1,"vừa vừa thôi, không xuất sắc lắm"
+Đóng gói tốt nhưng sản phẩm chưa dùng,neutral,1,đóng gói tốt nhưng sản phẩm chưa dùng
+"Sản phẩm bình thường, tạm được",neutral,1,"sản phẩm bình thường, tạm được"
+"Vừa vừa thôi, không xuất sắc lắm",neutral,1,"vừa vừa thôi, không xuất sắc lắm"
+"Sản phẩm đúng mô tả, đẹp hơn hình",positive,2,"sản phẩm đúng mô tả, đẹp hơn hình"
+"Hàng giả, chất lượng kém, rất tệ",negative,0,"hàng giả, chất lượng kém, rất tệ"
+"Bình thường, chưa có gì đặc biệt",neutral,1,"bình thường, chưa có gì đặc biệt"
+Giao hàng nhanh và đóng gói cẩn thận,positive,2,giao hàng nhanh và đóng gói cẩn thận
+Giao hàng hơi lâu nhưng sản phẩm ổn,neutral,1,giao hàng hơi lâu nhưng sản phẩm ổn
+"Không như mong đợi, quá tệ",negative,0,"không như mong đợi, quá tệ"
+Giao hàng nhanh và đóng gói cẩn thận,positive,2,giao hàng nhanh và đóng gói cẩn thận
+Shop làm ăn kiểu gì vậy? Ảnh 1 đằng hàng 1 nẻo. Quá thất vọng.,negative,0,shop làm ăn kiểu gì vậy? ảnh 1 đằng hàng 1 nẻo. quá thất vọng.
+"Không thể tin được, sản phẩm vượt ngoài mong đợi của tôi.",positive,2,"không thể tin được, sản phẩm vượt ngoài mong đợi của tôi."
+"Giao hàng thì nhanh thật đấy, nhưng sản phẩm méo mó hết cả.",negative,0,"giao hàng thì nhanh thật đấy, nhưng sản phẩm méo mó hết cả."
+"Màu sắc hơi khác so với ảnh trên web, nhưng cũng tạm chấp nhận được.",neutral,1,"màu sắc hơi khác so với ảnh trên web, nhưng cũng tạm chấp nhận được."
+"Mua lần thứ 3 rồi, không lần nào làm mình thất vọng.",positive,2,"mua lần thứ 3 rồi, không lần nào làm mình thất vọng."
+"Đóng gói sơ sài, hộp bị rách, may mà hàng bên trong không sao.",neutral,1,"đóng gói sơ sài, hộp bị rách, may mà hàng bên trong không sao."
+"Chưa dùng nên chưa biết thế nào, tạm cho 5 sao vì shop nhiệt tình.",neutral,1,"chưa dùng nên chưa biết thế nào, tạm cho 5 sao vì shop nhiệt tình."
+"Giá rẻ mà chất lượng tốt không tưởng, sẽ còn ủng hộ shop dài dài.",positive,2,"giá rẻ mà chất lượng tốt không tưởng, sẽ còn ủng hộ shop dài dài."
+Tư vấn thì nhiệt tình nhưng lúc gửi hàng thì sai tùm lum.,negative,0,tư vấn thì nhiệt tình nhưng lúc gửi hàng thì sai tùm lum.
+"Sản phẩm cũng bình thường, không có gì đặc sắc như quảng cáo.",neutral,1,"sản phẩm cũng bình thường, không có gì đặc sắc như quảng cáo."
+Tuyệt vời! Một trải nghiệm mua sắm không chê vào đâu được.,positive,2,tuyệt vời! một trải nghiệm mua sắm không chê vào đâu được.
+Hàng gì mà mới dùng 2 hôm đã hỏng. Yêu cầu shop bảo hành ngay.,negative,0,hàng gì mà mới dùng 2 hôm đã hỏng. yêu cầu shop bảo hành ngay.
+Cái giá này mà đòi hỏi gì hơn. Nói chung là ổn.,neutral,1,cái giá này mà đòi hỏi gì hơn. nói chung là ổn.
+"Vải mỏng dính, đường may cẩu thả, không đáng tiền.",negative,0,"vải mỏng dính, đường may cẩu thả, không đáng tiền."
+"Ban đầu cũng hơi nghi ngờ, nhưng nhận hàng xong thấy rất đáng tiền.",positive,2,"ban đầu cũng hơi nghi ngờ, nhưng nhận hàng xong thấy rất đáng tiền."
+"Shop trả lời tin nhắn như robot, chả giải quyết được vấn đề.",negative,0,"shop trả lời tin nhắn như robot, chả giải quyết được vấn đề."
+Tôi nghĩ đây là sản phẩm tốt nhất tôi từng mua trong tầm giá này.,positive,2,tôi nghĩ đây là sản phẩm tốt nhất tôi từng mua trong tầm giá này.
+"Giao hàng thì lâu, sản phẩm thì cũ, như hàng trưng bày.",negative,0,"giao hàng thì lâu, sản phẩm thì cũ, như hàng trưng bày."
+Đọc bình luận thấy chê nhiều mà mình dùng thấy vẫn ổn.,neutral,1,đọc bình luận thấy chê nhiều mà mình dùng thấy vẫn ổn.
+"Mùi hơi hắc, chắc phải giặt qua mấy nước mới dám dùng.",neutral,1,"mùi hơi hắc, chắc phải giặt qua mấy nước mới dám dùng."
+"Cảm ơn shop, hàng đẹp, tư vấn vừa vặn, giao hàng nhanh như chớp.",positive,2,"cảm ơn shop, hàng đẹp, tư vấn vừa vặn, giao hàng nhanh như chớp."
+Treo đầu dê bán thịt chó. Quảng cáo 1 kiểu bán 1 kiểu.,negative,0,treo đầu dê bán thịt chó. quảng cáo 1 kiểu bán 1 kiểu.
+"Sản phẩm dùng tốt, tuy nhiên phần hướng dẫn sử dụng hơi khó hiểu.",neutral,1,"sản phẩm dùng tốt, tuy nhiên phần hướng dẫn sử dụng hơi khó hiểu."
+"Hàng y hình, chất vải xịn, form chuẩn, 10 điểm cho shop.",positive,2,"hàng y hình, chất vải xịn, form chuẩn, 10 điểm cho shop."
+"Chờ cả tuần lễ mới nhận được hàng, shop làm ăn quá chậm.",negative,0,"chờ cả tuần lễ mới nhận được hàng, shop làm ăn quá chậm."
+"Nhìn chung là được, không quá xuất sắc nhưng cũng không tệ.",neutral,1,"nhìn chung là được, không quá xuất sắc nhưng cũng không tệ."
+"Mua về chỉ muốn vứt đi, hàng lởm, khuyên mọi người nên tránh xa.",negative,0,"mua về chỉ muốn vứt đi, hàng lởm, khuyên mọi người nên tránh xa."
+"Đóng gói cẩn thận, có bọc chống sốc, sản phẩm nguyên vẹn.",positive,2,"đóng gói cẩn thận, có bọc chống sốc, sản phẩm nguyên vẹn."
+"Cũng không biết nên khen hay chê, chất lượng đúng bằng số tiền bỏ ra.",neutral,1,"cũng không biết nên khen hay chê, chất lượng đúng bằng số tiền bỏ ra."
+"Đã nhận hàng, nhìn bên ngoài thì khá giống mô tả, để dùng thử xem sao.",neutral,1,"đã nhận hàng, nhìn bên ngoài thì khá giống mô tả, để dùng thử xem sao."
+Quá tệ. Mua 2 cái hỏng cả 2. Shop đừng bán hàng nữa.,negative,0,quá tệ. mua 2 cái hỏng cả 2. shop đừng bán hàng nữa.
+"Dịch vụ chăm sóc khách hàng của shop này là số 1, rất chuyên nghiệp.",positive,2,"dịch vụ chăm sóc khách hàng của shop này là số 1, rất chuyên nghiệp."
+"Sản phẩm có vẻ tốt, nhưng giao hàng trễ hẹn mất 3 ngày.",neutral,1,"sản phẩm có vẻ tốt, nhưng giao hàng trễ hẹn mất 3 ngày."
+"Rất không hài lòng, sản phẩm bị trầy xước nhiều.",negative,0,"rất không hài lòng, sản phẩm bị trầy xước nhiều."
+"Vừa nhận hàng xong. Đẹp mê ly, còn được tặng thêm quà.",positive,2,"vừa nhận hàng xong. đẹp mê ly, còn được tặng thêm quà."
+Chất lượng sản phẩm quá tồi tệ so với giá tiền.,negative,0,chất lượng sản phẩm quá tồi tệ so với giá tiền.
+"Mẫu mã đẹp, nhưng chất liệu không như tôi kỳ vọng.",neutral,1,"mẫu mã đẹp, nhưng chất liệu không như tôi kỳ vọng."
+"Shop giao nhầm màu cho tôi, nhưng thôi màu này cũng đẹp nên bỏ qua.",neutral,1,"shop giao nhầm màu cho tôi, nhưng thôi màu này cũng đẹp nên bỏ qua."
+Một từ thôi: TUYỆT!,positive,2,một từ thôi tuyệt!
+Một từ thôi: TỆ!,negative,0,một từ thôi tệ!
+Giá cao hơn chỗ khác mà chất lượng cũng y chang.,neutral,1,giá cao hơn chỗ khác mà chất lượng cũng y chang.
+"Hàng về tay mà sướng rơn người, đẹp không tì vết.",positive,2,"hàng về tay mà sướng rơn người, đẹp không tì vết."
+"Làm ăn thiếu chuyên nghiệp, đặt size L giao size S, giờ ai mặc?",negative,0,"làm ăn thiếu chuyên nghiệp, đặt size l giao size s, giờ ai mặc?"
+"Đang dùng thử, thấy cũng có hiệu quả, sẽ kiên trì dùng thêm.",neutral,1,"đang dùng thử, thấy cũng có hiệu quả, sẽ kiên trì dùng thêm."
+"Sản phẩm này là hàng nhái, không phải hàng chính hãng. Lừa đảo.",negative,0,"sản phẩm này là hàng nhái, không phải hàng chính hãng. lừa đảo."
+"Đóng gói có tâm, giao hàng đúng hẹn, sản phẩm chất lượng.",positive,2,"đóng gói có tâm, giao hàng đúng hẹn, sản phẩm chất lượng."
+"Hơi thất vọng, chất vải không mát như quảng cáo.",negative,0,"hơi thất vọng, chất vải không mát như quảng cáo."
+So với các sản phẩm khác cùng loại thì cái này khá ổn.,neutral,1,so với các sản phẩm khác cùng loại thì cái này khá ổn.
+"Nhân viên giao hàng thái độ lồi lõm, không chấp nhận được.",negative,0,"nhân viên giao hàng thái độ lồi lõm, không chấp nhận được."
+Tôi là khách hàng khó tính mà còn phải hài lòng với sản phẩm này.,positive,2,tôi là khách hàng khó tính mà còn phải hài lòng với sản phẩm này.
+Mới dùng được 1 tuần thì bắt đầu có dấu hiệu hỏng hóc.,negative,0,mới dùng được 1 tuần thì bắt đầu có dấu hiệu hỏng hóc.
+"Hình ảnh chỉ mang tính chất minh họa, nhận hàng khác xa.",negative,0,"hình ảnh chỉ mang tính chất minh họa, nhận hàng khác xa."
+"Đẹp, rẻ, bền. Sẽ mua thêm cho gia đình dùng.",positive,2,"đẹp, rẻ, bền. sẽ mua thêm cho gia đình dùng."
+"Cũng được, không có gì để phàn nàn nhiều.",neutral,1,"cũng được, không có gì để phàn nàn nhiều."
+"Hỏi 10 câu trả lời 1 câu, shop nên xem lại thái độ phục vụ.",negative,0,"hỏi 10 câu trả lời 1 câu, shop nên xem lại thái độ phục vụ."
+"Sản phẩm tốt, đáng tiền, nhưng khâu vận chuyển nên cải thiện.",neutral,1,"sản phẩm tốt, đáng tiền, nhưng khâu vận chuyển nên cải thiện."
+"Giống mô tả, nhưng tôi không thích mùi của sản phẩm lắm.",neutral,1,"giống mô tả, nhưng tôi không thích mùi của sản phẩm lắm."
+"Chất lượng gia công kém, nhiều chi tiết thừa, nhìn rất rẻ tiền.",negative,0,"chất lượng gia công kém, nhiều chi tiết thừa, nhìn rất rẻ tiền."
+Quá xịn xò. Mua được đợt sale nên giá hời.,positive,2,quá xịn xò. mua được đợt sale nên giá hời.
+Không hiểu sao máy không hoạt động. Shop hỗ trợ tôi.,negative,0,không hiểu sao máy không hoạt động. shop hỗ trợ tôi.
+"Chính sách bảo hành mập mờ, không rõ ràng.",negative,0,"chính sách bảo hành mập mờ, không rõ ràng."
+"Đóng gói sản phẩm rất chắc chắn, giao hàng nhanh chóng.",positive,2,"đóng gói sản phẩm rất chắc chắn, giao hàng nhanh chóng."
+"Sản phẩm dùng OK, không có vấn đề gì.",neutral,1,"sản phẩm dùng ok, không có vấn đề gì."
+"Không nên mua, hàng kém chất lượng, dùng bực mình.",negative,0,"không nên mua, hàng kém chất lượng, dùng bực mình."
+"Rất hài lòng về cách shop xử lý khiếu nại, rất chuyên nghiệp.",positive,2,"rất hài lòng về cách shop xử lý khiếu nại, rất chuyên nghiệp."
+"Sản phẩm dùng bình thường, không tốt không tệ.",neutral,1,"sản phẩm dùng bình thường, không tốt không tệ."
+"Hàng quốc tế mà giao nhanh phết, 5 ngày đã nhận được.",positive,2,"hàng quốc tế mà giao nhanh phết, 5 ngày đã nhận được."
+"Chất liệu nhựa tái chế, nhìn ọp ẹp, không an toàn.",negative,0,"chất liệu nhựa tái chế, nhìn ọp ẹp, không an toàn."
+Tôi thấy sản phẩm này hơi bị thổi phồng công dụng.,neutral,1,tôi thấy sản phẩm này hơi bị thổi phồng công dụng.
+"Shop giao thiếu hàng, đã báo mà mãi không thấy phản hồi.",negative,0,"shop giao thiếu hàng, đã báo mà mãi không thấy phản hồi."
+"Vải đẹp, may kỹ, mặc lên tôn dáng lắm.",positive,2,"vải đẹp, may kỹ, mặc lên tôn dáng lắm."
+"Sản phẩm y chang hình, không có gì để chê cả.",positive,2,"sản phẩm y chang hình, không có gì để chê cả."
+"Yêu cầu đổi trả thì shop lặn mất tăm, làm ăn vô trách nhiệm.",negative,0,"yêu cầu đổi trả thì shop lặn mất tăm, làm ăn vô trách nhiệm."
+"Chất lượng hoàn thiện tốt, các chi tiết sắc sảo.",positive,2,"chất lượng hoàn thiện tốt, các chi tiết sắc sảo."
+"Pin tụt nhanh như tụt quần, dùng được 2 tiếng đã hết.",negative,0,"pin tụt nhanh như tụt quần, dùng được 2 tiếng đã hết."
+"Cài đặt hơi lằng nhằng, nhưng dùng quen thì thấy khá tiện.",neutral,1,"cài đặt hơi lằng nhằng, nhưng dùng quen thì thấy khá tiện."
+Hàng fake. Đừng ai bị lừa như tôi.,negative,0,hàng fake. đừng ai bị lừa như tôi.
+Sản phẩm này là một sự đầu tư xứng đáng.,positive,2,sản phẩm này là một sự đầu tư xứng đáng.
+Dùng được 1 tháng thì mọi thứ vẫn ổn.,neutral,1,dùng được 1 tháng thì mọi thứ vẫn ổn.
+"Mới nhận hàng, chưa khui, hi vọng là tốt.",neutral,1,"mới nhận hàng, chưa khui, hi vọng là tốt."
+Shop này bán hàng có tâm nhất tôi từng gặp.,positive,2,shop này bán hàng có tâm nhất tôi từng gặp.
+"Lỗi tùm lum, không kết nối được, app thì giật lag.",negative,0,"lỗi tùm lum, không kết nối được, app thì giật lag."
+"Cũng tạm, với mức giá này thì không đòi hỏi gì hơn.",neutral,1,"cũng tạm, với mức giá này thì không đòi hỏi gì hơn."
+"Hoàn toàn không giống mô tả, sai cả về kích thước lẫn màu sắc.",negative,0,"hoàn toàn không giống mô tả, sai cả về kích thước lẫn màu sắc."
+"Giao hàng đúng hẹn, sản phẩm chất lượng, đóng gói kỹ lưỡng.",positive,2,"giao hàng đúng hẹn, sản phẩm chất lượng, đóng gói kỹ lưỡng."
+"Thái độ bán hàng rất tệ, không bao giờ quay lại.",negative,0,"thái độ bán hàng rất tệ, không bao giờ quay lại."
+"Sản phẩm dễ sử dụng, phù hợp với người lớn tuổi.",positive,2,"sản phẩm dễ sử dụng, phù hợp với người lớn tuổi."
+"Chất lượng âm thanh quá tệ, rè và nhỏ.",negative,0,"chất lượng âm thanh quá tệ, rè và nhỏ."
+"Cũng được, nhưng tôi kỳ vọng nó tốt hơn thế.",neutral,1,"cũng được, nhưng tôi kỳ vọng nó tốt hơn thế."
+"Mua về không dùng được, shop bảo tự đi bảo hành hãng. Bó tay.",negative,0,"mua về không dùng được, shop bảo tự đi bảo hành hãng. bó tay."
+"Quá đẹp, quá xuất sắc, 100 điểm!",positive,2,"quá đẹp, quá xuất sắc, 100 điểm!"
+"Sản phẩm không có tem mác, không rõ nguồn gốc xuất xứ.",negative,0,"sản phẩm không có tem mác, không rõ nguồn gốc xuất xứ."
+"Đóng gói tạm được, giao hàng hơi lâu.",neutral,1,"đóng gói tạm được, giao hàng hơi lâu."
+"Hoàn tiền nhanh gọn, shop xử lý vấn đề rất tốt.",positive,2,"hoàn tiền nhanh gọn, shop xử lý vấn đề rất tốt."
+"Dùng thấy bình thường, không thần thánh như review.",neutral,1,"dùng thấy bình thường, không thần thánh như review."
+Chưa gì đã hỏng. Tiền mất tật mang.,negative,0,chưa gì đã hỏng. tiền mất tật mang.
+"Vải mỏng, nhìn thấy cả nội y bên trong, không mặc được.",negative,0,"vải mỏng, nhìn thấy cả nội y bên trong, không mặc được."
+"Rất ưng ý, từ sản phẩm đến dịch vụ.",positive,2,"rất ưng ý, từ sản phẩm đến dịch vụ."
+"Mùi nhựa nồng nặc, không biết có an toàn không.",negative,0,"mùi nhựa nồng nặc, không biết có an toàn không."
+Hàng nhận về nhìn xịn sò hơn trong ảnh.,positive,2,hàng nhận về nhìn xịn sò hơn trong ảnh.
+"Sản phẩm chỉ ở mức trung bình, không có gì nổi trội.",neutral,1,"sản phẩm chỉ ở mức trung bình, không có gì nổi trội."
+"Phí tiền, mua về không xài được.",negative,0,"phí tiền, mua về không xài được."
+"Rất đáng để trải nghiệm, sản phẩm độc đáo.",positive,2,"rất đáng để trải nghiệm, sản phẩm độc đáo."
+"Shop giao hàng nhanh thật, hôm qua đặt hôm nay có.",positive,2,"shop giao hàng nhanh thật, hôm qua đặt hôm nay có."
+"Sản phẩm không hoạt động, liên hệ shop không trả lời.",negative,0,"sản phẩm không hoạt động, liên hệ shop không trả lời."
+Chất lượng thì cũng được nhưng giá này là hơi cao.,neutral,1,chất lượng thì cũng được nhưng giá này là hơi cao.
+"Nhìn hình tưởng to lắm, ai dè nhận về bé tí.",neutral,1,"nhìn hình tưởng to lắm, ai dè nhận về bé tí."
+"Hàng giao sai mẫu, thủ tục đổi trả rườm rà, mất thời gian.",negative,0,"hàng giao sai mẫu, thủ tục đổi trả rườm rà, mất thời gian."
+"Dùng rất thích, da mềm mịn hẳn ra.",positive,2,"dùng rất thích, da mềm mịn hẳn ra."
+"Quảng cáo thì hay lắm, dùng thì chán đời.",negative,0,"quảng cáo thì hay lắm, dùng thì chán đời."
+"Cảm giác không phải hàng mới, tem bị rách, hộp móp méo.",negative,0,"cảm giác không phải hàng mới, tem bị rách, hộp móp méo."
+"Giao hàng nhanh, đóng gói đẹp, sản phẩm y hình, ưng ý.",positive,2,"giao hàng nhanh, đóng gói đẹp, sản phẩm y hình, ưng ý."
+"Chất lượng vừa phải, phù hợp với học sinh sinh viên.",neutral,1,"chất lượng vừa phải, phù hợp với học sinh sinh viên."
+"Mãi mới tìm được shop bán hàng chuẩn, sẽ ủng hộ lâu dài.",positive,2,"mãi mới tìm được shop bán hàng chuẩn, sẽ ủng hộ lâu dài."
+"Hạn sử dụng còn có 1 tháng, shop bán hàng kiểu gì đây?",negative,0,"hạn sử dụng còn có 1 tháng, shop bán hàng kiểu gì đây?"
+"Nói chung là ổn, không có gì phàn nàn.",neutral,1,"nói chung là ổn, không có gì phàn nàn."
+"Sản phẩm bị lỗi, shop đã đổi cái mới rất nhanh, hài lòng.",positive,2,"sản phẩm bị lỗi, shop đã đổi cái mới rất nhanh, hài lòng."
+Quá thất vọng. Khác hoàn toàn quảng cáo.,negative,0,quá thất vọng. khác hoàn toàn quảng cáo.
+"Tôi thấy bình thường, không có gì đặc biệt.",neutral,1,"tôi thấy bình thường, không có gì đặc biệt."
+"Hàng đẹp, xịn, mịn, thơm. Rất đáng tiền.",positive,2,"hàng đẹp, xịn, mịn, thơm. rất đáng tiền."
+Lừa đảo. Sản phẩm là hàng giả.,negative,0,lừa đảo. sản phẩm là hàng giả.
+"Hơi khó dùng, phải mất thời gian làm quen.",neutral,1,"hơi khó dùng, phải mất thời gian làm quen."
+"Dịch vụ quá tệ, nhân viên nói chuyện với khách như quát.",negative,0,"dịch vụ quá tệ, nhân viên nói chuyện với khách như quát."
+Sản phẩm này là cứu cánh của tôi. Rất tốt.,positive,2,sản phẩm này là cứu cánh của tôi. rất tốt.
+"Giá rẻ giật mình, nhưng chất lượng thì ôi thôi.",negative,0,"giá rẻ giật mình, nhưng chất lượng thì ôi thôi."
+"Mới dùng thử, thấy cũng được, để xem lâu dài thế nào.",neutral,1,"mới dùng thử, thấy cũng được, để xem lâu dài thế nào."
+"Hàng chuẩn chính hãng, check code thoải mái.",positive,2,"hàng chuẩn chính hãng, check code thoải mái."
+Không nên mua. Chất lượng không tương xứng giá tiền.,negative,0,không nên mua. chất lượng không tương xứng giá tiền.
+"Sản phẩm y mô tả, hoạt động tốt.",neutral,1,"sản phẩm y mô tả, hoạt động tốt."
+"Giao hàng siêu tốc, đóng gói siêu cẩn thận. 10 sao.",positive,2,"giao hàng siêu tốc, đóng gói siêu cẩn thận. 10 sao."
+Mua 3 sản phẩm thì 1 cái bị lỗi. Shop xem xử lý.,negative,0,mua 3 sản phẩm thì 1 cái bị lỗi. shop xem xử lý.
+"Màu sắc không tươi như ảnh, hơi bị xỉn.",neutral,1,"màu sắc không tươi như ảnh, hơi bị xỉn."
+"Đã nhận hàng, mọi thứ đều ổn.",neutral,1,"đã nhận hàng, mọi thứ đều ổn."
+"Chất lượng quá kém, dùng được 1 lần là hỏng.",negative,0,"chất lượng quá kém, dùng được 1 lần là hỏng."
+"Sản phẩm tuyệt vời, dịch vụ cũng tuyệt vời.",positive,2,"sản phẩm tuyệt vời, dịch vụ cũng tuyệt vời."
+Hàng bị móp méo trong quá trình vận chuyển.,negative,0,hàng bị móp méo trong quá trình vận chuyển.
+"Thiết kế đẹp, tinh xảo, nhìn rất sang.",positive,2,"thiết kế đẹp, tinh xảo, nhìn rất sang."
+"Sản phẩm không có tác dụng gì cả, dùng như không dùng.",negative,0,"sản phẩm không có tác dụng gì cả, dùng như không dùng."
+Tôi nghĩ nó ở mức chấp nhận được.,neutral,1,tôi nghĩ nó ở mức chấp nhận được.
+"Gia công cẩu thả, các mối nối hở hang.",negative,0,"gia công cẩu thả, các mối nối hở hang."
+"Rất hài lòng, sẽ giới thiệu cho bạn bè và người thân.",positive,2,"rất hài lòng, sẽ giới thiệu cho bạn bè và người thân."
+"Sản phẩm có mùi hóa chất rất nồng, không dám dùng.",negative,0,"sản phẩm có mùi hóa chất rất nồng, không dám dùng."
+"Cũng OK, nhưng pin hơi yếu, phải sạc liên tục.",neutral,1,"cũng ok, nhưng pin hơi yếu, phải sạc liên tục."
+"Shop giao thiếu phụ kiện, tôi phải làm sao?",negative,0,"shop giao thiếu phụ kiện, tôi phải làm sao?"
+"Đây là lần thứ N mua hàng của shop, vẫn luôn xịn.",positive,2,"đây là lần thứ n mua hàng của shop, vẫn luôn xịn."
+"Vải gì mà nhăn nhúm, giặt xong chắc khỏi mặc.",negative,0,"vải gì mà nhăn nhúm, giặt xong chắc khỏi mặc."
+"Dùng ổn, không gặp vấn đề gì.",neutral,1,"dùng ổn, không gặp vấn đề gì."
+Shop bán hàng fake mà cứ chối bay chối biến.,negative,0,shop bán hàng fake mà cứ chối bay chối biến.
+"Sản phẩm tốt, giao hàng nhanh, nhân viên thân thiện.",positive,2,"sản phẩm tốt, giao hàng nhanh, nhân viên thân thiện."
+"Hơi thất vọng, không tốt như tôi mong đợi.",neutral,1,"hơi thất vọng, không tốt như tôi mong đợi."
+Đặt màu đen giao màu trắng. Quá chán.,negative,0,đặt màu đen giao màu trắng. quá chán.
+Chất lượng vượt trội so với các sản phẩm khác.,positive,2,chất lượng vượt trội so với các sản phẩm khác.
+"Sản phẩm bị lỗi kỹ thuật, không thể sử dụng.",negative,0,"sản phẩm bị lỗi kỹ thuật, không thể sử dụng."
+"Mua về tặng mà hộp nát bét, không thể chấp nhận.",negative,0,"mua về tặng mà hộp nát bét, không thể chấp nhận."
+"Đẹp lắm shop ơi, y hình, chất lượng ưng ý.",positive,2,"đẹp lắm shop ơi, y hình, chất lượng ưng ý."
+"Màu sắc và kiểu dáng đúng như mô tả, nhưng chất liệu thì không.",neutral,1,"màu sắc và kiểu dáng đúng như mô tả, nhưng chất liệu thì không."
+"Hàng nhận về không dùng được, shop không hỗ trợ.",negative,0,"hàng nhận về không dùng được, shop không hỗ trợ."
+"Dùng rất thích, hiệu quả rõ rệt sau vài lần sử dụng.",positive,2,"dùng rất thích, hiệu quả rõ rệt sau vài lần sử dụng."
+"Sản phẩm bình thường, giá này mua ở đâu chả được.",neutral,1,"sản phẩm bình thường, giá này mua ở đâu chả được."
+"Lừa đảo, hàng không giống hình, yêu cầu hoàn tiền.",negative,0,"lừa đảo, hàng không giống hình, yêu cầu hoàn tiền."
+Sản phẩm này đã giúp tôi giải quyết được vấn đề.,positive,2,sản phẩm này đã giúp tôi giải quyết được vấn đề.
+"Shop nên kiểm tra hàng kỹ trước khi giao, sản phẩm bị xước.",negative,0,"shop nên kiểm tra hàng kỹ trước khi giao, sản phẩm bị xước."
+"Đóng gói kỹ, có thư cảm ơn, rất chuyên nghiệp.",positive,2,"đóng gói kỹ, có thư cảm ơn, rất chuyên nghiệp."
+"Cũng được, tạm ổn, không có gì nổi bật.",neutral,1,"cũng được, tạm ổn, không có gì nổi bật."
+"Chờ hàng mòn mỏi, đến lúc nhận thì sai mẫu.",negative,0,"chờ hàng mòn mỏi, đến lúc nhận thì sai mẫu."
+"Đáng đồng tiền bát gạo, không có gì để chê.",positive,2,"đáng đồng tiền bát gạo, không có gì để chê."
+"Sản phẩm không như quảng cáo, chất lượng rất thấp.",negative,0,"sản phẩm không như quảng cáo, chất lượng rất thấp."
+Tạm hài lòng. Hy vọng sản phẩm bền.,neutral,1,tạm hài lòng. hy vọng sản phẩm bền.
+"Shop tư vấn sai kích cỡ, giờ mặc không vừa.",negative,0,"shop tư vấn sai kích cỡ, giờ mặc không vừa."
+"Quá xịn, đẹp hơn cả mong đợi.",positive,2,"quá xịn, đẹp hơn cả mong đợi."
+"Sản phẩm bị rò rỉ, chảy nước lung tung.",negative,0,"sản phẩm bị rò rỉ, chảy nước lung tung."
+Hơi mỏng so với tưởng tượng của tôi.,neutral,1,hơi mỏng so với tưởng tượng của tôi.
+"Rất tệ, thái độ phục vụ của nhân viên không chấp nhận được.",negative,0,"rất tệ, thái độ phục vụ của nhân viên không chấp nhận được."
+"Dịch vụ 5 sao, sản phẩm 5 sao. Sẽ quay lại.",positive,2,"dịch vụ 5 sao, sản phẩm 5 sao. sẽ quay lại."
+Sản phẩm có nhiều chức năng nhưng chả cái nào dùng được ra hồn.,negative,0,sản phẩm có nhiều chức năng nhưng chả cái nào dùng được ra hồn.
+"Giao hàng nhanh, đóng gói cẩn thận. Còn chất lượng thì phải dùng mới biết.",neutral,1,"giao hàng nhanh, đóng gói cẩn thận. còn chất lượng thì phải dùng mới biết."
+"Hàng đẹp, giá rẻ, tội gì không mua.",positive,2,"hàng đẹp, giá rẻ, tội gì không mua."
+"Mua về làm quà tặng, ai cũng khen.",positive,2,"mua về làm quà tặng, ai cũng khen."
+Đừng mua. Hàng lởm. Phí tiền.,negative,0,đừng mua. hàng lởm. phí tiền.
+"Chất lượng ổn định, tôi đã dùng sản phẩm này nhiều năm.",positive,2,"chất lượng ổn định, tôi đã dùng sản phẩm này nhiều năm."
+"Sản phẩm bị lỗi, shop hứa đổi trả mà im re luôn.",negative,0,"sản phẩm bị lỗi, shop hứa đổi trả mà im re luôn."
+"Vừa vặn, thoải mái, chất liệu mát mẻ.",positive,2,"vừa vặn, thoải mái, chất liệu mát mẻ."
+"Không có gì đặc biệt, dùng cũng được, không dùng cũng chả sao.",neutral,1,"không có gì đặc biệt, dùng cũng được, không dùng cũng chả sao."
+Hàng về trễ 1 tuần so với dự kiến. Quá chậm.,negative,0,hàng về trễ 1 tuần so với dự kiến. quá chậm.
+"Đã nhận được hàng, sản phẩm đúng như mô tả.",neutral,1,"đã nhận được hàng, sản phẩm đúng như mô tả."
+Sản phẩm này là một sự thất vọng lớn.,negative,0,sản phẩm này là một sự thất vọng lớn.
+Rất hài lòng. Shop làm việc rất có tâm.,positive,2,rất hài lòng. shop làm việc rất có tâm.
+"Chất lượng không ổn định, cái tốt cái dở.",neutral,1,"chất lượng không ổn định, cái tốt cái dở."
+Hàng hết hạn sử dụng. Shop làm ăn thất đức.,negative,0,hàng hết hạn sử dụng. shop làm ăn thất đức.
+"Nói chung là 10 điểm, không có gì để chê.",positive,2,"nói chung là 10 điểm, không có gì để chê."
+Sản phẩm không đáng một xu. Vứt sọt rác.,negative,0,sản phẩm không đáng một xu. vứt sọt rác.
+"Mua hàng của shop nhiều lần rồi, lần nào cũng ưng.",positive,2,"mua hàng của shop nhiều lần rồi, lần nào cũng ưng."
+"Giao hàng nhanh, nhưng sản phẩm thì không như kỳ vọng.",neutral,1,"giao hàng nhanh, nhưng sản phẩm thì không như kỳ vọng."
+Quá tệ. Sản phẩm khác xa mô tả.,negative,0,quá tệ. sản phẩm khác xa mô tả.
+"Đã nhận hàng, nhìn bên ngoài thì cũng được, chưa biết dùng bền không.",neutral,1,"đã nhận hàng, nhìn bên ngoài thì cũng được, chưa biết dùng bền không."
+"Shop làm ăn chán thật, giao sai màu đã đành, còn giao hàng rách.",negative,0,"shop làm ăn chán thật, giao sai màu đã đành, còn giao hàng rách."
+Sản phẩm này là một cú lừa ngoạn mục. Không bao giờ quay lại.,negative,0,sản phẩm này là một cú lừa ngoạn mục. không bao giờ quay lại.
+Chất lượng sản phẩm hoàn toàn tương xứng với giá tiền. Rất hài lòng.,positive,2,chất lượng sản phẩm hoàn toàn tương xứng với giá tiền. rất hài lòng.
+"Vải mỏng tang, giặt một nước chắc nát bét.",negative,0,"vải mỏng tang, giặt một nước chắc nát bét."
+Nhìn chung là ổn. Không có gì để phàn nàn.,neutral,1,nhìn chung là ổn. không có gì để phàn nàn.
+"Sản phẩm xịn, sò, mịn. Sẽ mua thêm.",positive,2,"sản phẩm xịn, sò, mịn. sẽ mua thêm."
+"Giao hàng quá lâu, shop ngâm đơn cả tuần mới gửi.",negative,0,"giao hàng quá lâu, shop ngâm đơn cả tuần mới gửi."
+"Mới dùng được 1 ngày, chưa thấy hiệu quả gì rõ rệt.",neutral,1,"mới dùng được 1 ngày, chưa thấy hiệu quả gì rõ rệt."
+"Tuyệt vời. Đóng gói cẩn thận, hàng chuẩn, giao nhanh.",positive,2,"tuyệt vời. đóng gói cẩn thận, hàng chuẩn, giao nhanh."
+"Hàng về vỡ nát, đổ hết ra ngoài. Yêu cầu shop hoàn tiền.",negative,0,"hàng về vỡ nát, đổ hết ra ngoài. yêu cầu shop hoàn tiền."
+"Cũng được, nhưng tôi kỳ vọng nó tốt hơn thế này.",neutral,1,"cũng được, nhưng tôi kỳ vọng nó tốt hơn thế này."
+"Shop tư vấn rất có tâm, chọn size chuẩn không cần chỉnh.",positive,2,"shop tư vấn rất có tâm, chọn size chuẩn không cần chỉnh."
+Hàng fake. Đừng ai mua. Nhìn cái hộp là biết.,negative,0,hàng fake. đừng ai mua. nhìn cái hộp là biết.
+"Mùi hơi khó chịu, phải phơi mấy ngày mới bay hết.",neutral,1,"mùi hơi khó chịu, phải phơi mấy ngày mới bay hết."
+Sản phẩm này là cứu tinh của tôi. 10 điểm.,positive,2,sản phẩm này là cứu tinh của tôi. 10 điểm.
+Hỏi mãi không thèm trả lời. Dịch vụ khách hàng quá tệ.,negative,0,hỏi mãi không thèm trả lời. dịch vụ khách hàng quá tệ.
+So với giá tiền này thì chất lượng như vậy là quá ổn rồi.,positive,2,so với giá tiền này thì chất lượng như vậy là quá ổn rồi.
+"Sản phẩm không có tem mác, không rõ nguồn gốc. Rất lo lắng.",negative,0,"sản phẩm không có tem mác, không rõ nguồn gốc. rất lo lắng."
+"Mọi thứ đều ổn, chỉ là pin hơi yếu.",neutral,1,"mọi thứ đều ổn, chỉ là pin hơi yếu."
+Xuất sắc! Vượt ngoài mong đợi của tôi.,positive,2,xuất sắc! vượt ngoài mong đợi của tôi.
+Hàng giao không đúng như quảng cáo. Treo đầu dê bán thịt chó.,negative,0,hàng giao không đúng như quảng cáo. treo đầu dê bán thịt chó.
+Đã nhận hàng. Đang sạc. Hy vọng dùng tốt.,neutral,1,đã nhận hàng. đang sạc. hy vọng dùng tốt.
+"Rất ưng ý. Chất vải dày dặn, form đẹp.",positive,2,"rất ưng ý. chất vải dày dặn, form đẹp."
+Cái gì đây? Đặt 1 đằng giao 1 nẻo. Làm ăn thiếu chuyên nghiệp.,negative,0,cái gì đây? đặt 1 đằng giao 1 nẻo. làm ăn thiếu chuyên nghiệp.
+"Giao hàng nhanh, đóng gói cũng được. Chất lượng thì bình thường.",neutral,1,"giao hàng nhanh, đóng gói cũng được. chất lượng thì bình thường."
+"Sản phẩm này là hàng nhái, dùng được 3 hôm thì hỏng.",negative,0,"sản phẩm này là hàng nhái, dùng được 3 hôm thì hỏng."
+"Rất đáng tiền, tôi đã giới thiệu cho bạn bè mua.",positive,2,"rất đáng tiền, tôi đã giới thiệu cho bạn bè mua."
+Kích thước hơi nhỏ so với mô tả.,neutral,1,kích thước hơi nhỏ so với mô tả.
+Mua về không xài được. Shop bảo lỗi do nhà sản xuất. Bó tay.,negative,0,mua về không xài được. shop bảo lỗi do nhà sản xuất. bó tay.
+"Đóng gói siêu đẹp, siêu cẩn thận. Mở hàng ra mà thấy ưng.",positive,2,"đóng gói siêu đẹp, siêu cẩn thận. mở hàng ra mà thấy ưng."
+"Màu ở ngoài hơi xỉn, không được tươi như ảnh.",neutral,1,"màu ở ngoài hơi xỉn, không được tươi như ảnh."
+Hàng về tay mà sướng rơn. Đẹp không tì vết.,positive,2,hàng về tay mà sướng rơn. đẹp không tì vết.
+Lừa đảo. Sản phẩm không có tác dụng gì cả.,negative,0,lừa đảo. sản phẩm không có tác dụng gì cả.
+"Cũng tạm, không có gì đặc sắc.",neutral,1,"cũng tạm, không có gì đặc sắc."
+"Shop này bán hàng chuẩn, tôi check code ra hàng thật.",positive,2,"shop này bán hàng chuẩn, tôi check code ra hàng thật."
+"Pin tụt nhanh, sạc thì lâu. Rất bực mình.",negative,0,"pin tụt nhanh, sạc thì lâu. rất bực mình."
+"Chất lượng thì chưa biết, nhưng giao hàng trễ hẹn 3 ngày.",neutral,1,"chất lượng thì chưa biết, nhưng giao hàng trễ hẹn 3 ngày."
+Không thể hài lòng hơn. Dịch vụ 5 sao.,positive,2,không thể hài lòng hơn. dịch vụ 5 sao.
+"Sản phẩm bị trầy xước tùm lum, như hàng đã qua sử dụng.",negative,0,"sản phẩm bị trầy xước tùm lum, như hàng đã qua sử dụng."
+Giá rẻ mà chất lượng tốt bất ngờ.,positive,2,giá rẻ mà chất lượng tốt bất ngờ.
+"Hơi khó lắp ráp, sách hướng dẫn không chi tiết.",neutral,1,"hơi khó lắp ráp, sách hướng dẫn không chi tiết."
+"Chất lượng gia công quá kém, chi tiết thừa, nhựa ọp ẹp.",negative,0,"chất lượng gia công quá kém, chi tiết thừa, nhựa ọp ẹp."
+Tôi là khách hàng khó tính mà cũng phải khen sản phẩm này.,positive,2,tôi là khách hàng khó tính mà cũng phải khen sản phẩm này.
+Mới dùng 1 tuần đã lỗi. Yêu cầu bảo hành.,negative,0,mới dùng 1 tuần đã lỗi. yêu cầu bảo hành.
+"Vừa vặn, thoải mái. Tôi rất thích.",positive,2,"vừa vặn, thoải mái. tôi rất thích."
+"Chưa dùng, mua để dự phòng. Tạm cho 4 sao.",neutral,1,"chưa dùng, mua để dự phòng. tạm cho 4 sao."
+Hàng giao thiếu phụ kiện. Liên hệ shop không trả lời.,negative,0,hàng giao thiếu phụ kiện. liên hệ shop không trả lời.
+"Sản phẩm dễ sử dụng, người lớn tuổi cũng dùng được.",positive,2,"sản phẩm dễ sử dụng, người lớn tuổi cũng dùng được."
+"Chất lượng âm thanh quá rè, không nghe rõ gì cả.",negative,0,"chất lượng âm thanh quá rè, không nghe rõ gì cả."
+Đúng như mô tả. Hoạt động tốt.,neutral,1,đúng như mô tả. hoạt động tốt.
+Hoàn tiền nhanh gọn. Shop xử lý khiếu nại chuyên nghiệp.,positive,2,hoàn tiền nhanh gọn. shop xử lý khiếu nại chuyên nghiệp.
+"Sản phẩm không có gì đặc biệt, bị thổi phồng quá.",neutral,1,"sản phẩm không có gì đặc biệt, bị thổi phồng quá."
+Mua về chỉ muốn vứt đi. Tiền mất tật mang.,negative,0,mua về chỉ muốn vứt đi. tiền mất tật mang.
+"Đẹp, xịn, mịn. Sẽ mua thêm màu khác.",positive,2,"đẹp, xịn, mịn. sẽ mua thêm màu khác."
+"Mùi nhựa nồng nặc, không biết có độc hại không.",negative,0,"mùi nhựa nồng nặc, không biết có độc hại không."
+Hình ảnh chỉ mang tính chất minh hoạ. Khác xa thực tế.,negative,0,hình ảnh chỉ mang tính chất minh hoạ. khác xa thực tế.
+"Dùng rất êm, hiệu quả rõ rệt.",positive,2,"dùng rất êm, hiệu quả rõ rệt."
+"Giao hàng nhanh, đóng gói tạm được. Chất lượng chờ thời gian trả lời.",neutral,1,"giao hàng nhanh, đóng gói tạm được. chất lượng chờ thời gian trả lời."
+Sản phẩm không hoạt động. Đèn không lên. Chán.,negative,0,sản phẩm không hoạt động. đèn không lên. chán.
+"Đóng gói cẩn thận, có bọc chống sốc. Hàng nguyên vẹn.",positive,2,"đóng gói cẩn thận, có bọc chống sốc. hàng nguyên vẹn."
+Size hơi to so với bảng size của shop.,neutral,1,size hơi to so với bảng size của shop.
+Hạn sử dụng còn có 2 tháng. Shop thanh lý hàng tồn à?,negative,0,hạn sử dụng còn có 2 tháng. shop thanh lý hàng tồn à?
+"Rất ưng ý. Mẫu mã đẹp, chạy êm.",positive,2,"rất ưng ý. mẫu mã đẹp, chạy êm."
+"Vải nhăn nhúm, không phải chất liệu như shop nói.",negative,0,"vải nhăn nhúm, không phải chất liệu như shop nói."
+Cũng được. Giá này thì chất lượng vậy là hợp lý.,neutral,1,cũng được. giá này thì chất lượng vậy là hợp lý.
+"Shop bán hàng fake, check code không ra. Yêu cầu hoàn tiền.",negative,0,"shop bán hàng fake, check code không ra. yêu cầu hoàn tiền."
+"Dịch vụ chăm sóc khách hàng tuyệt vời, rất kiên nhẫn.",positive,2,"dịch vụ chăm sóc khách hàng tuyệt vời, rất kiên nhẫn."
+"Chất lượng không ổn định. Mua 2 cái thì 1 cái tốt, 1 cái dởm.",neutral,1,"chất lượng không ổn định. mua 2 cái thì 1 cái tốt, 1 cái dởm."
+"Sản phẩm bị lỗi, shop đã đổi cái mới ngay. Rất hài lòng.",positive,2,"sản phẩm bị lỗi, shop đã đổi cái mới ngay. rất hài lòng."
+Thái độ bán hàng quá tệ. Không bao giờ quay lại.,negative,0,thái độ bán hàng quá tệ. không bao giờ quay lại.
+"Mới nhận hàng, chưa khui. Hy vọng là tốt.",neutral,1,"mới nhận hàng, chưa khui. hy vọng là tốt."
+Một trải nghiệm mua sắm không thể chê vào đâu được.,positive,2,một trải nghiệm mua sắm không thể chê vào đâu được.
+Hàng về tay mà thất vọng tràn trề. Không giống hình tí nào.,negative,0,hàng về tay mà thất vọng tràn trề. không giống hình tí nào.
+"Tôi thấy dùng cũng bình thường, không thần thánh như review.",neutral,1,"tôi thấy dùng cũng bình thường, không thần thánh như review."
+"Đáng đồng tiền. Sản phẩm hoàn thiện tốt, chắc chắn.",positive,2,"đáng đồng tiền. sản phẩm hoàn thiện tốt, chắc chắn."
+"Shop giao hàng nhanh thật, hôm qua đặt hôm nay nhận được.",positive,2,"shop giao hàng nhanh thật, hôm qua đặt hôm nay nhận được."
+Đặt màu đen giao màu hồng. Con trai sao dùng?,negative,0,đặt màu đen giao màu hồng. con trai sao dùng?
+Chất lượng thì cũng được nhưng giá này là hơi đắt.,neutral,1,chất lượng thì cũng được nhưng giá này là hơi đắt.
+Quá tệ. Mới dùng 1 lần đã hỏng.,negative,0,quá tệ. mới dùng 1 lần đã hỏng.
+"Hàng đẹp, giá rẻ, giao nhanh. 10 điểm.",positive,2,"hàng đẹp, giá rẻ, giao nhanh. 10 điểm."
+"Nhân viên giao hàng thái độ lồi lõm, không chấp nhận được.",negative,0,"nhân viên giao hàng thái độ lồi lõm, không chấp nhận được."
+"Cài đặt hơi lằng nhằng, phải xem video mới làm được.",neutral,1,"cài đặt hơi lằng nhằng, phải xem video mới làm được."
+Shop này bán hàng có tâm nhất hệ mặt trời.,positive,2,shop này bán hàng có tâm nhất hệ mặt trời.
+Sản phẩm bị rò rỉ nước. Không an toàn.,negative,0,sản phẩm bị rò rỉ nước. không an toàn.
+"Mọi thứ đều ổn, sản phẩm dùng tốt.",neutral,1,"mọi thứ đều ổn, sản phẩm dùng tốt."
+Hàng giao không đúng mẫu mã. Shop làm ăn cẩu thả.,negative,0,hàng giao không đúng mẫu mã. shop làm ăn cẩu thả.
+Vượt mong đợi. Sản phẩm xịn xò hơn trong ảnh nhiều.,positive,2,vượt mong đợi. sản phẩm xịn xò hơn trong ảnh nhiều.
+"Chất vải nóng, không thấm mồ hôi. Mặc rất bí.",negative,0,"chất vải nóng, không thấm mồ hôi. mặc rất bí."
+Tạm hài lòng. Hy vọng dùng được bền.,neutral,1,tạm hài lòng. hy vọng dùng được bền.
+"Đã nhận hàng, đúng số lượng, đúng mô tả.",neutral,1,"đã nhận hàng, đúng số lượng, đúng mô tả."
+Mua về không dùng được. Liên hệ shop thì đổ lỗi cho khách.,negative,0,mua về không dùng được. liên hệ shop thì đổ lỗi cho khách.
+Dùng rất thích. Sẽ mua lại lần sau.,positive,2,dùng rất thích. sẽ mua lại lần sau.
+"Quảng cáo 1 kiểu, bán hàng 1 kiểu. Lừa đảo.",negative,0,"quảng cáo 1 kiểu, bán hàng 1 kiểu. lừa đảo."
+"Kích thước vừa vặn, chất liệu co giãn tốt.",positive,2,"kích thước vừa vặn, chất liệu co giãn tốt."
+"Pin yếu, dùng chưa được 1 tiếng đã báo pin yếu.",negative,0,"pin yếu, dùng chưa được 1 tiếng đã báo pin yếu."
+"Giao hàng nhanh, đóng gói ổn. Chất lượng thì phải dùng mới biết.",neutral,1,"giao hàng nhanh, đóng gói ổn. chất lượng thì phải dùng mới biết."
+Không nên mua. Hàng lởm. Phí tiền.,negative,0,không nên mua. hàng lởm. phí tiền.
+Rất hài lòng về cách shop xử lý vấn đề. Rất chuyên nghiệp.,positive,2,rất hài lòng về cách shop xử lý vấn đề. rất chuyên nghiệp.
+"Sản phẩm chỉ ở mức trung bình, không có gì nổi trội.",neutral,1,"sản phẩm chỉ ở mức trung bình, không có gì nổi trội."
+Hàng về trễ 1 tuần. Shop làm ăn quá chậm.,negative,0,hàng về trễ 1 tuần. shop làm ăn quá chậm.
+"Sản phẩm tốt, đáng tiền, nên mua nhé mọi người.",positive,2,"sản phẩm tốt, đáng tiền, nên mua nhé mọi người."
+"Vải mỏng, đường may cẩu thả, chỉ thừa lung tung.",negative,0,"vải mỏng, đường may cẩu thả, chỉ thừa lung tung."
+"Tôi không thích mùi này lắm, hơi hắc.",neutral,1,"tôi không thích mùi này lắm, hơi hắc."
+"Shop giao nhầm size, nhưng thôi rộng tí cũng không sao.",neutral,1,"shop giao nhầm size, nhưng thôi rộng tí cũng không sao."
+"Hàng chuẩn, check code ra. Dùng rất yên tâm.",positive,2,"hàng chuẩn, check code ra. dùng rất yên tâm."
+"Máy chạy kêu to quá, không dùng ban đêm được.",negative,0,"máy chạy kêu to quá, không dùng ban đêm được."
+"Sản phẩm dùng tốt, không có vấn đề gì.",neutral,1,"sản phẩm dùng tốt, không có vấn đề gì."
+"Lần thứ 5 mua hàng của shop, vẫn luôn hài lòng.",positive,2,"lần thứ 5 mua hàng của shop, vẫn luôn hài lòng."
+Mua 3 cái hỏng cả 3. Shop bán hàng kiểu gì vậy?,negative,0,mua 3 cái hỏng cả 3. shop bán hàng kiểu gì vậy?
+"Giá rẻ, dùng tạm cũng được.",neutral,1,"giá rẻ, dùng tạm cũng được."
+"Hàng quốc tế mà giao nhanh, 1 tuần là có.",positive,2,"hàng quốc tế mà giao nhanh, 1 tuần là có."
+"Hàng bị móp méo, vỡ nát. Do vận chuyển hay do shop?",negative,0,"hàng bị móp méo, vỡ nát. do vận chuyển hay do shop?"
+"Chất lượng hoàn thiện tốt, không có chi tiết thừa.",positive,2,"chất lượng hoàn thiện tốt, không có chi tiết thừa."
+Sản phẩm dùng được vài hôm thì bong tróc sơn.,negative,0,sản phẩm dùng được vài hôm thì bong tróc sơn.
+Hơi mỏng so với tưởng tượng của tôi.,neutral,1,hơi mỏng so với tưởng tượng của tôi.
+"Mua về tặng, ai cũng khen đẹp.",positive,2,"mua về tặng, ai cũng khen đẹp."
+"Shop giao hàng không đúng hẹn, làm lỡ việc của tôi.",negative,0,"shop giao hàng không đúng hẹn, làm lỡ việc của tôi."
+"Mọi thứ đều ok, từ sản phẩm đến vận chuyển.",neutral,1,"mọi thứ đều ok, từ sản phẩm đến vận chuyển."
+Rất không hài lòng. Sản phẩm khác xa mô tả.,negative,0,rất không hài lòng. sản phẩm khác xa mô tả.
+"Đóng gói có tâm, hộp đẹp, sản phẩm xịn.",positive,2,"đóng gói có tâm, hộp đẹp, sản phẩm xịn."
+"Chất lượng vừa phải, phù hợp với giá tiền.",neutral,1,"chất lượng vừa phải, phù hợp với giá tiền."
+"Thái độ nhân viên cskh rất tệ, nói chuyện như bố đời.",negative,0,"thái độ nhân viên cskh rất tệ, nói chuyện như bố đời."
+Sản phẩm này là một sự đầu tư xứng đáng.,positive,2,sản phẩm này là một sự đầu tư xứng đáng.
+"Máy chạy êm, thiết kế đẹp, rất ưng.",positive,2,"máy chạy êm, thiết kế đẹp, rất ưng."
+"Sản phẩm bị lỗi, app không kết nối được.",negative,0,"sản phẩm bị lỗi, app không kết nối được."
+"Nhìn hình tưởng to, nhận về bé tí.",neutral,1,"nhìn hình tưởng to, nhận về bé tí."
+Hoàn toàn không đáng tiền. Mọi người nên tránh xa.,negative,0,hoàn toàn không đáng tiền. mọi người nên tránh xa.
+Dịch vụ 5 sao. Sẽ ủng hộ shop dài dài.,positive,2,dịch vụ 5 sao. sẽ ủng hộ shop dài dài.
+Giao hàng đúng hẹn. Sản phẩm y hình.,neutral,1,giao hàng đúng hẹn. sản phẩm y hình.
+Chất lượng quá kém. Không thể chấp nhận được.,negative,0,chất lượng quá kém. không thể chấp nhận được.
+"Shop tư vấn nhiệt tình, giao hàng nhanh, sản phẩm tốt.",positive,2,"shop tư vấn nhiệt tình, giao hàng nhanh, sản phẩm tốt."
+Giá hơi cao so với chất lượng.,neutral,1,giá hơi cao so với chất lượng.
+Hàng về không dùng được. Yêu cầu shop hỗ trợ.,negative,0,hàng về không dùng được. yêu cầu shop hỗ trợ.
+"Rất thích, vải mát, mặc thoải mái.",positive,2,"rất thích, vải mát, mặc thoải mái."
+"Sản phẩm bị oxy hóa, nhìn cũ rích.",negative,0,"sản phẩm bị oxy hóa, nhìn cũ rích."
+"Đóng gói tạm được, hộp hơi móp.",neutral,1,"đóng gói tạm được, hộp hơi móp."
+"Shop giao thiếu hàng, đã báo mà 3 ngày chưa xử lý.",negative,0,"shop giao thiếu hàng, đã báo mà 3 ngày chưa xử lý."
+"Sản phẩm tốt, hiệu quả, sẽ mua lại.",positive,2,"sản phẩm tốt, hiệu quả, sẽ mua lại."
+"Chất lượng bình thường, không tốt cũng không tệ.",neutral,1,"chất lượng bình thường, không tốt cũng không tệ."
+"Hàng fake, tem mác in mờ, chất liệu dỏm.",negative,0,"hàng fake, tem mác in mờ, chất liệu dỏm."
+"Rất hài lòng, sẽ giới thiệu cho bạn bè.",positive,2,"rất hài lòng, sẽ giới thiệu cho bạn bè."
+"Sản phẩm y mô tả, hoạt động ổn định.",neutral,1,"sản phẩm y mô tả, hoạt động ổn định."
+Quá thất vọng. Khác hoàn toàn so với quảng cáo.,negative,0,quá thất vọng. khác hoàn toàn so với quảng cáo.
+"Đóng gói cẩn thận, có thư cảm ơn. Rất chuyên nghiệp.",positive,2,"đóng gói cẩn thận, có thư cảm ơn. rất chuyên nghiệp."
+"Mùi thơm, dễ chịu. Dùng rất thích.",positive,2,"mùi thơm, dễ chịu. dùng rất thích."
+Hàng hết hạn sử dụng. Shop làm ăn thất đức.,negative,0,hàng hết hạn sử dụng. shop làm ăn thất đức.
+"Mới dùng thử, thấy cũng được, để xem lâu dài thế nào.",neutral,1,"mới dùng thử, thấy cũng được, để xem lâu dài thế nào."
+Shop bán hàng lừa đảo. Không nên mua.,negative,0,shop bán hàng lừa đảo. không nên mua.
+"Dịch vụ xuất sắc, sản phẩm chất lượng. 10/10.",positive,2,"dịch vụ xuất sắc, sản phẩm chất lượng. 10 10."
+Chất lượng không tương xứng với giá tiền.,negative,0,chất lượng không tương xứng với giá tiền.
+"Màu sắc không giống hình, ở ngoài tối hơn.",neutral,1,"màu sắc không giống hình, ở ngoài tối hơn."
+Shop giao hàng nhanh như một cơn gió.,positive,2,shop giao hàng nhanh như một cơn gió.
+"Hàng bị vỡ 1 góc, chắc do vận chuyển.",negative,0,"hàng bị vỡ 1 góc, chắc do vận chuyển."
+Tạm ổn. Với giá này thì không đòi hỏi gì hơn.,neutral,1,tạm ổn. với giá này thì không đòi hỏi gì hơn.
+Sản phẩm này là một sự thất vọng toàn tập.,negative,0,sản phẩm này là một sự thất vọng toàn tập.
+Đẹp mê ly. Không có gì để chê.,positive,2,đẹp mê ly. không có gì để chê.
+"Hàng giao sai mẫu, thủ tục đổi trả rườm rà.",negative,0,"hàng giao sai mẫu, thủ tục đổi trả rườm rà."
+"Chất lượng tốt, giá cả hợp lý. Nên mua.",positive,2,"chất lượng tốt, giá cả hợp lý. nên mua."
+Pin sạc không vào. Yêu cầu shop đổi cái mới.,negative,0,pin sạc không vào. yêu cầu shop đổi cái mới.
+"Cũng được, không có gì đặc biệt.",neutral,1,"cũng được, không có gì đặc biệt."
+Shop nên kiểm tra hàng kỹ trước khi giao. Sản phẩm bị xước.,negative,0,shop nên kiểm tra hàng kỹ trước khi giao. sản phẩm bị xước.
+Quá xịn. Mua được đợt sale giá hời.,positive,2,quá xịn. mua được đợt sale giá hời.
+"Sản phẩm không có tác dụng gì, dùng như không dùng.",negative,0,"sản phẩm không có tác dụng gì, dùng như không dùng."
+"Đã nhận hàng, mọi thứ đều ổn.",neutral,1,"đã nhận hàng, mọi thứ đều ổn."
+"Sản phẩm dễ dùng, tiện lợi. Rất hài lòng.",positive,2,"sản phẩm dễ dùng, tiện lợi. rất hài lòng."
+"Hàng giao thiếu ốc vít, không lắp ráp được.",negative,0,"hàng giao thiếu ốc vít, không lắp ráp được."
+"Chất lượng vừa phải, phù hợp với học sinh.",neutral,1,"chất lượng vừa phải, phù hợp với học sinh."
+"Shop tư vấn sai size, giờ mặc không vừa.",negative,0,"shop tư vấn sai size, giờ mặc không vừa."
+"Hàng chuẩn, dùng êm. Sẽ mua lại.",positive,2,"hàng chuẩn, dùng êm. sẽ mua lại."
+Chất lượng quá tồi tệ. Dùng 1 hôm là hỏng.,negative,0,chất lượng quá tồi tệ. dùng 1 hôm là hỏng.
+"Đã nhận hàng, đúng mô tả. Còn chất lượng phải dùng mới biết.",neutral,1,"đã nhận hàng, đúng mô tả. còn chất lượng phải dùng mới biết."
+"Rất hài lòng. Shop làm việc chuyên nghiệp, có tâm.",positive,2,"rất hài lòng. shop làm việc chuyên nghiệp, có tâm."
+Hàng giao về không hoạt động. Liên hệ shop không trả lời.,negative,0,hàng giao về không hoạt động. liên hệ shop không trả lời.
+"Sản phẩm bình thường, không có gì nổi trội.",neutral,1,"sản phẩm bình thường, không có gì nổi trội."
+Sản phẩm này là hàng giả. Khuyên mọi người tránh xa.,negative,0,sản phẩm này là hàng giả. khuyên mọi người tránh xa.
+"Đóng gói chắc chắn, giao hàng đúng hẹn, sản phẩm chất lượng.",positive,2,"đóng gói chắc chắn, giao hàng đúng hẹn, sản phẩm chất lượng."
+"Hơi khó sử dụng, phải đọc kỹ hướng dẫn.",neutral,1,"hơi khó sử dụng, phải đọc kỹ hướng dẫn."
+Quá tệ. Thái độ nhân viên giao hàng không chấp nhận được.,negative,0,quá tệ. thái độ nhân viên giao hàng không chấp nhận được.
+"Sản phẩm tốt, đã giúp tôi giải quyết vấn đề. Cảm ơn shop.",positive,2,"sản phẩm tốt, đã giúp tôi giải quyết vấn đề. cảm ơn shop."
+Chất lượng không ổn định. Cái được cái không.,neutral,1,chất lượng không ổn định. cái được cái không.
+"Hàng về không giống hình, chất vải xấu.",negative,0,"hàng về không giống hình, chất vải xấu."
+Rất đáng tiền. Sản phẩm hoàn thiện tốt.,positive,2,rất đáng tiền. sản phẩm hoàn thiện tốt.
+Chờ hàng cả tháng trời. Dịch vụ quá chậm.,negative,0,chờ hàng cả tháng trời. dịch vụ quá chậm.
+"Đã nhận hàng. Đang dùng thử, thấy cũng ổn.",neutral,1,"đã nhận hàng. đang dùng thử, thấy cũng ổn."
+"Sản phẩm bị lỗi kỹ thuật, không thể sử dụng.",negative,0,"sản phẩm bị lỗi kỹ thuật, không thể sử dụng."
+"Vải đẹp, may kỹ, mặc lên tôn dáng.",positive,2,"vải đẹp, may kỹ, mặc lên tôn dáng."
+"Cũng tạm được, không quá xuất sắc.",neutral,1,"cũng tạm được, không quá xuất sắc."
+"Hàng bị móp méo, vỡ góc. Yêu cầu hoàn tiền.",negative,0,"hàng bị móp méo, vỡ góc. yêu cầu hoàn tiền."
+"Dùng rất thích, da mềm mịn hẳn.",positive,2,"dùng rất thích, da mềm mịn hẳn."
+Giá này thì chất lượng vầy là ok rồi.,neutral,1,giá này thì chất lượng vầy là ok rồi.
+"Sản phẩm không có tem bảo hành, không biết hàng gì.",negative,0,"sản phẩm không có tem bảo hành, không biết hàng gì."
+Tuyệt vời. Sẽ giới thiệu bạn bè ủng hộ shop.,positive,2,tuyệt vời. sẽ giới thiệu bạn bè ủng hộ shop.
+"Hàng về sai màu, sai kích cỡ. Shop làm ăn cẩu thả.",negative,0,"hàng về sai màu, sai kích cỡ. shop làm ăn cẩu thả."
+"Đã nhận hàng, chưa dùng nên chưa biết.",neutral,1,"đã nhận hàng, chưa dùng nên chưa biết."
+"Quảng cáo thì hay lắm, dùng thì chán.",negative,0,"quảng cáo thì hay lắm, dùng thì chán."
+"Sản phẩm y hình, chất lượng tốt, giá hợp lý.",positive,2,"sản phẩm y hình, chất lượng tốt, giá hợp lý."
+"Mùi sản phẩm hơi nồng, không thích lắm.",neutral,1,"mùi sản phẩm hơi nồng, không thích lắm."
+"Hàng giao thiếu, nhắn tin shop không thèm đọc.",negative,0,"hàng giao thiếu, nhắn tin shop không thèm đọc."
+"Rất ưng ý, từ sản phẩm đến cách shop gói hàng.",positive,2,"rất ưng ý, từ sản phẩm đến cách shop gói hàng."
+"Quán này nổi tiếng lâu rồi, ghé ăn thử mà thấy bình thường, không xuất sắc.",neutral,1,"quán này nổi tiếng lâu rồi, ghé ăn thử mà thấy bình thường, không xuất sắc."
+"Gọi món ốc xào me mà ốc toàn vỏ, chả có thịt. Quá tệ!",negative,0,"gọi món ốc xào me mà ốc toàn vỏ, chả có thịt. quá tệ!"
+"Phở bò tái nạm đỉnh cao! Nước dùng đậm đà, thịt mềm tan. 10 điểm.",positive,2,"phở bò tái nạm đỉnh cao! nước dùng đậm đà, thịt mềm tan. 10 điểm."
+"Thái độ phục vụ của nhân viên không thể chấp nhận được, như kiểu ban ơn cho khách.",negative,0,"thái độ phục vụ của nhân viên không thể chấp nhận được, như kiểu ban ơn cho khách."
+Món lẩu hải sản hơi ít đồ so với giá tiền. Ăn tạm no.,neutral,1,món lẩu hải sản hơi ít đồ so với giá tiền. ăn tạm no.
+"Bún chả ngon tuyệt, chả nướng thơm lừng, nước chấm vừa miệng.",positive,2,"bún chả ngon tuyệt, chả nướng thơm lừng, nước chấm vừa miệng."
+Chờ món gần 40 phút mà mang ra thì nguội tanh. Quán làm ăn chậm chạp.,negative,0,chờ món gần 40 phút mà mang ra thì nguội tanh. quán làm ăn chậm chạp.
+"Cà phê trứng ở đây khá lạ miệng, béo ngậy, đáng thử.",positive,2,"cà phê trứng ở đây khá lạ miệng, béo ngậy, đáng thử."
+Không gian quán hơi chật và ồn ào. Đồ ăn tạm ổn.,neutral,1,không gian quán hơi chật và ồn ào. đồ ăn tạm ổn.
+Giá đắt một cách vô lý cho một tô mì nhỏ xíu.,negative,0,giá đắt một cách vô lý cho một tô mì nhỏ xíu.
+"Bánh mì chảo nóng hổi, pate và trứng thơm ngon. Sẽ quay lại.",positive,2,"bánh mì chảo nóng hổi, pate và trứng thơm ngon. sẽ quay lại."
+"Món gỏi vị chua ngọt hơi gắt, không được thanh.",neutral,1,"món gỏi vị chua ngọt hơi gắt, không được thanh."
+Tìm thấy tóc trong tô bún. Cực kỳ mất vệ sinh!,negative,0,tìm thấy tóc trong tô bún. cực kỳ mất vệ sinh!
+"Trà sữa vị trà rất thơm, topping dai ngon. Tôi rất thích.",positive,2,"trà sữa vị trà rất thơm, topping dai ngon. tôi rất thích."
+"Chỉ là một quán bình dân, đồ ăn vừa phải, không có gì nổi bật.",neutral,1,"chỉ là một quán bình dân, đồ ăn vừa phải, không có gì nổi bật."
+"Hải sản không tươi, ăn vào có mùi tanh. Bỏ hết.",negative,0,"hải sản không tươi, ăn vào có mùi tanh. bỏ hết."
+"Quán trang trí đẹp, món tráng miệng rất ngon và bắt mắt.",positive,2,"quán trang trí đẹp, món tráng miệng rất ngon và bắt mắt."
+"Đồ ăn hơi cay so với khẩu vị của tôi, lần sau sẽ dặn bớt.",neutral,1,"đồ ăn hơi cay so với khẩu vị của tôi, lần sau sẽ dặn bớt."
+"Thịt bò dai nhách, nhai mỏi cả hàm. Rất thất vọng.",negative,0,"thịt bò dai nhách, nhai mỏi cả hàm. rất thất vọng."
+"Sushi tươi ngon, đa dạng, nhân viên lịch sự. Dịch vụ 5 sao.",positive,2,"sushi tươi ngon, đa dạng, nhân viên lịch sự. dịch vụ 5 sao."
+Đặt mang về bị đổ hết nước dùng ra ngoài. Đóng gói quá kém.,negative,0,đặt mang về bị đổ hết nước dùng ra ngoài. đóng gói quá kém.
+"Ăn cũng được, no bụng. Không dở mà cũng không quá đặc sắc.",neutral,1,"ăn cũng được, no bụng. không dở mà cũng không quá đặc sắc."
+"Cơm chiên tôm cháy tỏi thơm lừng, hạt cơm tơi xốp.",positive,2,"cơm chiên tôm cháy tỏi thơm lừng, hạt cơm tơi xốp."
+"Nước uống quá ngọt, không đúng với lời quảng cáo 'ít đường'.",negative,0,"nước uống quá ngọt, không đúng với lời quảng cáo ít đường ."
+"Bàn ghế hơi dơ, có cảm giác không được sạch sẽ.",neutral,1,"bàn ghế hơi dơ, có cảm giác không được sạch sẽ."
+"Pizza đế mỏng giòn rụm, phô mai béo ngậy. Ăn rất đã.",positive,2,"pizza đế mỏng giòn rụm, phô mai béo ngậy. ăn rất đã."
+Giá cả không tương xứng với chất lượng món ăn.,negative,0,giá cả không tương xứng với chất lượng món ăn.
+"Mình gọi món gà nướng, thấy vị ướp hơi nhạt.",neutral,1,"mình gọi món gà nướng, thấy vị ướp hơi nhạt."
+"Món cari Thái chuẩn vị, cay nồng và béo ngậy. Tuyệt vời!",positive,2,"món cari thái chuẩn vị, cay nồng và béo ngậy. tuyệt vời!"
+"Nhân viên quên món của tôi, phải nhắc 3 lần mới mang ra.",negative,0,"nhân viên quên món của tôi, phải nhắc 3 lần mới mang ra."
+"Quán đông quá nên phục vụ hơi chậm, nhưng đồ ăn thì ngon.",neutral,1,"quán đông quá nên phục vụ hơi chậm, nhưng đồ ăn thì ngon."
+"Kem ở đây ngon nhất tôi từng ăn, vị trái cây tươi mát.",positive,2,"kem ở đây ngon nhất tôi từng ăn, vị trái cây tươi mát."
+"Bánh ngọt cũ, ăn có vị chua, chắc để lâu rồi.",negative,0,"bánh ngọt cũ, ăn có vị chua, chắc để lâu rồi."
+"Món mì ý hải sản sốt kem béo ngậy, đúng khẩu vị của tôi.",positive,2,"món mì ý hải sản sốt kem béo ngậy, đúng khẩu vị của tôi."
+"Chỉ ghé mua mang đi, thấy mọi thứ cũng ổn.",neutral,1,"chỉ ghé mua mang đi, thấy mọi thứ cũng ổn."
+"Bánh xèo quá nhiều dầu mỡ, ăn ngấy không chịu được.",negative,0,"bánh xèo quá nhiều dầu mỡ, ăn ngấy không chịu được."
+"Thức uống pha chế rất chuyên nghiệp, trang trí đẹp mắt.",positive,2,"thức uống pha chế rất chuyên nghiệp, trang trí đẹp mắt."
+"Quán tính nhầm tiền, phải kiểm tra lại hóa đơn.",negative,0,"quán tính nhầm tiền, phải kiểm tra lại hóa đơn."
+"Súp bí đỏ có mùi thơm, nhưng hơi loãng.",neutral,1,"súp bí đỏ có mùi thơm, nhưng hơi loãng."
+"Gà rán giòn tan, thịt bên trong vẫn mềm ẩm. Xuất sắc!",positive,2,"gà rán giòn tan, thịt bên trong vẫn mềm ẩm. xuất sắc!"
+"Không gian quá hẹp, bàn ghế kê sát nhau, không thoải mái.",negative,0,"không gian quá hẹp, bàn ghế kê sát nhau, không thoải mái."
+"Bữa ăn này tạm hài lòng, không có gì để phàn nàn.",neutral,1,"bữa ăn này tạm hài lòng, không có gì để phàn nàn."
+"Quán có view đẹp, thích hợp để hẹn hò.",positive,2,"quán có view đẹp, thích hợp để hẹn hò."
+"Rau sống bị úng nước, nhìn không muốn ăn.",negative,0,"rau sống bị úng nước, nhìn không muốn ăn."
+Giá cả ở đây hơi cao so với mặt bằng chung.,neutral,1,giá cả ở đây hơi cao so với mặt bằng chung.
+"Lần nào ghé cũng thấy chất lượng ổn định, món ăn ngon.",positive,2,"lần nào ghé cũng thấy chất lượng ổn định, món ăn ngon."
+"Đồ ăn mặn chát, không thể nuốt nổi.",negative,0,"đồ ăn mặn chát, không thể nuốt nổi."
+"Bánh canh cua đầy đặn, nước dùng đậm đà, cua tươi.",positive,2,"bánh canh cua đầy đặn, nước dùng đậm đà, cua tươi."
+Quán giữ xe thu phí quá cao.,negative,0,quán giữ xe thu phí quá cao.
+"Tráng miệng miễn phí, rất chu đáo.",positive,2,"tráng miệng miễn phí, rất chu đáo."
+Gọi món salad mà không có sốt đi kèm. Thiếu sót lớn.,negative,0,gọi món salad mà không có sốt đi kèm. thiếu sót lớn.
+Món này ăn lạ miệng. Cảm thấy cũng được.,neutral,1,món này ăn lạ miệng. cảm thấy cũng được.
+"Cơm tấm sườn bì chả ngon, miếng sườn to và mềm.",positive,2,"cơm tấm sườn bì chả ngon, miếng sườn to và mềm."
+"Menu ít món, không có nhiều sự lựa chọn.",neutral,1,"menu ít món, không có nhiều sự lựa chọn."
+"Máy lạnh không hoạt động, ăn uống nóng bức khó chịu.",negative,0,"máy lạnh không hoạt động, ăn uống nóng bức khó chịu."
+"Thực đơn đa dạng, món nào cũng ngon. Tôi rất thích.",positive,2,"thực đơn đa dạng, món nào cũng ngon. tôi rất thích."
+"Đặt món có kèm thêm topping, nhưng nhân viên lại quên.",negative,0,"đặt món có kèm thêm topping, nhưng nhân viên lại quên."
+"Đĩa rau xào hơi tái, chưa chín tới.",neutral,1,"đĩa rau xào hơi tái, chưa chín tới."
+"Bún bò Huế chuẩn vị, cay xé lưỡi, thịt thà đầy đủ.",positive,2,"bún bò huế chuẩn vị, cay xé lưỡi, thịt thà đầy đủ."
+"Quán không nhận thanh toán bằng thẻ, rất bất tiện.",negative,0,"quán không nhận thanh toán bằng thẻ, rất bất tiện."
+"Chỗ ngồi ngoài trời thoáng đãng, thích hợp để thư giãn.",positive,2,"chỗ ngồi ngoài trời thoáng đãng, thích hợp để thư giãn."
+Món cá nướng bị cháy đen một mặt.,negative,0,món cá nướng bị cháy đen một mặt.
+Tổng thể thì mọi thứ đều ở mức chấp nhận được.,neutral,1,tổng thể thì mọi thứ đều ở mức chấp nhận được.
+"Cá hồi nướng vừa tới, da giòn rụm, thịt bên trong vẫn mọng nước.",positive,2,"cá hồi nướng vừa tới, da giòn rụm, thịt bên trong vẫn mọng nước."
+"Nước chấm quá dở, làm hỏng cả món ăn.",negative,0,"nước chấm quá dở, làm hỏng cả món ăn."
+"Phục vụ nhanh nhẹn, nhưng đồ ăn thì hơi nhạt nhẽo.",neutral,1,"phục vụ nhanh nhẹn, nhưng đồ ăn thì hơi nhạt nhẽo."
+"Quán sạch sẽ, không gian ấm cúng. Đồ ăn ngon tuyệt.",positive,2,"quán sạch sẽ, không gian ấm cúng. đồ ăn ngon tuyệt."
+Đặt trước bàn mà đến nơi lại bảo hết bàn. Quán làm việc thiếu chuyên nghiệp.,negative,0,đặt trước bàn mà đến nơi lại bảo hết bàn. quán làm việc thiếu chuyên nghiệp.
+"Món chay ở đây khá đa dạng, nấu vừa miệng.",positive,2,"món chay ở đây khá đa dạng, nấu vừa miệng."
+"Không có chỗ để xe máy, rất khó khăn để gửi xe.",negative,0,"không có chỗ để xe máy, rất khó khăn để gửi xe."
+"Chỉ ghé uống nước, thấy nước ép khá tươi.",neutral,1,"chỉ ghé uống nước, thấy nước ép khá tươi."
+"Bia lạnh, mồi ngon, thích hợp để nhậu với bạn bè.",positive,2,"bia lạnh, mồi ngon, thích hợp để nhậu với bạn bè."
+"Gọi món không có, nhân viên cũng không báo trước.",negative,0,"gọi món không có, nhân viên cũng không báo trước."
+Món tráng miệng hơi ít so với giá.,neutral,1,món tráng miệng hơi ít so với giá.
+"Burger bò phô mai ngon, thịt bò mềm và mọng nước.",positive,2,"burger bò phô mai ngon, thịt bò mềm và mọng nước."
+"Cơm bị khô và cứng, như cơm nguội hâm lại.",negative,0,"cơm bị khô và cứng, như cơm nguội hâm lại."
+"Quán có nhạc hay, không gian lãng mạn.",positive,2,"quán có nhạc hay, không gian lãng mạn."
+Hóa đơn tính thừa tiền nước.,negative,0,hóa đơn tính thừa tiền nước.
+"Món súp tôm hùm quá béo, ăn mau ngán.",neutral,1,"món súp tôm hùm quá béo, ăn mau ngán."
+Quán có chương trình khuyến mãi hấp dẫn. Đồ ăn ngon.,positive,2,quán có chương trình khuyến mãi hấp dẫn. đồ ăn ngon.
+"Đĩa thịt heo quay quá mỡ, không có nạc.",negative,0,"đĩa thịt heo quay quá mỡ, không có nạc."
+Cũng được. Điểm cộng là quán có wifi mạnh.,neutral,1,cũng được. điểm cộng là quán có wifi mạnh.
+"Bánh flan ngon xuất sắc, mịn và thơm caramel.",positive,2,"bánh flan ngon xuất sắc, mịn và thơm caramel."
+Giá cả không niêm yết rõ ràng.,negative,0,giá cả không niêm yết rõ ràng.
+"Các món nhậu ở đây khá phong phú, chất lượng ổn.",positive,2,"các món nhậu ở đây khá phong phú, chất lượng ổn."
+Nhân viên vừa phục vụ vừa nói chuyện riêng rất ồn ào.,negative,0,nhân viên vừa phục vụ vừa nói chuyện riêng rất ồn ào.
+"Uống cà phê đen đá, thấy vị hơi nhạt.",neutral,1,"uống cà phê đen đá, thấy vị hơi nhạt."
+"Đến đây ăn bò bít tết là chuẩn nhất, miếng thịt mềm tan.",positive,2,"đến đây ăn bò bít tết là chuẩn nhất, miếng thịt mềm tan."
+Bát nước chấm bị dính bẩn.,negative,0,bát nước chấm bị dính bẩn.
+"Chất lượng không ổn định, lần trước ngon, lần này dở.",neutral,1,"chất lượng không ổn định, lần trước ngon, lần này dở."
+"Quán có phục vụ ăn sáng, rất tiện lợi và ngon miệng.",positive,2,"quán có phục vụ ăn sáng, rất tiện lợi và ngon miệng."
+Món ăn có mùi dầu chiên cũ.,negative,0,món ăn có mùi dầu chiên cũ.
+"Trà đào cam sả thơm, nhưng không có vị cam nhiều.",neutral,1,"trà đào cam sả thơm, nhưng không có vị cam nhiều."
+"Ghé ăn thử món cơm trộn, thấy vị rất chuẩn Hàn Quốc.",positive,2,"ghé ăn thử món cơm trộn, thấy vị rất chuẩn hàn quốc."
+Bia không đủ lạnh.,negative,0,bia không đủ lạnh.
+"Quán này chuyên về món miền Trung, vị khá đặc trưng.",neutral,1,"quán này chuyên về món miền trung, vị khá đặc trưng."
+"Món mực chiên giòn rụm, chấm với sốt tương ớt rất hợp.",positive,2,"món mực chiên giòn rụm, chấm với sốt tương ớt rất hợp."
+Bị tính phí gửi khăn lạnh mà không hỏi ý kiến.,negative,0,bị tính phí gửi khăn lạnh mà không hỏi ý kiến.
+Nói chung là hài lòng. Đồ ăn chất lượng tương xứng với giá.,positive,2,nói chung là hài lòng. đồ ăn chất lượng tương xứng với giá.
+"Lần đầu ghé, thấy cũng ổn áp, không có gì để chê.",neutral,1,"lần đầu ghé, thấy cũng ổn áp, không có gì để chê."
+"Phục vụ quá lâu, làm tôi trễ cả cuộc hẹn.",negative,0,"phục vụ quá lâu, làm tôi trễ cả cuộc hẹn."
+"Bánh canh giò heo ở đây rất ngon, giò to, nước dùng ngọt xương.",positive,2,"bánh canh giò heo ở đây rất ngon, giò to, nước dùng ngọt xương."
+Quán không nhận đặt bàn trước.,neutral,1,quán không nhận đặt bàn trước.
+Rau ăn kèm bị héo úa.,negative,0,rau ăn kèm bị héo úa.
+"Không gian yên tĩnh, thích hợp cho làm việc.",positive,2,"không gian yên tĩnh, thích hợp cho làm việc."
+"Món bò kho mặn quá, không có vị béo.",negative,0,"món bò kho mặn quá, không có vị béo."
+Chỉ là một quán vỉa hè bình thường.,neutral,1,chỉ là một quán vỉa hè bình thường.
+"Món kem dừa thơm béo, ăn cực đã vào ngày nóng.",positive,2,"món kem dừa thơm béo, ăn cực đã vào ngày nóng."
+Bánh bao nhân trứng muối bị khô cứng.,negative,0,bánh bao nhân trứng muối bị khô cứng.
+Phần ăn hơi nhỏ so với hình ảnh trên menu.,neutral,1,phần ăn hơi nhỏ so với hình ảnh trên menu.
+"Cà phê pha đậm đà, đúng gu của tôi.",positive,2,"cà phê pha đậm đà, đúng gu của tôi."
+Bàn ăn có kiến bò lổm ngổm.,negative,0,bàn ăn có kiến bò lổm ngổm.
+"Món chè thập cẩm ngon, không quá ngọt.",positive,2,"món chè thập cẩm ngon, không quá ngọt."
+Gọi món không đúng với hình ảnh minh họa.,negative,0,gọi món không đúng với hình ảnh minh họa.
+Thịt gà hơi ít.,neutral,1,thịt gà hơi ít.
+"Quán có không gian mở, rất thoáng mát.",positive,2,"quán có không gian mở, rất thoáng mát."
+Nhân viên không biết về món ăn trong menu.,negative,0,nhân viên không biết về món ăn trong menu.
+"Sốt chấm ngon, làm tăng hương vị món ăn.",positive,2,"sốt chấm ngon, làm tăng hương vị món ăn."
+Bát đĩa có vẻ không được rửa sạch sẽ.,negative,0,bát đĩa có vẻ không được rửa sạch sẽ.
+"Chỉ bán mang đi, không có chỗ ngồi.",neutral,1,"chỉ bán mang đi, không có chỗ ngồi."
+"Món sườn nướng mật ong mềm, thơm phức.",positive,2,"món sườn nướng mật ong mềm, thơm phức."
+"Đợi tính tiền rất lâu, làm tôi khó chịu.",negative,0,"đợi tính tiền rất lâu, làm tôi khó chịu."
+Hương vị món ăn hơi nhạt so với kỳ vọng.,neutral,1,hương vị món ăn hơi nhạt so với kỳ vọng.
+"Trà vải thơm ngon, miếng vải tươi ngọt.",positive,2,"trà vải thơm ngon, miếng vải tươi ngọt."
+Nước đá có mùi lạ.,negative,0,nước đá có mùi lạ.
+"Quán nằm ở vị trí dễ tìm, tiện lợi.",positive,2,"quán nằm ở vị trí dễ tìm, tiện lợi."
+"Món ăn quá nhiều gia vị, không cảm nhận được vị tươi của nguyên liệu.",negative,0,"món ăn quá nhiều gia vị, không cảm nhận được vị tươi của nguyên liệu."
+Ghế ngồi không thoải mái.,neutral,1,ghế ngồi không thoải mái.
+"Lẩu riêu cua đậm đà, cua gạch béo ngậy.",positive,2,"lẩu riêu cua đậm đà, cua gạch béo ngậy."
+Bị tính sai món trong hóa đơn.,negative,0,bị tính sai món trong hóa đơn.
+"Súp cua ăn tạm được, nhưng không đặc sắc.",neutral,1,"súp cua ăn tạm được, nhưng không đặc sắc."
+"Món vịt quay da giòn rụm, thịt mềm, nước sốt ngon.",positive,2,"món vịt quay da giòn rụm, thịt mềm, nước sốt ngon."
+Hóa đơn tính thêm 10% VAT mà không báo trước.,negative,0,hóa đơn tính thêm 10 vat mà không báo trước.
+Quán có nhiều loại rượu vang để lựa chọn.,positive,2,quán có nhiều loại rượu vang để lựa chọn.
+"Phần ăn quá ít, không đủ cho một người.",negative,0,"phần ăn quá ít, không đủ cho một người."
+Nước ngọt bán giá quá cao.,neutral,1,nước ngọt bán giá quá cao.
+"Món bún riêu cua ngon tuyệt vời, rất đáng thử.",positive,2,"món bún riêu cua ngon tuyệt vời, rất đáng thử."
+Món cá hấp không chín đều.,negative,0,món cá hấp không chín đều.
+"Quán khá đông vào giờ cao điểm, nên đến sớm.",neutral,1,"quán khá đông vào giờ cao điểm, nên đến sớm."
+"Chè bưởi giòn sần sật, nước cốt dừa béo thơm.",positive,2,"chè bưởi giòn sần sật, nước cốt dừa béo thơm."
+Gửi xe bị mất tiền giữ xe.,negative,0,gửi xe bị mất tiền giữ xe.
+Đồ ăn ra chậm. Cần cải thiện tốc độ phục vụ.,neutral,1,đồ ăn ra chậm. cần cải thiện tốc độ phục vụ.
+"Bò lúc lắc mềm, khoai tây chiên giòn. Rất ngon.",positive,2,"bò lúc lắc mềm, khoai tây chiên giòn. rất ngon."
+Gọi món mang về nhưng không có muỗng đũa.,negative,0,gọi món mang về nhưng không có muỗng đũa.
+"Nước uống ngon, nhưng đồ ăn không hợp khẩu vị.",neutral,1,"nước uống ngon, nhưng đồ ăn không hợp khẩu vị."
+Bánh tráng cuốn thịt heo chấm mắm nêm xuất sắc.,positive,2,bánh tráng cuốn thịt heo chấm mắm nêm xuất sắc.
+Thức ăn bị nguội ngắt khi mang ra.,negative,0,thức ăn bị nguội ngắt khi mang ra.
+"Quán có không gian riêng tư, thích hợp cho gia đình.",positive,2,"quán có không gian riêng tư, thích hợp cho gia đình."
+Lại món gà bị sống ở bên trong.,negative,0,lại món gà bị sống ở bên trong.
+"Hạt nêm dùng hơi nhiều, vị mì chính rõ.",neutral,1,"hạt nêm dùng hơi nhiều, vị mì chính rõ."
+"Món salad trộn dầu giấm chua ngọt vừa phải, tươi mát.",positive,2,"món salad trộn dầu giấm chua ngọt vừa phải, tươi mát."
+"Bánh pizza đế quá dày, ăn mau ngán.",neutral,1,"bánh pizza đế quá dày, ăn mau ngán."
+"Giá quá đắt, không xứng đáng với chất lượng.",negative,0,"giá quá đắt, không xứng đáng với chất lượng."
+Rất hài lòng. Sẽ là địa điểm quen thuộc của tôi.,positive,2,rất hài lòng. sẽ là địa điểm quen thuộc của tôi.
+Món ăn được trang trí đẹp mắt.,positive,2,món ăn được trang trí đẹp mắt.
+"Gửi xe máy tốn 10k, quá chát.",negative,0,"gửi xe máy tốn 10k, quá chát."
+"Đồ ăn tạm ổn, nhân viên thân thiện.",neutral,1,"đồ ăn tạm ổn, nhân viên thân thiện."
+"Món hủ tiếu gõ có vị ngọt thanh, sợi hủ tiếu dai.",positive,2,"món hủ tiếu gõ có vị ngọt thanh, sợi hủ tiếu dai."
+Quán không có nhà vệ sinh sạch sẽ.,negative,0,quán không có nhà vệ sinh sạch sẽ.
+Cũng được. Phù hợp với mức giá sinh viên.,neutral,1,cũng được. phù hợp với mức giá sinh viên.
+"Nem nướng giòn rụm, nước chấm đặc biệt. Tuyệt vời.",positive,2,"nem nướng giòn rụm, nước chấm đặc biệt. tuyệt vời."
+"Khách ngồi hút thuốc lá trong phòng lạnh, rất khó chịu.",negative,0,"khách ngồi hút thuốc lá trong phòng lạnh, rất khó chịu."
+"Lần đầu ăn thử món này, thấy cũng ổn.",neutral,1,"lần đầu ăn thử món này, thấy cũng ổn."
+"Cá diêu hồng hấp xì dầu tươi ngon, không bị tanh.",positive,2,"cá diêu hồng hấp xì dầu tươi ngon, không bị tanh."
+Quán có mùi hôi từ cống rãnh.,negative,0,quán có mùi hôi từ cống rãnh.
+"Thịt bò kho gừng mềm, vị đậm đà. Ăn rất hao cơm.",positive,2,"thịt bò kho gừng mềm, vị đậm đà. ăn rất hao cơm."
+"Trà chanh không có vị trà, toàn đường và đá.",negative,0,"trà chanh không có vị trà, toàn đường và đá."
+Quán nhỏ nhưng sạch sẽ.,neutral,1,quán nhỏ nhưng sạch sẽ.
+"Món cơm chiên dương châu rất ngon, hạt cơm tơi.",positive,2,"món cơm chiên dương châu rất ngon, hạt cơm tơi."
+Bị tính tiền dịch vụ mà không rõ lý do.,negative,0,bị tính tiền dịch vụ mà không rõ lý do.
+Tổng thể quán ăn cũng tạm ổn.,neutral,1,tổng thể quán ăn cũng tạm ổn.
+Nhân viên phục vụ rất nhiệt tình và chu đáo.,positive,2,nhân viên phục vụ rất nhiệt tình và chu đáo.
+Đặt món online bị hủy đơn không lý do.,negative,0,đặt món online bị hủy đơn không lý do.
+"Món ăn được, nhưng không có tính sáng tạo.",neutral,1,"món ăn được, nhưng không có tính sáng tạo."
+"Quán có không gian mở, rất thoáng mát.",positive,2,"quán có không gian mở, rất thoáng mát."
+"Bánh mì quá dai, không thể cắn nổi.",negative,0,"bánh mì quá dai, không thể cắn nổi."
+"Chỉ mua cà phê mang đi, thấy pha cũng được.",neutral,1,"chỉ mua cà phê mang đi, thấy pha cũng được."
+"Món cháo lòng thơm ngon, đầy đủ nội tạng.",positive,2,"món cháo lòng thơm ngon, đầy đủ nội tạng."
+Quán ồn ào như cái chợ.,negative,0,quán ồn ào như cái chợ.
+"Lần đầu ghé, thấy đồ ăn cũng bình thường.",neutral,1,"lần đầu ghé, thấy đồ ăn cũng bình thường."
+"Ốc hương rang muối tỏi thơm lừng, ốc tươi.",positive,2,"ốc hương rang muối tỏi thơm lừng, ốc tươi."
+"Nước mắm quá dở, làm mất vị món ăn.",negative,0,"nước mắm quá dở, làm mất vị món ăn."
+Giá hơi cao so với chất lượng nguyên liệu.,neutral,1,giá hơi cao so với chất lượng nguyên liệu.
+"Bánh mì bơ tỏi giòn tan, thơm nức mũi.",positive,2,"bánh mì bơ tỏi giòn tan, thơm nức mũi."
+Bát đĩa bị sứt mẻ.,negative,0,bát đĩa bị sứt mẻ.
+"Không gian quán sạch sẽ, thoáng mát.",positive,2,"không gian quán sạch sẽ, thoáng mát."
+Thịt gà có vẻ không tươi.,negative,0,thịt gà có vẻ không tươi.
+"Món này không có gì đặc sắc, ăn cho biết.",neutral,1,"món này không có gì đặc sắc, ăn cho biết."
+Món tráng miệng miễn phí rất ngon.,positive,2,món tráng miệng miễn phí rất ngon.
+Đồ ăn quá nguội khi mang ra.,negative,0,đồ ăn quá nguội khi mang ra.
+Quán ăn có nhiều món hải sản tươi sống.,positive,2,quán ăn có nhiều món hải sản tươi sống.
+Bị tính tiền thêm cho rau sống.,negative,0,bị tính tiền thêm cho rau sống.
+Hương vị món ăn này cũng ổn.,neutral,1,hương vị món ăn này cũng ổn.
+"Đáng đồng tiền bát gạo, món nào cũng chất lượng.",positive,2,"đáng đồng tiền bát gạo, món nào cũng chất lượng."
+Giao hàng thiếu món.,negative,0,giao hàng thiếu món.
+"Cũng ok, không đến nỗi tệ.",neutral,1,"cũng ok, không đến nỗi tệ."
+"Súp bí đỏ ngon, mịn và béo.",positive,2,"súp bí đỏ ngon, mịn và béo."
+Bàn ghế dính dầu mỡ.,negative,0,bàn ghế dính dầu mỡ.
+"Rất ưng ý, sẽ quay lại thường xuyên.",positive,2,"rất ưng ý, sẽ quay lại thường xuyên."
+Quán đóng cửa quá sớm.,neutral,1,quán đóng cửa quá sớm.
+Thịt lợn có mùi hôi.,negative,0,thịt lợn có mùi hôi.
+"Món ăn chuẩn vị quê hương, rất ngon.",positive,2,"món ăn chuẩn vị quê hương, rất ngon."
+"Chỉ mua nước, thấy cũng được.",neutral,1,"chỉ mua nước, thấy cũng được."
+Nước dùng phở quá nhạt.,negative,0,nước dùng phở quá nhạt.
+Bò bít tết ngon tuyệt.,positive,2,bò bít tết ngon tuyệt.
+Hơi ít chỗ ngồi.,neutral,1,hơi ít chỗ ngồi.
+Nhân viên thái độ tệ.,negative,0,nhân viên thái độ tệ.
+Món ăn ngon và sạch sẽ.,positive,2,món ăn ngon và sạch sẽ.
+Đĩa salad quá ít rau.,negative,0,đĩa salad quá ít rau.
+Tạm chấp nhận được.,neutral,1,tạm chấp nhận được.
+Rất hài lòng về chất lượng.,positive,2,rất hài lòng về chất lượng.
+Gà nướng bị khô.,negative,0,gà nướng bị khô.
+Quán có view đẹp.,positive,2,quán có view đẹp.
+Chờ món quá lâu.,negative,0,chờ món quá lâu.
+Vị cà phê bình thường.,neutral,1,vị cà phê bình thường.
+Món xôi chiên giòn rụm.,positive,2,món xôi chiên giòn rụm.
+Bánh ngọt cũ.,negative,0,bánh ngọt cũ.
+Hương vị tạm ổn.,neutral,1,hương vị tạm ổn.
+Dịch vụ nhanh nhẹn.,positive,2,dịch vụ nhanh nhẹn.
+Đồ uống quá đắt.,negative,0,đồ uống quá đắt.
+Không gian thoáng đãng.,positive,2,không gian thoáng đãng.
+Phục vụ chậm.,negative,0,phục vụ chậm.
+Món ăn này cũng được.,neutral,1,món ăn này cũng được.
+Thực sự rất ngon.,positive,2,thực sự rất ngon.
+Quá nhiều dầu mỡ.,negative,0,quá nhiều dầu mỡ.
+Sẽ giới thiệu bạn bè.,positive,2,sẽ giới thiệu bạn bè.
+Giá cả hợp lý.,neutral,1,giá cả hợp lý.
+Bị tính sai tiền.,negative,0,bị tính sai tiền.
+Món ăn chuẩn vị.,positive,2,món ăn chuẩn vị.
+Chỉ ghé một lần.,neutral,1,chỉ ghé một lần.
+Hải sản không tươi.,negative,0,hải sản không tươi.
+Đáng đồng tiền.,positive,2,đáng đồng tiền.
+Món ăn nhạt.,neutral,1,món ăn nhạt.
+Thái độ không tốt.,negative,0,thái độ không tốt.
+Cực kỳ thích.,positive,2,cực kỳ thích.
+Không gian ồn.,negative,0,không gian ồn.
+Món mới lạ.,positive,2,món mới lạ.
+Ăn cũng được.,neutral,1,ăn cũng được.
+Đừng nên ăn.,negative,0,đừng nên ăn.
+Tô phở 50k mà thịt có vài lát mỏng dính. Ăn xong mà vẫn đói bụng luôn á.,negative,0,tô phở 50k mà thịt có vài lát mỏng dính. ăn xong mà vẫn đói bụng luôn á.
+"Món bún đậu mắm tôm ở đây thì khỏi chê. Mắm tôm pha cực kì vừa miệng, cuốn lắm!",positive,2,"món bún đậu mắm tôm ở đây thì khỏi chê. mắm tôm pha cực kì vừa miệng, cuốn lắm!"
+"Gọi ly trà tắc mà ngọt lịm tim, uống không vô. Chắc chắn là quên dặn ít đường.",negative,0,"gọi ly trà tắc mà ngọt lịm tim, uống không vô. chắc chắn là quên dặn ít đường."
+"Quán cà phê có cái view 'sống ảo' xịn sò ghê, nhưng nước uống thì dở tệ.",neutral,1,"quán cà phê có cái view sống ảo xịn sò ghê, nhưng nước uống thì dở tệ."
+"Thấy quán đông nên tấp vô ăn thử, ai dè món gì cũng ngon bá cháy bọ chét!",positive,2,"thấy quán đông nên tấp vô ăn thử, ai dè món gì cũng ngon bá cháy bọ chét!"
+"Cái bàn mình ngồi dính dính khó chịu, lau chùi không sạch sẽ gì hết.",negative,0,"cái bàn mình ngồi dính dính khó chịu, lau chùi không sạch sẽ gì hết."
+"Hôm đó mình tới ăn gà rán, thịt gà hơi bị khô, không được mọng nước như quảng cáo.",neutral,1,"hôm đó mình tới ăn gà rán, thịt gà hơi bị khô, không được mọng nước như quảng cáo."
+"Phải công nhận là món cơm rang dưa bò ở đây ăn rất đưa miệng, khômg ngán tí nào.",positive,2,"phải công nhận là món cơm rang dưa bò ở đây ăn rất đưa miệng, khômg ngán tí nào."
+"Vào quán gọi đồ, đứng chờ gần 15 phút mà nhân viên cứ bơ mình luôn.",negative,0,"vào quán gọi đồ, đứng chờ gần 15 phút mà nhân viên cứ bơ mình luôn."
+"Bún riêu cua đồng vị thanh, sợi bún mềm. Ăn xong thấy ấm bụng, rất đáng tiền.",positive,2,"bún riêu cua đồng vị thanh, sợi bún mềm. ăn xong thấy ấm bụng, rất đáng tiền."
+"Đặt ship về hộp bị méo mó, nước lẩu chảy tùm lum ra ngoài hết trơn.",negative,0,"đặt ship về hộp bị méo mó, nước lẩu chảy tùm lum ra ngoài hết trơn."
+"Bánh tráng trộn ở đây gia vị vừa phải, không quá cay, ăn nhẹ nhàng thôi.",neutral,1,"bánh tráng trộn ở đây gia vị vừa phải, không quá cay, ăn nhẹ nhàng thôi."
+"Trà sữa vị ô long ở đây là chân ái của mình, uống hoài không ngán.",positive,2,"trà sữa vị ô long ở đây là chân ái của mình, uống hoài không ngán."
+"Quán này chắc nổi nhờ PR thôi, chứ đồ ăn dở ẹc, ăn hết muốn nói.",negative,0,"quán này chắc nổi nhờ pr thôi, chứ đồ ăn dở ẹc, ăn hết muốn nói."
+"Hôm bữa mình đi ăn sinh nhật, quán sắp xếp phòng riêng hơi nhỏ xíu.",neutral,1,"hôm bữa mình đi ăn sinh nhật, quán sắp xếp phòng riêng hơi nhỏ xíu."
+"Pizza hải sản tươi rói, phô mai kéo sợi dài, thơm phức. Chấm hết!",positive,2,"pizza hải sản tươi rói, phô mai kéo sợi dài, thơm phức. chấm hết!"
+"Món lẩu thái chua cay mà không thấy vị gì hết, nhạt như nước ốc.",negative,0,"món lẩu thái chua cay mà không thấy vị gì hết, nhạt như nước ốc."
+"Nhân viên ở đây lanh lẹ, thấy khách vừa dơ tay là có mặt liền.",positive,2,"nhân viên ở đây lanh lẹ, thấy khách vừa dơ tay là có mặt liền."
+"Món bò né ở đây ăn cũng tàm tạm, nước sốt hơi lỏng.",neutral,1,"món bò né ở đây ăn cũng tàm tạm, nước sốt hơi lỏng."
+"Khăn giấy trên bàn ướt nhẹp, chắc dính nước từ lúc nào rồi.",negative,0,"khăn giấy trên bàn ướt nhẹp, chắc dính nước từ lúc nào rồi."
+"Chủ quán rất thân thiện, hay hỏi thăm khách. Cảm giác rất gần gũi.",positive,2,"chủ quán rất thân thiện, hay hỏi thăm khách. cảm giác rất gần gũi."
+"Đợi món quá lâu, bạn mình ăn xong cả rồi mình mới có đồ ăn.",negative,0,"đợi món quá lâu, bạn mình ăn xong cả rồi mình mới có đồ ăn."
+"Quán này giá hơi chát xíu, nhưng chất lượng thì miễn bàn luôn.",positive,2,"quán này giá hơi chát xíu, nhưng chất lượng thì miễn bàn luôn."
+"Kem vị vani hơi bị dăm đá, ăn mất ngon.",neutral,1,"kem vị vani hơi bị dăm đá, ăn mất ngon."
+"Ốc luộc nguội ngắt, ăn cứ thấy lạt lẽo, không có vị sả gừng gì cả.",negative,0,"ốc luộc nguội ngắt, ăn cứ thấy lạt lẽo, không có vị sả gừng gì cả."
+Sáng nào đi làm cũng ghé mua cà phê ở đây. Pha ngon mà giá phải chăng.,positive,2,sáng nào đi làm cũng ghé mua cà phê ở đây. pha ngon mà giá phải chăng.
+"Quán hơi bị tối, chụp hình lên không được đẹp lắm.",neutral,1,"quán hơi bị tối, chụp hình lên không được đẹp lắm."
+"Cơm gà xối mỡ mà dầu mỡ lềnh bềnh, ăn ngán kinh khủng.",negative,0,"cơm gà xối mỡ mà dầu mỡ lềnh bềnh, ăn ngán kinh khủng."
+"Món súp cua óc heo nóng hổi, thịt cua nhiều. Rất đáng thử nha.",positive,2,"món súp cua óc heo nóng hổi, thịt cua nhiều. rất đáng thử nha."
+Hôm mình ghé quán hết món ruột. Đành ăn món khác thấy dở.,negative,0,hôm mình ghé quán hết món ruột. đành ăn món khác thấy dở.
+"Gọi món bún mắm, thấy nước lèo thơm. Ăn được.",neutral,1,"gọi món bún mắm, thấy nước lèo thơm. ăn được."
+"Thịt xiên nướng than hoa thơm lừng, chấm với tương ớt cay cay đã miệng.",positive,2,"thịt xiên nướng than hoa thơm lừng, chấm với tương ớt cay cay đã miệng."
+"Xin thêm ít rau sống mà nhân viên cứ nhăn nhó, khó chịu ghê.",negative,0,"xin thêm ít rau sống mà nhân viên cứ nhăn nhó, khó chịu ghê."
+"Không gian quán decor dễ thương, hợp với mấy bạn thích chụp ảnh.",positive,2,"không gian quán decor dễ thương, hợp với mấy bạn thích chụp ảnh."
+"Món gỏi cuốn bị lỏng lẻo, cầm lên là rớt ra hết.",negative,0,"món gỏi cuốn bị lỏng lẻo, cầm lên là rớt ra hết."
+"Chỉ vào uống nước thôi, nước ổn, không gian cũng thoải mái.",neutral,1,"chỉ vào uống nước thôi, nước ổn, không gian cũng thoải mái."
+"Miếng sườn nướng mật ong to chà bá, mềm oặt, không hề bị dai.",positive,2,"miếng sườn nướng mật ong to chà bá, mềm oặt, không hề bị dai."
+Đã ăn xong hết rồi mà chén dĩa cũ vẫn chưa thấy ai dọn đi.,negative,0,đã ăn xong hết rồi mà chén dĩa cũ vẫn chưa thấy ai dọn đi.
+"Món cá lóc kho tộ ngon đậm đà, ăn hao cơm lắm luôn.",positive,2,"món cá lóc kho tộ ngon đậm đà, ăn hao cơm lắm luôn."
+"Đến quán mà không có chỗ gửi xe, phải đi bộ một đoạn.",negative,0,"đến quán mà không có chỗ gửi xe, phải đi bộ một đoạn."
+"Bún thịt nướng vị cũng tạm, sợi bún hơi cứng.",neutral,1,"bún thịt nướng vị cũng tạm, sợi bún hơi cứng."
+"Quán đông nhưng nhân viên phục vụ cực kì nhanh nhẹn, không để khách chờ lâu.",positive,2,"quán đông nhưng nhân viên phục vụ cực kì nhanh nhẹn, không để khách chờ lâu."
+"Hôm đó ăn món bò sốt vang, thịt bò bị hôi, ăn thấy kinh.",negative,0,"hôm đó ăn món bò sốt vang, thịt bò bị hôi, ăn thấy kinh."
+"Đi ăn lẩu, gọi thêm đồ nhúng mà đợi mòn mỏi luôn.",neutral,1,"đi ăn lẩu, gọi thêm đồ nhúng mà đợi mòn mỏi luôn."
+"Món chè khúc bạch ở đây thanh mát, ăn giải nhiệt mùa hè là hết sẩy.",positive,2,"món chè khúc bạch ở đây thanh mát, ăn giải nhiệt mùa hè là hết sẩy."
+Tự nhiên bị tính thêm phí 'khăn lạnh' mà mình có dùng đâu.,negative,0,tự nhiên bị tính thêm phí khăn lạnh mà mình có dùng đâu.
+Giá cả hơi cao hơn mấy quán xung quanh một chút.,neutral,1,giá cả hơi cao hơn mấy quán xung quanh một chút.
+"Bánh mì pate thơm béo, ăn sáng chỉ cần một ổ là no cả buổi.",positive,2,"bánh mì pate thơm béo, ăn sáng chỉ cần một ổ là no cả buổi."
+"Trong tô có ruồi bay, nhìn không dám ăn tiếp luôn.",negative,0,"trong tô có ruồi bay, nhìn không dám ăn tiếp luôn."
+"Quán mở nhạc hơi to, nói chuyện với bạn bè cứ phải hét lên.",neutral,1,"quán mở nhạc hơi to, nói chuyện với bạn bè cứ phải hét lên."
+"Lần đầu ăn thử món bún bò Huế ở đây mà nghiện luôn, nước lèo chất lượng.",positive,2,"lần đầu ăn thử món bún bò huế ở đây mà nghiện luôn, nước lèo chất lượng."
+"Tráng miệng bằng món kem dừa mà kem toàn đá, chán ghê.",negative,0,"tráng miệng bằng món kem dừa mà kem toàn đá, chán ghê."
+"Bánh crepe sầu riêng ăn cũng được, sầu riêng không quá đậm mùi.",neutral,1,"bánh crepe sầu riêng ăn cũng được, sầu riêng không quá đậm mùi."
+"Quán sạch sẽ, không gian thoáng. Đồ ăn thì ngon miễn bàn rồi.",positive,2,"quán sạch sẽ, không gian thoáng. đồ ăn thì ngon miễn bàn rồi."
+"Món gà tiềm thuốc bắc ở đây hơi bị đắng, mình ăn không quen.",negative,0,"món gà tiềm thuốc bắc ở đây hơi bị đắng, mình ăn không quen."
+"Món trà trái cây hơi nhiều đá, tan ra là nhạt toẹt.",neutral,1,"món trà trái cây hơi nhiều đá, tan ra là nhạt toẹt."
+"Sữa chua phô mai nhà làm béo ngậy, chua chua ngọt ngọt rất hợp.",positive,2,"sữa chua phô mai nhà làm béo ngậy, chua chua ngọt ngọt rất hợp."
+"Vào quán mà không thấy ai chào đón, cứ lóng ngóng không biết ngồi đâu.",negative,0,"vào quán mà không thấy ai chào đón, cứ lóng ngóng không biết ngồi đâu."
+"Món phở cuốn ăn thanh mát, chấm mắm nêm khá ngon.",positive,2,"món phở cuốn ăn thanh mát, chấm mắm nêm khá ngon."
+"Món ăn quá mặn, mình phải xin thêm nước lọc để pha loãng ra.",negative,0,"món ăn quá mặn, mình phải xin thêm nước lọc để pha loãng ra."
+"Món mì trộn hải sản ở đây ăn cũng ổn, hải sản hơi ít.",neutral,1,"món mì trộn hải sản ở đây ăn cũng ổn, hải sản hơi ít."
+"Bia ở đây lạnh tê tái, nhậu với đồ ăn nóng là hết ý.",positive,2,"bia ở đây lạnh tê tái, nhậu với đồ ăn nóng là hết ý."
+"Nhân viên cứ đứng nhìn chằm chằm khách, ăn uống mất tự nhiên.",negative,0,"nhân viên cứ đứng nhìn chằm chằm khách, ăn uống mất tự nhiên."
+"Bánh canh cua đầy ắp cua và giò, nước dùng sánh đậm đà.",positive,2,"bánh canh cua đầy ắp cua và giò, nước dùng sánh đậm đà."
+"Không gian quán hơi cũ kỹ, nhìn không được sang trọng.",neutral,1,"không gian quán hơi cũ kỹ, nhìn không được sang trọng."
+"Rau sống ở đây không được rửa kĩ, vẫn còn dính đất.",negative,0,"rau sống ở đây không được rửa kĩ, vẫn còn dính đất."
+Lẩu riêu cua bắp bò ngon xuất sắc. Lần nào về cũng phải ghé ăn.,positive,2,lẩu riêu cua bắp bò ngon xuất sắc. lần nào về cũng phải ghé ăn.
+"Quán này bị tính phí giữ xe, thấy không vui lắm.",negative,0,"quán này bị tính phí giữ xe, thấy không vui lắm."
+"Hôm đó gọi trà đào, thấy đào hơi bị mềm, không được giòn.",neutral,1,"hôm đó gọi trà đào, thấy đào hơi bị mềm, không được giòn."
+"Quán có chỗ ngồi ngoài trời thoáng mát, đồ ăn ngon mà giá mềm.",positive,2,"quán có chỗ ngồi ngoài trời thoáng mát, đồ ăn ngon mà giá mềm."
+"Bánh ngọt ở đây cứ khô khô, ăn cảm giác bị ngấy.",negative,0,"bánh ngọt ở đây cứ khô khô, ăn cảm giác bị ngấy."
+"Món hủ tiếu nam vang ăn cũng được, nhưng không đặc sắc.",neutral,1,"món hủ tiếu nam vang ăn cũng được, nhưng không đặc sắc."
+"Bún chả giò chiên giòn tan, nước chấm chua ngọt. Ăn một tô là no căng bụng.",positive,2,"bún chả giò chiên giòn tan, nước chấm chua ngọt. ăn một tô là no căng bụng."
+Đặt bàn qua điện thoại mà vẫn bị bắt chờ hơn nửa tiếng.,negative,0,đặt bàn qua điện thoại mà vẫn bị bắt chờ hơn nửa tiếng.
+"Món cá nướng muối ớt cay xè, ăn rất đã. Dành cho team ăn cay nha.",positive,2,"món cá nướng muối ớt cay xè, ăn rất đã. dành cho team ăn cay nha."
+Chỉ mua một chai nước suối mà cũng phải xếp hàng tính tiền.,neutral,1,chỉ mua một chai nước suối mà cũng phải xếp hàng tính tiền.
+"Nhân viên tính tiền sai, phải tự kiểm tra lại mới phát hiện ra.",negative,0,"nhân viên tính tiền sai, phải tự kiểm tra lại mới phát hiện ra."
+"Phở gà ta ở đây thịt dai, nước dùng ngọt tự nhiên. Rất chất lượng.",positive,2,"phở gà ta ở đây thịt dai, nước dùng ngọt tự nhiên. rất chất lượng."
+"Quán quá đông, phải ngồi chung bàn với người lạ, không thoải mái.",negative,0,"quán quá đông, phải ngồi chung bàn với người lạ, không thoải mái."
+"Món bò kho ăn hơi bị ngọt, không hợp với khẩu vị miền Bắc.",neutral,1,"món bò kho ăn hơi bị ngọt, không hợp với khẩu vị miền bắc."
+"Bánh cuốn ở đây nhân đầy đặn, nước chấm ấm nóng. Tuyệt vời.",positive,2,"bánh cuốn ở đây nhân đầy đặn, nước chấm ấm nóng. tuyệt vời."
+"Món ăn có ruồi bu, mất vệ sinh kinh khủng.",negative,0,"món ăn có ruồi bu, mất vệ sinh kinh khủng."
+"Quán có không gian yên tĩnh, thích hợp cho ai muốn học bài.",positive,2,"quán có không gian yên tĩnh, thích hợp cho ai muốn học bài."
+"Món sườn heo nướng bị cháy đen, ăn đắng ngắt.",negative,0,"món sườn heo nướng bị cháy đen, ăn đắng ngắt."
+"Nước ép cam hơi chua, chắc là do cam chưa chín.",neutral,1,"nước ép cam hơi chua, chắc là do cam chưa chín."
+"Món ăn dọn ra nhanh, nóng hổi, nhân viên thân thiện.",positive,2,"món ăn dọn ra nhanh, nóng hổi, nhân viên thân thiện."
+"Giá cả không được niêm yết rõ ràng, dễ bị 'chặt chém'.",negative,0,"giá cả không được niêm yết rõ ràng, dễ bị chặt chém ."
+"Bát đĩa không sạch, nhìn rõ vết bẩn.",negative,0,"bát đĩa không sạch, nhìn rõ vết bẩn."
+"Món cơm chiên hải sản rất ngon, hạt cơm tơi, tôm mực tươi.",positive,2,"món cơm chiên hải sản rất ngon, hạt cơm tơi, tôm mực tươi."
+"Sốt chấm quá dở, như là nước lã pha bột.",negative,0,"sốt chấm quá dở, như là nước lã pha bột."
+"Đồ ăn vặt ở đây cũng được, đa dạng.",neutral,1,"đồ ăn vặt ở đây cũng được, đa dạng."
+"Thịt ba chỉ luộc chấm mắm tôm ngon hết sảy, ăn kèm cà pháo giòn tan.",positive,2,"thịt ba chỉ luộc chấm mắm tôm ngon hết sảy, ăn kèm cà pháo giòn tan."
+"Nhân viên cứ lơ là, gọi hoài không thấy ai.",negative,0,"nhân viên cứ lơ là, gọi hoài không thấy ai."
+"Bánh flan caramen ngon, ngọt vừa, không bị tanh trứng.",positive,2,"bánh flan caramen ngon, ngọt vừa, không bị tanh trứng."
+Cốc trà sữa còn dính vết son môi của khách trước.,negative,0,cốc trà sữa còn dính vết son môi của khách trước.
+"Quán này chuyên món chay, ăn thanh đạm, dễ ăn.",neutral,1,"quán này chuyên món chay, ăn thanh đạm, dễ ăn."
+"Thức uống pha chế đẹp mắt, hương vị độc đáo. Rất sáng tạo.",positive,2,"thức uống pha chế đẹp mắt, hương vị độc đáo. rất sáng tạo."
+"Món nem chua rán bị ngấy dầu, ăn vào thấy cổ họng.",negative,0,"món nem chua rán bị ngấy dầu, ăn vào thấy cổ họng."
+"Món ếch xào sả ớt ngon, thịt ếch chắc và ngọt.",positive,2,"món ếch xào sả ớt ngon, thịt ếch chắc và ngọt."
+"Bánh kem hơi ngọt, ăn nhiều dễ bị ngán.",neutral,1,"bánh kem hơi ngọt, ăn nhiều dễ bị ngán."
+Tìm thấy một cái lông trong bát canh.,negative,0,tìm thấy một cái lông trong bát canh.
+Chủ quán nhiệt tình tư vấn món mới. Rất có tâm.,positive,2,chủ quán nhiệt tình tư vấn món mới. rất có tâm.
+"Quán cho mình khăn lạnh mà không hỏi, rồi tính tiền luôn.",negative,0,"quán cho mình khăn lạnh mà không hỏi, rồi tính tiền luôn."
+Món mì spaghetti sốt bò băm ở đây hơi chua.,neutral,1,món mì spaghetti sốt bò băm ở đây hơi chua.
+"Ghé quán lúc trưa nắng, được mời ly trà đá mát lạnh. Đã ghê.",positive,2,"ghé quán lúc trưa nắng, được mời ly trà đá mát lạnh. đã ghê."
+Phần ăn không đầy đặn như hình quảng cáo trên mạng.,negative,0,phần ăn không đầy đặn như hình quảng cáo trên mạng.
+"Món lẩu mắm miền Tây chuẩn vị, thơm nức mũi. Rất đáng thử.",positive,2,"món lẩu mắm miền tây chuẩn vị, thơm nức mũi. rất đáng thử."
+Đợi món mang ra thì bàn đã đầy rác.,negative,0,đợi món mang ra thì bàn đã đầy rác.
+"Quán này có bán thêm đồ ăn vặt, mua ăn kèm cũng tiện.",neutral,1,"quán này có bán thêm đồ ăn vặt, mua ăn kèm cũng tiện."
+"Món cá chép om dưa ngon, cá tươi, dưa chua vừa.",positive,2,"món cá chép om dưa ngon, cá tươi, dưa chua vừa."
+Bị tính tiền giữ xe máy quá mắc.,negative,0,bị tính tiền giữ xe máy quá mắc.
+"Món dimsum ở đây đa dạng, vỏ mỏng nhân đầy. Rất ngon.",positive,2,"món dimsum ở đây đa dạng, vỏ mỏng nhân đầy. rất ngon."
+"Món cà ri gà bị loãng, không thấy vị béo của nước cốt dừa.",negative,0,"món cà ri gà bị loãng, không thấy vị béo của nước cốt dừa."
+"Quán ăn có máy lạnh mát mẻ, sạch sẽ.",positive,2,"quán ăn có máy lạnh mát mẻ, sạch sẽ."
+"Bánh đa cua Hải Phòng ăn cũng được, nhưng không chuẩn vị lắm.",neutral,1,"bánh đa cua hải phòng ăn cũng được, nhưng không chuẩn vị lắm."
+Đi ăn mà phải tự đi lấy chén đũa.,negative,0,đi ăn mà phải tự đi lấy chén đũa.
+"Món xôi xéo ở đây vàng ươm, ruốc ngon. Ăn là ghiền.",positive,2,"món xôi xéo ở đây vàng ươm, ruốc ngon. ăn là ghiền."
+"Đồ uống làm quá ngọt, uống như nước đường.",negative,0,"đồ uống làm quá ngọt, uống như nước đường."
+"Món trà sữa khoai môn thơm, không bị lợ.",positive,2,"món trà sữa khoai môn thơm, không bị lợ."
+"Giá cả không quá rẻ, nhưng cũng không quá đắt.",neutral,1,"giá cả không quá rẻ, nhưng cũng không quá đắt."
+"Món ăn quá cay, không phù hợp với người không ăn cay được.",negative,0,"món ăn quá cay, không phù hợp với người không ăn cay được."
+"Món chả cá Lã Vọng thơm, chấm mắm tôm ngon tuyệt.",positive,2,"món chả cá lã vọng thơm, chấm mắm tôm ngon tuyệt."
+Chỗ ngồi ngoài trời bị muỗi đốt.,negative,0,chỗ ngồi ngoài trời bị muỗi đốt.
+"Món cơm gà rán ăn cũng ổn, gà không bị khô.",neutral,1,"món cơm gà rán ăn cũng ổn, gà không bị khô."
+"Quán có chỗ sạc điện thoại miễn phí, rất tiện.",positive,2,"quán có chỗ sạc điện thoại miễn phí, rất tiện."
+Nhân viên làm rơi đồ ăn xuống đất rồi nhặt lên.,negative,0,nhân viên làm rơi đồ ăn xuống đất rồi nhặt lên.
+"Bánh bao kim sa chảy nhân, béo ngậy.",positive,2,"bánh bao kim sa chảy nhân, béo ngậy."
+Đĩa rau muống xào bị đen.,negative,0,đĩa rau muống xào bị đen.
+"Chỉ ghé ăn sáng thôi, thấy cũng tạm ổn.",neutral,1,"chỉ ghé ăn sáng thôi, thấy cũng tạm ổn."
+"Lần nào tới ăn cũng thấy ngon miệng, chất lượng luôn được giữ.",positive,2,"lần nào tới ăn cũng thấy ngon miệng, chất lượng luôn được giữ."
+"Quán quá ồn ào, không gian rất hẹp.",negative,0,"quán quá ồn ào, không gian rất hẹp."
+"Món súp cua ngon, có nấm hương thơm.",positive,2,"món súp cua ngon, có nấm hương thơm."
+Bánh tráng cuốn có vị đắng.,negative,0,bánh tráng cuốn có vị đắng.
+Đồ ăn tươi nhưng nấu không ngon.,neutral,1,đồ ăn tươi nhưng nấu không ngon.
+"Bò né nóng hổi, ăn kèm bánh mì giòn tan.",positive,2,"bò né nóng hổi, ăn kèm bánh mì giòn tan."
+Nước lèo quá nhiều bột ngọt.,negative,0,nước lèo quá nhiều bột ngọt.
+Quán có nhiều loại topping cho trà sữa.,positive,2,quán có nhiều loại topping cho trà sữa.
+Món gỏi cuốn bị khô.,negative,0,món gỏi cuốn bị khô.
+Hôm đó ăn hơi bị ít thịt.,neutral,1,hôm đó ăn hơi bị ít thịt.
+Sẽ quay lại quán này nhiều lần nữa.,positive,2,sẽ quay lại quán này nhiều lần nữa.
+Thái độ nhân viên cau có.,negative,0,thái độ nhân viên cau có.
+Món ăn hợp khẩu vị mình.,positive,2,món ăn hợp khẩu vị mình.
+Quán hơi khó tìm đường.,neutral,1,quán hơi khó tìm đường.
+Lẩu riêu cua bị chua.,negative,0,lẩu riêu cua bị chua.
+Cà phê pha đậm đà.,positive,2,cà phê pha đậm đà.
+Bàn ghế dính bẩn.,negative,0,bàn ghế dính bẩn.
+Món tráng miệng ổn.,neutral,1,món tráng miệng ổn.
+Phục vụ tận tình.,positive,2,phục vụ tận tình.
+Món ăn quá nhạt.,negative,0,món ăn quá nhạt.
+Nước uống ngon.,positive,2,nước uống ngon.
+Giá hơi mắc.,neutral,1,giá hơi mắc.
+Thịt bị hôi.,negative,0,thịt bị hôi.
+Quán sạch sẽ.,positive,2,quán sạch sẽ.
+Bị tính tiền sai.,negative,0,bị tính tiền sai.
+Món ăn ra nhanh.,positive,2,món ăn ra nhanh.
+Ăn tạm được.,neutral,1,ăn tạm được.
+Chủ quán khó tính.,negative,0,chủ quán khó tính.
+Rất đáng tiền.,positive,2,rất đáng tiền.
+Chỗ gửi xe chật.,negative,0,chỗ gửi xe chật.
+Món bún ngon.,positive,2,món bún ngon.
+Không gian đẹp.,positive,2,không gian đẹp.
+Mì gói cứng.,negative,0,mì gói cứng.
+Bánh ngọt ngon.,positive,2,bánh ngọt ngon.
+Hết chỗ.,negative,0,hết chỗ.
+Chỉ uống nước.,neutral,1,chỉ uống nước.
+Lẩu ngon lắm.,positive,2,lẩu ngon lắm.
+Rau héo.,negative,0,rau héo.
+Bánh ngon.,positive,2,bánh ngon.
+Đợi lâu.,negative,0,đợi lâu.
+Tạm ổn.,neutral,1,tạm ổn.
+Rất ngon.,positive,2,rất ngon.
+Dở ẹc.,negative,0,dở ẹc.
+Nên thử.,positive,2,nên thử.
+Hơi ít.,neutral,1,hơi ít.
+Mất tiền.,negative,0,mất tiền.
+Tuyệt vời.,positive,2,tuyệt vời.
+Món dở.,negative,0,món dở.
+Giá cao.,neutral,1,giá cao.
+Thích lắm.,positive,2,thích lắm.
+Quá dở.,negative,0,quá dở.
+Rẻ.,positive,2,rẻ.
+Hơi xa.,neutral,1,hơi xa.
+Cạch mặt.,negative,0,cạch mặt.
+Ngon.,positive,2,ngon.
+Bình thường.,neutral,1,bình thường.
+Bị lừa.,negative,0,bị lừa.
+Sẽ mua.,positive,2,sẽ mua.
+Không ngon.,negative,0,không ngon.
+Vừa miệng.,neutral,1,vừa miệng.
+Ngon cực.,positive,2,ngon cực.
+Quá tệ.,negative,0,quá tệ.
+Giá mềm.,positive,2,giá mềm.
+Hơi cay.,neutral,1,hơi cay.
+Mất thời gian.,negative,0,mất thời gian.
+Rất hài lòng.,positive,2,rất hài lòng.
+Chỗ ngồi bẩn.,negative,0,chỗ ngồi bẩn.
+Tạm chấp nhận.,neutral,1,tạm chấp nhận.
+Ngọt.,positive,2,ngọt.
+Thịt mỡ.,negative,0,thịt mỡ.
+Tuyệt.,positive,2,tuyệt.
+Sạch sẽ.,neutral,1,sạch sẽ.
+Không đủ.,negative,0,không đủ.
+Xuất sắc.,positive,2,xuất sắc.
+Quá mặn.,negative,0,quá mặn.
+Thoáng.,neutral,1,thoáng.
+Nên ăn.,positive,2,nên ăn.
+"Giao hàng nhanh thật, mới 2 tuần đã nhận được. Quá ấn tượng.",negative,0,"giao hàng nhanh thật, mới 2 tuần đã nhận được. quá ấn tượng."
+"Sản phẩm tốt, nhưng dịch vụ vận chuyển thì nên xem lại, hộp móp hết.",neutral,1,"sản phẩm tốt, nhưng dịch vụ vận chuyển thì nên xem lại, hộp móp hết."
+Vải bị xù lông chỉ sau một lần giặt. Chất lượng quá tệ.,negative,0,vải bị xù lông chỉ sau một lần giặt. chất lượng quá tệ.
+Tôi không nghĩ là với giá này có thể mua được sản phẩm tốt như vậy.,positive,2,tôi không nghĩ là với giá này có thể mua được sản phẩm tốt như vậy.
+"Màn hình có một điểm chết nhỏ xíu, nhưng thôi không ảnh hưởng lắm.",neutral,1,"màn hình có một điểm chết nhỏ xíu, nhưng thôi không ảnh hưởng lắm."
+"Đã nhận hàng. Đóng gói rất kỹ. Bọc 3 lớp, mở mệt luôn.",positive,2,"đã nhận hàng. đóng gói rất kỹ. bọc 3 lớp, mở mệt luôn."
+Chất lượng âm thanh còn tốt hơn cái tai nghe cũ đắt gấp đôi của tôi.,positive,2,chất lượng âm thanh còn tốt hơn cái tai nghe cũ đắt gấp đôi của tôi.
+Shop hứa tặng quà mà chả thấy quà đâu. Làm ăn không giữ chữ tín.,negative,0,shop hứa tặng quà mà chả thấy quà đâu. làm ăn không giữ chữ tín.
+"Cũng được, dùng làm máy phụ thì ổn.",neutral,1,"cũng được, dùng làm máy phụ thì ổn."
+Sản phẩm này là một sự lãng phí tiền bạc. Đừng ai mua.,negative,0,sản phẩm này là một sự lãng phí tiền bạc. đừng ai mua.
+Màu sắc ở ngoài còn đẹp hơn trong ảnh. Rất ưng.,positive,2,màu sắc ở ngoài còn đẹp hơn trong ảnh. rất ưng.
+"Sản phẩm dùng nóng máy, không biết có an toàn không.",negative,0,"sản phẩm dùng nóng máy, không biết có an toàn không."
+So với cái cũ thì cái này dùng thích hơn hẳn.,positive,2,so với cái cũ thì cái này dùng thích hơn hẳn.
+"Chưa dùng nên chưa đánh giá chất lượng, nhưng giao hàng rất nhanh.",neutral,1,"chưa dùng nên chưa đánh giá chất lượng, nhưng giao hàng rất nhanh."
+Lừa đảo. Quảng cáo 500GB mà về có 50GB. Yêu cầu hoàn tiền.,negative,0,lừa đảo. quảng cáo 500gb mà về có 50gb. yêu cầu hoàn tiền.
+"Thiết kế thông minh, tiết kiệm diện tích. Rất hài lòng.",positive,2,"thiết kế thông minh, tiết kiệm diện tích. rất hài lòng."
+"Mùi hơi nồng, nhưng chắc vài hôm là hết.",neutral,1,"mùi hơi nồng, nhưng chắc vài hôm là hết."
+Hàng về không hoạt động. Shop bắt tôi tự mang đi bảo hành. Quá tệ.,negative,0,hàng về không hoạt động. shop bắt tôi tự mang đi bảo hành. quá tệ.
+"Shop gói hàng cẩn thận, có thư cảm ơn viết tay. Cảm động.",positive,2,"shop gói hàng cẩn thận, có thư cảm ơn viết tay. cảm động."
+"Chất lượng thì bình thường, được cái giá rẻ.",neutral,1,"chất lượng thì bình thường, được cái giá rẻ."
+Hàng dỏm. Dùng được 1 ngày thì bung chỉ.,negative,0,hàng dỏm. dùng được 1 ngày thì bung chỉ.
+Hoạt động hoàn hảo. Cắm điện là chạy. Rất dễ sử dụng.,positive,2,hoạt động hoàn hảo. cắm điện là chạy. rất dễ sử dụng.
+Chờ shop phản hồi tin nhắn chắc tới mùa quýt.,negative,0,chờ shop phản hồi tin nhắn chắc tới mùa quýt.
+"Kích thước vừa vặn, chất liệu co giãn tốt, mặc rất thoải mái.",positive,2,"kích thước vừa vặn, chất liệu co giãn tốt, mặc rất thoải mái."
+"Hơi thất vọng, không tốt như mong đợi của tôi.",neutral,1,"hơi thất vọng, không tốt như mong đợi của tôi."
+"Sản phẩm bị lỗi, shop đã đổi cái mới rất nhanh, không lằng nhằng.",positive,2,"sản phẩm bị lỗi, shop đã đổi cái mới rất nhanh, không lằng nhằng."
+Hàng về vỡ tan tành. Yêu cầu shop giải quyết.,negative,0,hàng về vỡ tan tành. yêu cầu shop giải quyết.
+"Cũng được, không có gì để chê.",neutral,1,"cũng được, không có gì để chê."
+Sản phẩm này là một sự thay đổi cuộc chơi. Rất đáng tiền.,positive,2,sản phẩm này là một sự thay đổi cuộc chơi. rất đáng tiền.
+"Hàng giao sai màu, sai kích cỡ. Shop làm ăn ẩu quá.",negative,0,"hàng giao sai màu, sai kích cỡ. shop làm ăn ẩu quá."
+"Pin trâu thật, dùng 2 ngày chưa hết pin.",positive,2,"pin trâu thật, dùng 2 ngày chưa hết pin."
+"Mới dùng thử, thấy cũng tạm, để xem độ bền thế nào.",neutral,1,"mới dùng thử, thấy cũng tạm, để xem độ bền thế nào."
+Hàng fake. Nhìn đường may là biết. Đừng ai bị lừa.,negative,0,hàng fake. nhìn đường may là biết. đừng ai bị lừa.
+Dịch vụ 5 sao. Từ tư vấn đến hậu mãi đều rất tốt.,positive,2,dịch vụ 5 sao. từ tư vấn đến hậu mãi đều rất tốt.
+"Sản phẩm không có hướng dẫn sử dụng tiếng Việt, hơi bất tiện.",neutral,1,"sản phẩm không có hướng dẫn sử dụng tiếng việt, hơi bất tiện."
+"Chất lượng quá kém, không xứng đáng với giá tiền.",negative,0,"chất lượng quá kém, không xứng đáng với giá tiền."
+Rất ưng ý. Sẽ tiếp tục ủng hộ shop.,positive,2,rất ưng ý. sẽ tiếp tục ủng hộ shop.
+"Giao hàng thì nhanh, nhưng sản phẩm bị trầy xước.",negative,0,"giao hàng thì nhanh, nhưng sản phẩm bị trầy xước."
+"Nhìn chung là ổn, không có gì phàn nàn.",neutral,1,"nhìn chung là ổn, không có gì phàn nàn."
+Shop giao hàng nhanh như điện. Hôm qua đặt hôm nay có.,positive,2,shop giao hàng nhanh như điện. hôm qua đặt hôm nay có.
+Sản phẩm không có tác dụng gì. Dùng như không dùng.,negative,0,sản phẩm không có tác dụng gì. dùng như không dùng.
+"Chất lượng gia công tốt, các chi tiết sắc nét.",positive,2,"chất lượng gia công tốt, các chi tiết sắc nét."
+Giá này mà đòi hỏi gì hơn. Tạm chấp nhận được.,neutral,1,giá này mà đòi hỏi gì hơn. tạm chấp nhận được.
+"Hàng về thiếu ốc vít, không lắp được. Liên hệ shop ngay.",negative,0,"hàng về thiếu ốc vít, không lắp được. liên hệ shop ngay."
+Sản phẩm này là một sự đầu tư thông minh. Rất hiệu quả.,positive,2,sản phẩm này là một sự đầu tư thông minh. rất hiệu quả.
+"Hơi khó dùng cho người mới, nhưng quen rồi thì rất tiện.",neutral,1,"hơi khó dùng cho người mới, nhưng quen rồi thì rất tiện."
+Quá thất vọng. Hàng không giống hình.,negative,0,quá thất vọng. hàng không giống hình.
+"Đóng gói sản phẩm rất chắc chắn, không sợ móp méo.",positive,2,"đóng gói sản phẩm rất chắc chắn, không sợ móp méo."
+Mua về không dùng được. Shop không cho đổi trả.,negative,0,mua về không dùng được. shop không cho đổi trả.
+"Chất lượng vừa phải, phù hợp với túi tiền.",neutral,1,"chất lượng vừa phải, phù hợp với túi tiền."
+"Vải đẹp, may kỹ, form chuẩn. Rất đáng tiền.",positive,2,"vải đẹp, may kỹ, form chuẩn. rất đáng tiền."
+"Máy chạy kêu quá to, ảnh hưởng đến người xung quanh.",negative,0,"máy chạy kêu quá to, ảnh hưởng đến người xung quanh."
+Dùng 1 tháng rồi mọi thứ vẫn tốt. Sẽ mua lại.,positive,2,dùng 1 tháng rồi mọi thứ vẫn tốt. sẽ mua lại.
+"Đã nhận hàng. Đúng mẫu mã, đúng số lượng.",neutral,1,"đã nhận hàng. đúng mẫu mã, đúng số lượng."
+"Sản phẩm bị lỗi, shop đã hỗ trợ đổi trả rất nhanh.",positive,2,"sản phẩm bị lỗi, shop đã hỗ trợ đổi trả rất nhanh."
+Hàng hết hạn sử dụng. Shop làm ăn cẩu thả quá.,negative,0,hàng hết hạn sử dụng. shop làm ăn cẩu thả quá.
+"Cũng bình thường, không thần thánh như quảng cáo.",neutral,1,"cũng bình thường, không thần thánh như quảng cáo."
+Sản phẩm này là một nỗi thất vọng lớn.,negative,0,sản phẩm này là một nỗi thất vọng lớn.
+Rất hài lòng. Sẽ giới thiệu cho bạn bè.,positive,2,rất hài lòng. sẽ giới thiệu cho bạn bè.
+"Chất lượng không ổn định. Mua 2 lần, 1 lần tốt, 1 lần tệ.",neutral,1,"chất lượng không ổn định. mua 2 lần, 1 lần tốt, 1 lần tệ."
+"Hàng về vỡ 1 góc, chắc do vận chuyển. Shop nên bọc kỹ hơn.",negative,0,"hàng về vỡ 1 góc, chắc do vận chuyển. shop nên bọc kỹ hơn."
+"Shop tư vấn nhiệt tình, kiên nhẫn. Rất chuyên nghiệp.",positive,2,"shop tư vấn nhiệt tình, kiên nhẫn. rất chuyên nghiệp."
+"Màu sắc không tươi như ảnh, hơi bị xỉn màu.",neutral,1,"màu sắc không tươi như ảnh, hơi bị xỉn màu."
+Sản phẩm dỏm. Dùng được 3 hôm là hỏng.,negative,0,sản phẩm dỏm. dùng được 3 hôm là hỏng.
+Hoàn hảo. Không có điểm gì để chê.,positive,2,hoàn hảo. không có điểm gì để chê.
+Giao hàng trễ hẹn làm lỡ việc của tôi.,negative,0,giao hàng trễ hẹn làm lỡ việc của tôi.
+"Mùi thơm, dễ chịu. Dùng rất thư giãn.",positive,2,"mùi thơm, dễ chịu. dùng rất thư giãn."
+"Tôi thấy chất lượng cũng được, không đến nỗi tệ.",neutral,1,"tôi thấy chất lượng cũng được, không đến nỗi tệ."
+"Đóng gói sơ sài, hộp rách nát. May mà hàng không sao.",neutral,1,"đóng gói sơ sài, hộp rách nát. may mà hàng không sao."
+Shop bán hàng fake. Yêu cầu hoàn tiền ngay lập tức.,negative,0,shop bán hàng fake. yêu cầu hoàn tiền ngay lập tức.
+Sản phẩm vượt ngoài mong đợi. Quá xịn.,positive,2,sản phẩm vượt ngoài mong đợi. quá xịn.
+"Chất vải nóng, mặc bí, không thấm mồ hôi.",negative,0,"chất vải nóng, mặc bí, không thấm mồ hôi."
+Tạm hài lòng. Hy vọng dùng bền.,neutral,1,tạm hài lòng. hy vọng dùng bền.
+"Shop giao nhầm size. Đổi trả lằng nhằng, mất thời gian.",negative,0,"shop giao nhầm size. đổi trả lằng nhằng, mất thời gian."
+"Thiết kế đẹp, tinh tế, nhìn rất sang trọng.",positive,2,"thiết kế đẹp, tinh tế, nhìn rất sang trọng."
+Sản phẩm bị rỉ sét. Hàng cũ à?,negative,0,sản phẩm bị rỉ sét. hàng cũ à?
+Hơi nhỏ so với tưởng tượng của tôi.,neutral,1,hơi nhỏ so với tưởng tượng của tôi.
+"Shop bán hàng có tâm, check code ra hàng chuẩn.",positive,2,"shop bán hàng có tâm, check code ra hàng chuẩn."
+Pin yếu. Dùng chưa được 1 tiếng đã hết.,negative,0,pin yếu. dùng chưa được 1 tiếng đã hết.
+"Mới dùng thử, thấy cũng ổn.",neutral,1,"mới dùng thử, thấy cũng ổn."
+"Làm ăn vô trách nhiệm. Giao hàng thiếu, báo shop không thèm trả lời.",negative,0,"làm ăn vô trách nhiệm. giao hàng thiếu, báo shop không thèm trả lời."
+Dịch vụ tuyệt vời. Giao hàng nhanh. Sản phẩm chất lượng.,positive,2,dịch vụ tuyệt vời. giao hàng nhanh. sản phẩm chất lượng.
+Thái độ nhân viên giao hàng rất tệ. Yêu cầu shop làm việc lại.,negative,0,thái độ nhân viên giao hàng rất tệ. yêu cầu shop làm việc lại.
+Chất lượng âm thanh ổn so với giá tiền.,neutral,1,chất lượng âm thanh ổn so với giá tiền.
+"Vải đẹp, không bị nhăn, mặc lên rất đứng form.",positive,2,"vải đẹp, không bị nhăn, mặc lên rất đứng form."
+"Hàng bị lỗi, shop đã gửi bù cái mới ngay. Rất uy tín.",positive,2,"hàng bị lỗi, shop đã gửi bù cái mới ngay. rất uy tín."
+Hàng về không hoạt động. Shop bắt tôi quay video. Rất phiền phức.,negative,0,hàng về không hoạt động. shop bắt tôi quay video. rất phiền phức.
+Sản phẩm cũng bình thường. Không có gì đặc sắc.,neutral,1,sản phẩm cũng bình thường. không có gì đặc sắc.
+Mua về không dùng được. Phí tiền.,negative,0,mua về không dùng được. phí tiền.
+Rất đáng tiền. Sản phẩm hoàn thiện tốt.,positive,2,rất đáng tiền. sản phẩm hoàn thiện tốt.
+"Giao hàng lâu, shop ngâm đơn 5 ngày.",negative,0,"giao hàng lâu, shop ngâm đơn 5 ngày."
+"Đóng gói tạm được, hộp hơi móp méo.",neutral,1,"đóng gói tạm được, hộp hơi móp méo."
+Shop này lừa đảo. Mọi người cẩn thận.,negative,0,shop này lừa đảo. mọi người cẩn thận.
+Sản phẩm này là cứu cánh của tôi. Rất hiệu quả.,positive,2,sản phẩm này là cứu cánh của tôi. rất hiệu quả.
+Chất lượng thì cũng được nhưng giá này là hơi chát.,neutral,1,chất lượng thì cũng được nhưng giá này là hơi chát.
+Hàng về sai mẫu. Nhắn tin shop không trả lời.,negative,0,hàng về sai mẫu. nhắn tin shop không trả lời.
+Dùng rất êm. Sẽ mua lại khi dùng hết.,positive,2,dùng rất êm. sẽ mua lại khi dùng hết.
+"Quảng cáo 1 đằng, giao hàng 1 nẻo. Không chấp nhận được.",negative,0,"quảng cáo 1 đằng, giao hàng 1 nẻo. không chấp nhận được."
+"Đã nhận hàng, đúng mô tả. Còn chất lượng phải dùng mới biết.",neutral,1,"đã nhận hàng, đúng mô tả. còn chất lượng phải dùng mới biết."
+"Sản phẩm tốt, giao hàng nhanh. 10 điểm.",positive,2,"sản phẩm tốt, giao hàng nhanh. 10 điểm."
+Hạn sử dụng còn có 1 tháng. Bán hàng kiểu gì vậy?,negative,0,hạn sử dụng còn có 1 tháng. bán hàng kiểu gì vậy?
+Nhìn chung là hài lòng. Sẽ ủng hộ shop tiếp.,positive,2,nhìn chung là hài lòng. sẽ ủng hộ shop tiếp.
+"Giá rẻ, dùng tạm. Hỏng thì vứt.",neutral,1,"giá rẻ, dùng tạm. hỏng thì vứt."
+Hàng về vỡ nát. Shop không chịu trách nhiệm.,negative,0,hàng về vỡ nát. shop không chịu trách nhiệm.
+Sản phẩm này là một sự đầu tư xứng đáng.,positive,2,sản phẩm này là một sự đầu tư xứng đáng.
+Mùi nhựa nồng nặc. Không biết có an toàn cho sức khoẻ không.,negative,0,mùi nhựa nồng nặc. không biết có an toàn cho sức khoẻ không.
+"Hơi khó lắp ráp, mất cả buổi sáng.",neutral,1,"hơi khó lắp ráp, mất cả buổi sáng."
+Shop giao thiếu hàng. Đã báo mà 3 ngày chưa thấy gửi bù.,negative,0,shop giao thiếu hàng. đã báo mà 3 ngày chưa thấy gửi bù.
+"Vải mát, mịn, mặc thích lắm.",positive,2,"vải mát, mịn, mặc thích lắm."
+Chất lượng không ổn định. Cái được cái không.,neutral,1,chất lượng không ổn định. cái được cái không.
+Hàng fake. Đã check. Yêu cầu hoàn tiền.,negative,0,hàng fake. đã check. yêu cầu hoàn tiền.
+Rất hài lòng về cách shop xử lý khiếu nại. Rất chuyên nghiệp.,positive,2,rất hài lòng về cách shop xử lý khiếu nại. rất chuyên nghiệp.
+Pin tụt nhanh quá. Sạc cả đêm dùng được 2 tiếng.,negative,0,pin tụt nhanh quá. sạc cả đêm dùng được 2 tiếng.
+Đóng gói cẩn thận. Giao hàng nhanh. Chất lượng chờ thời gian.,neutral,1,đóng gói cẩn thận. giao hàng nhanh. chất lượng chờ thời gian.
+Sản phẩm xịn xò. Vượt mong đợi.,positive,2,sản phẩm xịn xò. vượt mong đợi.
+Hàng về không dùng được. Đèn không sáng.,negative,0,hàng về không dùng được. đèn không sáng.
+Cũng được. Không có gì để chê.,neutral,1,cũng được. không có gì để chê.
+Shop tư vấn sai size. Giờ mặc không vừa.,negative,0,shop tư vấn sai size. giờ mặc không vừa.
+Sản phẩm tốt. Giao hàng nhanh. Sẽ giới thiệu bạn bè.,positive,2,sản phẩm tốt. giao hàng nhanh. sẽ giới thiệu bạn bè.
+Chất lượng quá kém. Dùng 1 lần là hỏng.,negative,0,chất lượng quá kém. dùng 1 lần là hỏng.
+"Mọi thứ đều ổn, từ đóng gói đến sản phẩm.",neutral,1,"mọi thứ đều ổn, từ đóng gói đến sản phẩm."
+Lừa đảo. Hàng không giống hình. Yêu cầu trả hàng.,negative,0,lừa đảo. hàng không giống hình. yêu cầu trả hàng.
+Sản phẩm này là một sự thất vọng lớn.,negative,0,sản phẩm này là một sự thất vọng lớn.
+"Thiết kế đẹp, hoàn thiện tốt. Rất ưng.",positive,2,"thiết kế đẹp, hoàn thiện tốt. rất ưng."
+Giá hơi cao so với chất lượng.,neutral,1,giá hơi cao so với chất lượng.
+Hàng bị trầy xước. Shop kiểm tra hàng không kỹ.,negative,0,hàng bị trầy xước. shop kiểm tra hàng không kỹ.
+Rất đáng tiền. Sản phẩm dùng rất hiệu quả.,positive,2,rất đáng tiền. sản phẩm dùng rất hiệu quả.
+Đã nhận hàng. Đang sạc. Hy vọng dùng tốt.,neutral,1,đã nhận hàng. đang sạc. hy vọng dùng tốt.
+Giao hàng thì nhanh thật nhưng sản phẩm móp méo.,negative,0,giao hàng thì nhanh thật nhưng sản phẩm móp méo.
+Chất lượng âm thanh quá tệ. Rè và nhỏ.,negative,0,chất lượng âm thanh quá tệ. rè và nhỏ.
+"Sản phẩm tốt, đúng như quảng cáo. Rất hài lòng.",positive,2,"sản phẩm tốt, đúng như quảng cáo. rất hài lòng."
+"Nhân viên giao hàng thái độ cộc lốc, khó chịu.",negative,0,"nhân viên giao hàng thái độ cộc lốc, khó chịu."
+Chất lượng vừa phải. Tầm giá này là ổn.,neutral,1,chất lượng vừa phải. tầm giá này là ổn.
+Sản phẩm này là hàng nhái. Đừng ai mua.,negative,0,sản phẩm này là hàng nhái. đừng ai mua.
+"Đóng gói siêu kỹ, mở mệt luôn. Shop cẩn thận.",positive,2,"đóng gói siêu kỹ, mở mệt luôn. shop cẩn thận."
+"Màu sắc không giống hình, ở ngoài tối hơn nhiều.",neutral,1,"màu sắc không giống hình, ở ngoài tối hơn nhiều."
+Hàng về vỡ tan tành. Do vận chuyển hay do shop?,negative,0,hàng về vỡ tan tành. do vận chuyển hay do shop?
+Dịch vụ 5 sao. Shop hỗ trợ rất nhiệt tình.,positive,2,dịch vụ 5 sao. shop hỗ trợ rất nhiệt tình.
+Vải mỏng dính. Nhìn thấy cả bên trong.,negative,0,vải mỏng dính. nhìn thấy cả bên trong.
+Tạm được. Không có gì đặc sắc.,neutral,1,tạm được. không có gì đặc sắc.
+Sản phẩm không có tem mác. Không rõ nguồn gốc.,negative,0,sản phẩm không có tem mác. không rõ nguồn gốc.
+Rất ưng ý. Sẽ mua thêm cho gia đình.,positive,2,rất ưng ý. sẽ mua thêm cho gia đình.
+"Hàng giao sai mẫu, sai màu. Shop làm ăn cẩu thả.",negative,0,"hàng giao sai mẫu, sai màu. shop làm ăn cẩu thả."
+Đã nhận hàng. Đúng mô tả. Dùng thử thấy cũng được.,neutral,1,đã nhận hàng. đúng mô tả. dùng thử thấy cũng được.
+Hoàn toàn không đáng tiền. Phí tiền.,negative,0,hoàn toàn không đáng tiền. phí tiền.
+"Sản phẩm xịn, dùng êm. Rất thích.",positive,2,"sản phẩm xịn, dùng êm. rất thích."
+Hàng về thiếu phụ kiện. Liên hệ shop không trả lời.,negative,0,hàng về thiếu phụ kiện. liên hệ shop không trả lời.
+Chất lượng thì bình thường. Được cái giao hàng nhanh.,neutral,1,chất lượng thì bình thường. được cái giao hàng nhanh.
+Lừa đảo. Hàng giả. Yêu cầu hoàn tiền.,negative,0,lừa đảo. hàng giả. yêu cầu hoàn tiền.
+"Shop tư vấn nhiệt tình, giao hàng nhanh. Sẽ ủng hộ.",positive,2,"shop tư vấn nhiệt tình, giao hàng nhanh. sẽ ủng hộ."
+Sản phẩm không có tác dụng gì. Bôi như không bôi.,negative,0,sản phẩm không có tác dụng gì. bôi như không bôi.
+Mọi thứ đều ổn. Không có gì phàn nàn.,neutral,1,mọi thứ đều ổn. không có gì phàn nàn.
+"Rất hài lòng. Sản phẩm hoàn thiện tốt, chắc chắn.",positive,2,"rất hài lòng. sản phẩm hoàn thiện tốt, chắc chắn."
+"Máy chạy kêu to, nóng. Không dám dùng lâu.",negative,0,"máy chạy kêu to, nóng. không dám dùng lâu."
+Cũng được. Giá này thì chất lượng vậy là hợp lý.,neutral,1,cũng được. giá này thì chất lượng vậy là hợp lý.
+Hàng hết hạn. Shop làm ăn vô lương tâm.,negative,0,hàng hết hạn. shop làm ăn vô lương tâm.
+Sản phẩm này là một sự đầu tư xứng đáng.,positive,2,sản phẩm này là một sự đầu tư xứng đáng.
+"Hơi khó dùng, phải mày mò một lúc.",neutral,1,"hơi khó dùng, phải mày mò một lúc."
+Giao hàng quá lâu. Hủy đơn thì không cho.,negative,0,giao hàng quá lâu. hủy đơn thì không cho.
+"Shop bán hàng chuẩn, check code ra. Rất yên tâm.",positive,2,"shop bán hàng chuẩn, check code ra. rất yên tâm."
+Pin yếu. Dùng chưa được 2 tiếng đã sập nguồn.,negative,0,pin yếu. dùng chưa được 2 tiếng đã sập nguồn.
+"Chất lượng tạm ổn, phù hợp với học sinh sinh viên.",neutral,1,"chất lượng tạm ổn, phù hợp với học sinh sinh viên."
+Hàng về vỡ nát. Yêu cầu shop giải quyết.,negative,0,hàng về vỡ nát. yêu cầu shop giải quyết.
+Rất hài lòng. Sẽ giới thiệu bạn bè.,positive,2,rất hài lòng. sẽ giới thiệu bạn bè.
+"Chất lượng không ổn định. Cái thì tốt, cái thì dỏm.",neutral,1,"chất lượng không ổn định. cái thì tốt, cái thì dỏm."
+Hàng fake. Nhìn đường may là biết.,negative,0,hàng fake. nhìn đường may là biết.
+"Sản phẩm tốt, giao hàng nhanh. 10 điểm.",positive,2,"sản phẩm tốt, giao hàng nhanh. 10 điểm."
+"Sản phẩm bị lỗi, shop đã đổi cái mới rất nhanh. Uy tín.",positive,2,"sản phẩm bị lỗi, shop đã đổi cái mới rất nhanh. uy tín."
+Hàng về không hoạt động. Shop không chịu bảo hành.,negative,0,hàng về không hoạt động. shop không chịu bảo hành.
+Cũng bình thường. Không thần thánh như quảng cáo.,neutral,1,cũng bình thường. không thần thánh như quảng cáo.
+What a scam. Product doesn't work.,negative,0,what a scam. product doesn t work.
+Mua về không dùng được. Phí tiền.,negative,0,mua về không dùng được. phí tiền.
+Sản phẩm này là một sự thất vọng lớn.,negative,0,sản phẩm này là một sự thất vọng lớn.
+Rất đáng tiền. Sản phẩm dùng rất hiệu quả.,positive,2,rất đáng tiền. sản phẩm dùng rất hiệu quả.
+"Đóng gói tạm được, hộp hơi móp.",neutral,1,"đóng gói tạm được, hộp hơi móp."
+Hàng về trầy xước. Shop kiểm tra hàng không kỹ.,negative,0,hàng về trầy xước. shop kiểm tra hàng không kỹ.
+Dịch vụ tuyệt vời. Giao hàng nhanh. Sản phẩm chất lượng.,positive,2,dịch vụ tuyệt vời. giao hàng nhanh. sản phẩm chất lượng.
+Giá hơi cao so với chất lượng.,neutral,1,giá hơi cao so với chất lượng.
+Giao hàng thì nhanh thật nhưng sản phẩm móp méo.,negative,0,giao hàng thì nhanh thật nhưng sản phẩm móp méo.
+Chất lượng âm thanh quá tệ. Rè và nhỏ.,negative,0,chất lượng âm thanh quá tệ. rè và nhỏ.
+"Sản phẩm tốt, đúng như quảng cáo. Rất hài lòng.",positive,2,"sản phẩm tốt, đúng như quảng cáo. rất hài lòng."
+"Nhân viên giao hàng thái độ cộc lốc, khó chịu.",negative,0,"nhân viên giao hàng thái độ cộc lốc, khó chịu."
+Chất lượng vừa phải. Tầm giá này là ổn.,neutral,1,chất lượng vừa phải. tầm giá này là ổn.
+Sản phẩm này là hàng nhái. Đừng ai mua.,negative,0,sản phẩm này là hàng nhái. đừng ai mua.
+"Đóng gói siêu kỹ, mở mệt luôn. Shop cẩn thận.",positive,2,"đóng gói siêu kỹ, mở mệt luôn. shop cẩn thận."
+"Màu sắc không giống hình, ở ngoài tối hơn nhiều.",neutral,1,"màu sắc không giống hình, ở ngoài tối hơn nhiều."
+Hàng về vỡ tan tành. Do vận chuyển hay do shop?,negative,0,hàng về vỡ tan tành. do vận chuyển hay do shop?
+Dịch vụ 5 sao. Shop hỗ trợ rất nhiệt tình.,positive,2,dịch vụ 5 sao. shop hỗ trợ rất nhiệt tình.
+Vải mỏng dính. Nhìn thấy cả bên trong.,negative,0,vải mỏng dính. nhìn thấy cả bên trong.
+Tạm được. Không có gì đặc sắc.,neutral,1,tạm được. không có gì đặc sắc.
+Sản phẩm không có tem mác. Không rõ nguồn gốc.,negative,0,sản phẩm không có tem mác. không rõ nguồn gốc.
+Rất ưng ý. Sẽ mua thêm cho gia đình.,positive,2,rất ưng ý. sẽ mua thêm cho gia đình.
+"Hàng giao sai mẫu, sai màu. Shop làm ăn cẩu thả.",negative,0,"hàng giao sai mẫu, sai màu. shop làm ăn cẩu thả."
+Đã nhận hàng. Đúng mô tả. Dùng thử thấy cũng được.,neutral,1,đã nhận hàng. đúng mô tả. dùng thử thấy cũng được.
+Hoàn toàn không đáng tiền. Phí tiền.,negative,0,hoàn toàn không đáng tiền. phí tiền.
+"Sản phẩm xịn, dùng êm. Rất thích.",positive,2,"sản phẩm xịn, dùng êm. rất thích."
+Hàng về thiếu phụ kiện. Liên hệ shop không trả lời.,negative,0,hàng về thiếu phụ kiện. liên hệ shop không trả lời.
+Chất lượng thì bình thường. Được cái giao hàng nhanh.,neutral,1,chất lượng thì bình thường. được cái giao hàng nhanh.
+Lừa đảo. Hàng giả. Yêu cầu hoàn tiền.,negative,0,lừa đảo. hàng giả. yêu cầu hoàn tiền.
+"Shop tư vấn nhiệt tình, giao hàng nhanh. Sẽ ủng hộ.",positive,2,"shop tư vấn nhiệt tình, giao hàng nhanh. sẽ ủng hộ."
+Sản phẩm không có tác dụng gì. Bôi như không bôi.,negative,0,sản phẩm không có tác dụng gì. bôi như không bôi.
+Mọi thứ đều ổn. Không có gì phàn nàn.,neutral,1,mọi thứ đều ổn. không có gì phàn nàn.
+"Rất hài lòng. Sản phẩm hoàn thiện tốt, chắc chắn.",positive,2,"rất hài lòng. sản phẩm hoàn thiện tốt, chắc chắn."
+"Máy chạy kêu to, nóng. Không dám dùng lâu.",negative,0,"máy chạy kêu to, nóng. không dám dùng lâu."
+Cũng được. Giá này thì chất lượng vậy là hợp lý.,neutral,1,cũng được. giá này thì chất lượng vậy là hợp lý.
+Hàng hết hạn. Shop làm ăn vô lương tâm.,negative,0,hàng hết hạn. shop làm ăn vô lương tâm.
+Sản phẩm này là một sự đầu tư xứng đáng.,positive,2,sản phẩm này là một sự đầu tư xứng đáng.
+"Hơi khó dùng, phải mày mò một lúc.",neutral,1,"hơi khó dùng, phải mày mò một lúc."
+Giao hàng quá lâu. Hủy đơn thì không cho.,negative,0,giao hàng quá lâu. hủy đơn thì không cho.
+"Shop bán hàng chuẩn, check code ra. Rất yên tâm.",positive,2,"shop bán hàng chuẩn, check code ra. rất yên tâm."
+Pin yếu. Dùng chưa được 2 tiếng đã sập nguồn.,negative,0,pin yếu. dùng chưa được 2 tiếng đã sập nguồn.
+"Chất lượng tạm ổn, phù hợp với học sinh sinh viên.",neutral,1,"chất lượng tạm ổn, phù hợp với học sinh sinh viên."
+Hàng về vỡ nát. Yêu cầu shop giải quyết.,negative,0,hàng về vỡ nát. yêu cầu shop giải quyết.
+Rất hài lòng. Sẽ giới thiệu bạn bè.,positive,2,rất hài lòng. sẽ giới thiệu bạn bè.
+"Chất lượng không ổn định. Cái thì tốt, cái thì dỏm.",neutral,1,"chất lượng không ổn định. cái thì tốt, cái thì dỏm."
+Hàng fake. Nhìn đường may là biết.,negative,0,hàng fake. nhìn đường may là biết.
+"Sản phẩm tốt, giao hàng nhanh. 10 điểm.",positive,2,"sản phẩm tốt, giao hàng nhanh. 10 điểm."
+"Sản phẩm bị lỗi, shop đã đổi cái mới rất nhanh. Uy tín.",positive,2,"sản phẩm bị lỗi, shop đã đổi cái mới rất nhanh. uy tín."
+Hàng về không hoạt động. Shop không chịu bảo hành.,negative,0,hàng về không hoạt động. shop không chịu bảo hành.
+Cũng bình thường. Không thần thánh như quảng cáo.,neutral,1,cũng bình thường. không thần thánh như quảng cáo.
+Mua về không dùng được. Phí tiền.,negative,0,mua về không dùng được. phí tiền.
+Sản phẩm này là một sự thất vọng lớn.,negative,0,sản phẩm này là một sự thất vọng lớn.
+Rất đáng tiền. Sản phẩm dùng rất hiệu quả.,positive,2,rất đáng tiền. sản phẩm dùng rất hiệu quả.
+"Đóng gói tạm được, hộp hơi móp.",neutral,1,"đóng gói tạm được, hộp hơi móp."
