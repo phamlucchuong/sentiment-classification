@@ -1,5 +1,6 @@
 import joblib  # Hoặc import pickle nếu bạn dùng pickle
 import torch
+import numpy as np
 from transformers import AutoModel, AutoTokenizer
 
 # ======================================================================================
@@ -43,15 +44,16 @@ except Exception as e:
 # BƯỚC 2: Định nghĩa hàm xử lý và dự đoán
 # ======================================================================================
 
-def get_sentiment(text: str) -> str:
+def get_sentiment(text: str) -> dict:
     """
     Hàm này nhận một chuỗi văn bản thô, 
     trích xuất embedding từ PhoBERT,
     và dự đoán cảm xúc bằng mô hình Logistic Regression.
+    Trả về dictionary chứa nhãn dự đoán và xác suất cho cả 2 nhãn.
     """
     
     if lr_model is None or phobert_model is None or phobert_tokenizer is None:
-        return "Lỗi: Mô hình chưa được tải"
+        return {"error": "Mô hình chưa được tải"}
 
     try:
         # 1. Tokenize văn bản
@@ -85,21 +87,40 @@ def get_sentiment(text: str) -> str:
         # 3. Dự đoán bằng Logistic Regression
         # cls_embedding đang có shape (1, 768), sẵn sàng cho mô hình sklearn
         prediction = lr_model.predict(cls_embedding)
+        probabilities = lr_model.predict_proba(cls_embedding)
         
-        # 4. Trả về kết quả dạng text
-        # ---!!! CHỈNH SỬA NHÃN CỦA BẠN TẠI ĐÂY !!!---
-        # Ví dụ: nếu model của bạn trả về 0 (tiêu cực) và 1 (tích cực)
-        if prediction[0] == 2:
-            return "Tích cực"
-        elif prediction[0] == 0:
-            return "Tiêu cực"
-        else:
-            # Có thể model của bạn có nhiều nhãn hơn (ví dụ: trung tính)
-            return "Trung tính" # Hoặc "Không xác định"
+        # 4. Trả về kết quả dạng dictionary
+        # Lấy danh sách các nhãn từ model (ví dụ: [0, 2])
+        classes = lr_model.classes_
+        
+        # Ánh xạ nhãn số sang nhãn text
+        label_map = {
+            0: "NEGATIVE",
+            2: "POSITIVE"
+        }
+        
+        predicted_label = int(prediction[0])
+        
+        # Tìm index của nhãn dự đoán trong mảng classes
+        # Ví dụ: nếu prediction[0]=2 và classes=[0,2], thì index=1
+        predicted_index = np.where(classes == predicted_label)[0][0]
+        
+        # Tạo dictionary probabilities dựa trên classes thực tế
+        probs_dict = {}
+        for idx, class_label in enumerate(classes):
+            probs_dict[label_map.get(class_label, f"CLASS_{class_label}")] = float(probabilities[0][idx])
+        
+        result = {
+            "label": label_map.get(predicted_label, f"CLASS_{predicted_label}"),
+            "confidence": float(probabilities[0][predicted_index]),
+            "probabilities": probs_dict
+        }
+        
+        return result
 
     except Exception as e:
         print(f"Error during prediction: {e}")
-        return "Lỗi trong quá trình dự đoán"
+        return {"error": "Lỗi trong quá trình dự đoán"}
 
 # ======================================================================================
 # BƯỚC 3: Thử nghiệm (chạy trực tiếp file này)
@@ -111,5 +132,8 @@ if __name__ == "__main__":
     test_text_1 = "sản phẩm này tốt thật sự"
     test_text_2 = "giao hàng quá chậm, shop làm ăn chán đời"
     
-    print(f"Câu: '{test_text_1}' -> Cảm xúc: {get_sentiment(test_text_1)}")
-    print(f"Câu: '{test_text_2}' -> Cảm xúc: {get_sentiment(test_text_2)}")
+    print(f"Câu: '{test_text_1}'")
+    print(f"Kết quả: {get_sentiment(test_text_1)}\n")
+    
+    print(f"Câu: '{test_text_2}'")
+    print(f"Kết quả: {get_sentiment(test_text_2)}")
